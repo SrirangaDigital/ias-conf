@@ -3,123 +3,112 @@
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDiv">
-                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
+                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/academybldg.jpg">
                 <div class="OverlayTextMain">
                     <div class="mainpage">
-                        <h2>IIT Madras Heritage Centre</h2>
-                        <p>The Heritage Centre was formally inaugurated by Dr. Arcot Ramachandran, former Director of IIT Madras on 3rd March 2006. The Centre is located on the ground floor of the administration building. The actual idea of a Heritage Centre was mooted in the year 2000 and it became a reality due to the efforts of Dr. Ajit Kumar Kolar and his team. The Centre is a repository of material of heritage value and historical significance of various facets of the Institute.</p>
+                        <h2>82<sup>nd</sup> Annual Meeting</h2>
+                        <p>The Academy annually holds scientific meetings, symposia, public lectures for encouraging other similar activities in order to provide means of exchange of scientific knowledge among scientists and to bring new knowledge to the attention of the whole scientific community. Annually, the midyear meeting is organised during July and the Annual meeting in November. The Fellowship of the Academy, teachers and other invitees participate in these meetings. </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container" id="about">
-    <ul class="timeline">
-        <li>
-          <div class="timeline-badge">1956</div>
-          <!-- <div class="timeline-panel">
-            <div class="timeline-heading">
-              <h4 class="timeline-title">Mussum ipsum cacilds</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-            </div>
-            <div class="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-            </div>
-          </div> -->
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Visit of Prime Minister Jawaharlal Nehru to West Germany and the offer made to him by the Government of the Federal Republic of Germany to assist in the setting up of a higher technological institute in India.</p>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-inverted">
-          <div class="timeline-badge">1958</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>The signing of the first Indo-German agreement in Bonn, West Germany for the establishment of the Indian Institute of Technology at Madras.</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-badge">1959</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Formal inauguration of the Institute by Prof.Humayun Kabir, Union Minister for Scientific Research and Cultural Affairs, Dr.A.Lakshmanaswamy Mudaliar assumes office as the first Chairman of the Board of Governors of the Institute. Prof.B.Sengupto assumes office as the first Director of the Institute.</p>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-inverted">
-          <div class="timeline-badge">1961</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Declaration of the Institute by the Parliament of India as an institution of National importance.</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-badge">1962</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Visit to the Institute by Dr.Heinrich Lubke, President of the Federal Republic of Germany and the unveiling of a tablet symbolising the Indo-German technical assistance programme.</p>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-inverted">
-          <div class="timeline-badge">1967</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Dr. A. Ramachandran takes over as Director from Prof. B. Sengupto.</p>
-            </div>
-          </div>
-        </li>
-    </ul>
+<div class="container" id="home">
+    <div class="row">
+        <div class="col-md-12 gap-above">
+            <p class="text-right text-italic text-bold">“Nothing in science has any value to society if it is not communicated, and scientists are beginning to learn their social obligations.”<br />
+            — Anne Roe,The Making of a Scientist (1953)</p>
+        </div>
+    </div>        
+    <div class="row">
+        <div class="col-md-12 gap-above">
+            <p>The Indian Academy of Sciences(IASc), Bengaluru, through the many scientific meetings, symposia, and public lectures it organizes, aim to facilitate scientific exchange among researchers and highlight novel findings (both within the scientific community and common public). The Mid-year meetingorganised during July and the Annual meeting organised during November, are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and other invitees across the nation. The 82<sup>nd</sup> Annual Meeting of the Academy will take place during 4-6 November 2016 at IISER Bhopal, the meeting will include: lectures by newly elected Fellows/Associates, special lectures, two high level scientific symposia: one in honor of Professor Walter Kohn and the other on aspects of General Biology, and public lectures by eminent scholars from other fields of intellectual endeavour. The Business Meeting/ General Body Meeting of Fellows is scheduled on November 5,2016 at 4.00 p.m. </p>
+        </div>
+    </div>        
 </div>
-<div class="container-fluid stats" id="collection">
+<div class="container-fluid physical" id="speakers">
     <div class="row">
         <div class="col-md-12">
-            <h1>The Collection</h1>
-            <ul class="list-inline">
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/albums">
-                        <h2><i class="fa fa-image"></i></h2>
-                        <p>Photographs</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>Publications">
-                        <h2><i class="fa fa-book"></i></h2>
-                        <p>Publications</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="#">
-                        <h2><i class="fa fa-file-text-o"></i></h2>
-                        <p>Brochures</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="#">
-                        <h2><i class="fa fa-paint-brush"></i></h2>
-                       <p>Paintings</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="#">
-                        <h2><i class="fa fa-file-video-o"></i></h2>
-                       <p>Videos</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>Oral_History">
-                        <h2><i class="fa fa-volume-up"></i></h2>
-                        <p>Oral History</p>
-                    </a>
-                </li>
-            </ul>
+            <h1>Speakers</h1>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Anshu_Pandey.jpg" class="img-thumbnail" alt="Anshu Pandey" />
+             <figcaption class="figure-caption text-xs-right">Anshu Pandey</figcaption>
+        </div>
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Anukur_Kulkarni.jpg" class="img-thumbnail" alt="Anukur Kulkarni.jpg" />
+             <figcaption class="figure-caption text-xs-right">Anukur Kulkarni</figcaption>
+        </div>        
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Arun_Chattopadhyay.jpg" class="img-thumbnail" alt="Arun Chattopadhyay" />
+             <figcaption class="figure-caption text-xs-right">Arun Chattopadhyay</figcaption>
+        </div>        
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/B_Anand.jpg" class="img-thumbnail" alt="B Anand" />
+             <figcaption class="figure-caption text-xs-right">B Anand</figcaption>
+        </div>
+    </div>
+    <div class="row gap-above-large">
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/G_R_Tripathy.jpg" class="img-thumbnail" alt="G R Tripathy" />
+             <figcaption class="figure-caption text-xs-right">G R Tripathy</figcaption>
+        </div>        
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/K_P_Kaliappan.jpg" class="img-thumbnail" alt="K P Kaliappan" />
+             <figcaption class="figure-caption text-xs-right">K P Kaliappan</figcaption>
+        </div>        
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/N_Ravishankar.jpg" class="img-thumbnail" alt="N Ravishankar" />
+             <figcaption class="figure-caption text-xs-right">N Ravishankar</figcaption>
+        </div>
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Pradyut_Ghosh.jpg" class="img-thumbnail" alt="Pradyut Ghosh" />
+             <figcaption class="figure-caption text-xs-right">Pradyut Ghosh</figcaption>
+        </div>
+    </div>    
+    <div class="row gap-above-large">
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Sanjib_Agarwalla.jpg" class="img-thumbnail" alt="Sanjib Agarwalla" />
+             <figcaption class="figure-caption text-xs-right">Sanjib Agarwalla</figcaption>
+        </div>        
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/S_Ganesh.jpg" class="img-thumbnail" alt="S Ganesh" />
+             <figcaption class="figure-caption text-xs-right">S Ganesh</figcaption>
+        </div>        
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Tanusri_Sahadasgupta.jpg" class="img-thumbnail" alt="Tanusri Sahadasgupta" />
+             <figcaption class="figure-caption text-xs-right">Tanusri Sahadasgupta</figcaption>
+        </div>
+        <div class="col-md-3">
+             <img src="<?=PUBLIC_URL?>images/stock/Tirthankar_Bhattacharyya.jpg" class="img-thumbnail" alt="Tirthankar Bhattacharyya" />
+             <figcaption class="figure-caption text-xs-right">Tirthankar Bhattacharyya</figcaption>
+        </div>
+    </div>                            
 </div>
+<div class="container-fluid physical" id="venue">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Venue</h1>
+<div id="map" style="width:100%;height:500px"></div>            
+<script>
+function myMap() {
+  var mapCanvas = document.getElementById("map");
+  var mapOptions = {
+    center: new google.maps.LatLng(23.2883503,77.273526), 
+    zoom: 10
+  }
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+ 
+        </div>
+    </div>
+</div>    
 <div class="container-fluid physical" id="physical">
     <div class="row">
         <div class="col-md-12">
@@ -144,33 +133,7 @@
         </div>
     </div>
 </div>
-<div class="container contribute gap-above-large" id="contribute">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>Contribute Metadata / Photos</h1>
-        </div>
-    </div>
-    <div class="row gap-above-med">
-        <div class="col-md-9">
-            <div class="image-full-size">
-                <img class="img-responsive" src="<?=PHOTO_URL?>0014/IMG_0473_1.JPG">
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="image-desc-full">
-                <ul class="list-unstyled">
-                    <li><strong>id:</strong><span class="image-desc-meta">0014/IMG_0473_1</span></li>
-                    <li><strong>Title:</strong><span class="image-desc-meta">A get together with Shri R. Natarajan, I.A.S., the Director, Staff, and Student of IIT Madrass</span></li>
-                    <li><strong>Event:</strong><span class="image-desc-meta">Tea Party</span></li>
-                    <li><strong>Date:</strong><span class="image-desc-meta">1965-04-01</span></li>
-                    <li><strong>Place:</strong><span class="image-desc-meta">Open Air Theater, IIT Madras</span></li>
-                    <li>Do you know details about this picture? Mail us at heritage@iitm.ac.in quoting the image ID. Thank you.</li></ul>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container-fluid" id="contact">
+<!--<div class="container-fluid" id="contact">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDiv">
@@ -195,8 +158,8 @@
                         </form>
                         <p>
                             <br /><br /><small>
-                                © 2016 Indian Institute of Technology Madras.<br />
-                                No image available from this site may be used for commercial purposes without written permission from IIT Madras.
+                                © 2016 Indian Academy of Sciences.<br />
+                                No image available from this site may be used for commercial purposes without written permission from IASc Bengaluru.
                             </small><br />
                         </p>
                     </div>
@@ -204,4 +167,4 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
