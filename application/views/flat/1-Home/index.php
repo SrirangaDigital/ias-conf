@@ -112,24 +112,30 @@ function myMap() {
 <div class="container-fluid physical" id="physical">
     <div class="row">
         <div class="col-md-12">
-            <h1>Physical Space</h1>
+            <h1>Social Network</h1>
         </div>
     </div>
     <div class="row">
         <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps1.JPG">
-            <h2>Centrally located</h2>
-            <p>The Heritage Centre is located in the ground floor of the Administration Block, right next to Gajendra Circle. It occupies the space where the old manual telephone exchange was situated.</p>
+            <h1>
+                <!-- <i class="fa fa-youtube-play"></i> -->
+                <img src="<?=PUBLIC_URL?>images/stock/youtube.png" alt="YouTube">
+            </h1> 
+            <p>Meeting  videos goes here.....</p>
         </div>
         <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps2.JPG">
-            <h2>Pictorial account</h2>
-            <p>The display at the Heritage Centre provides a pictorial account of the events that led to the founding of IIT Madras, student life in the early years of the institute, the development of technological and other facilities and visits by distinguished people. The display also encompasses the campus and distinuished alumni.</p>
-        </div>
+            <h1>
+                <!-- <i class="fa fa-twitter-square"></i> -->
+                <img src="<?=PUBLIC_URL?>images/stock/twitter.png" alt="Twitter">
+            </h1> 
+            <p>Meeting live tweetes goes here.....</p>
+        </div>        
         <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps3.JPG">
-            <h2>Variety of artefacts</h2>
-            <p>Also on display are a variety of artefacts including the foundation stone laid at the inauguration of the institute in 1959, a life size oil painting of Prof. B. Sengupto, the first Director of IIT Madras, and a replica of the Inter-IIT Sports Trophy.</p>
+            <h1>
+                <!-- <i class="fa fa-twitter-square"></i> -->
+                <img src="<?=PUBLIC_URL?>images/stock/facebook.png" alt="Facebook">
+            </h1> 
+            <p>Facebook details goes here.....</p>
         </div>
     </div>
 </div>
