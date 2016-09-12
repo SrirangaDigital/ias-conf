@@ -126,3 +126,15 @@ a {
 .text-bold{
 	font-weight: bold;
 }
+.color-event{
+	color: #337AB7;
+}
+.color-black{
+	color: #000;
+}
+.color-break{
+	background-color: #CCC;
+}
+.speaker{
+	font-weight: bold;
+}
