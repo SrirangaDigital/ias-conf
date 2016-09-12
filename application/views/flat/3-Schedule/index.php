@@ -2,50 +2,281 @@
     <div class="row first-row">
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
-            <ul class="list-inline sub-nav">
-                <li><a href="<?=BASE_URL?>listing/albums">Albums</a></li>
-                <li><a>·</a></li>
-                <li><a href="<?=BASE_URL?>Publications">Publications</a></li>
-                <li><a>·</a></li>
-                <li><a>Search</a></li>
-                <li id="searchForm">
-                    <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">
-                        <div class="input-group add-on">
-                            <input type="text" class="form-control" placeholder="Keywords" name="description" id="description">
-                            <div class="input-group-btn">
-                                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-                            </div>
-                        </div>
-                    </form>
-                </li>
-            </ul>
+            <p>&nbsp;</p>    
         </div>
     </div>
 </div>
-<div id="grid" class="container-fluid">
-    <div id="posts">
-        <div class="post">
-			<a href="<?=PUBLIC_URL?>multimedia/Prof_Santhakumar_11_06_2016.mp3" target="_blank">
-				<div class="icon-large">	
-					<i class="fa fa-volume-up"></i>
-				</div>
-			</a>	
-			<p class="image-desc">
-                <strong>Prof. Santhakumar Interview<br /> (11 Jun, 2016)</strong><br />
-                <strong><a href="<?=PUBLIC_URL?>multimedia/Prof_Santhakumar_11_06_2016.mp3" target="_blank">Listen to the Audio</a></strong>  
+
+<div class="container-fluid physical" id="physical">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Program Schedule</h1>
+            <p>    
+                The Annual Meeting will be officially opened by the President of the Indian Academy of Sciences Prof. Ram Ramaswamy on 4th November 2016 at 09.30 am.
             </p>
-        </div>   
-        <div class="post">
-			<a href="<?=PUBLIC_URL?>multimedia/Prof_Subramanian_interview.mp3" target="_blank">
-				<div class="icon-large">
-					<i class="fa fa-volume-up icon-large"></i>
-				</div>
-			</a>	
-            <p class="image-desc">
-                <strong>Prof. Subramanian Interview</strong><br />
-                <strong><a href="<?=PUBLIC_URL?>multimedia/Prof_Subramanian_interview.mp3" target="_blank">Listen to the Audio</a></strong>  
-            </p>
-        </div>  
-    
+            <h2>Tentative Programme:  4th – 6th November 2016</h2>
+        </div>
     </div>
-</div>
+</div>                
+
+
+
+<div class="container">
+    <ul class="nav nav-pills">
+        <li class="active"><a data-toggle="pill" href="#day1">Day 1</a></li>
+        <li><a data-toggle="pill" href="#day2">Day 2</a></li>
+        <li><a data-toggle="pill" href="#day3">Day 3</a></li>
+    </ul>
+    <div class="tab-content">
+        <div id="day1"  class="tab-pane fade in active">
+            <h3>4 November 2016 (Friday)</h3>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Event Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>0900-0930</td>
+                            <td><span class="color-event text-bold">Registration</span></td>
+                        </tr>
+                        <tr>
+                            <td>0930-1100</td>
+                            <td><span class="color-event text-bold">Inauguration &amp; Presidential Address</span><br />
+                                <span class="speaker">Ram Ramaswamy</span>, JNU, New Delhi</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1100-1200</td>
+                            <td><span class="color-event">Group Photograph &amp; Tea break</span></td>
+                        </tr>
+                        <tr>
+                            <td>1200-1250</td>
+                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1200-1220</span></td>
+                            <td><span class="speaker">Arun Chattopadhyay</span>, IIT, Guwahati</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1225-1245</span></td>
+                            <td><span class="speaker">Sanjib K. Agarwalla</span>, IoP, Bhubaneswar</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1250-1400</td>
+                            <td>Lunch break</td>
+                        </tr>
+                        <tr>
+                            <td>1400-1450</td>
+                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1400-1420</span></td>
+                            <td><span class="speaker">Javed N Agrewala</span>, IMTECH, Chandigarh </td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1425-1445</span></td>
+                            <td><span class="speaker">A Raghuram</span>, IISER, Pune</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1450-1530</td>
+                            <td>Tea break</td>
+                        </tr>
+                        <tr>
+                            <td>1530-1730</td>
+                            <td><span class="color-event text-bold">Symposium  in honour of Prof. Walter Kohn</span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1530</span></td>
+                            <td><span class="speaker">T V Ramakrishnan</span>, BHU, Varanasi</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1600</span></td>
+                            <td><span class="speaker">Swapan K Ghosh</span>, BARC, Mumbai</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1630</span></td>
+                            <td><span class="speaker">TanusriSaha-Dasgupta</span>, SN Bose Natl. Centre for Basic Sciences, Kolkata</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1700</span></td>
+                            <td><span class="speaker">Umesh V Waghmare</span>, JNCASR, Bengaluru</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1730-1800</td>
+                            <td>Tea break</td>
+                        </tr>
+                        <tr>
+                            <td>1800-1900</td>
+                            <td><span class="color-event text-bold">Public lecture</span><br /> 
+                                <span class="speaker">Rajendra Singh</span>, Tarun Bharat Sangh, Alwar (Rajasthan)  
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="day2" class="tab-pane fade">
+            <h3>5 November 2016 (Saturday)</h3>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Event Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>0900-0930</td>
+                            <td><span class="color-event text-bold">Special Lecture</span><br />
+                                <span class="speaker">Sunil Mukhi</span>, IISER, Pune
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>0940-1030</td>
+                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">0940-1000</span></td>
+                            <td><span class="speaker">Pradyut Ghosh</span>, IACS, Kolkata</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1005-1025</span></td>
+                            <td><span class="speaker">Ankur A. Kulkarni</span>, IIT, Mumbai</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1030-1050</td>
+                            <td>Tea break</td>
+                        </tr>
+                        <tr>
+                            <td>1050-1300</td>
+                            <td><span class="color-event text-bold">Symposium (to be finalized)</span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1050</span></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1120</span></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1150</span></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1220</span></td>
+                            <td></td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1300-1400</td>
+                            <td>Lunch break</td>
+                        </tr>
+                        <tr>
+                            <td>1400-1540</td>
+                            <td><span class="color-event text-bold">Lectures  by Fellows/Associates</span></td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1400-1420</span></td>
+                            <td><span class="speaker">G C Anupama</span>, IIA, Bangalore</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1425-1445</span></td>
+                            <td><span class="speaker">S Ganesh</span>, IIT, Kanpur</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1450-1510</span></td>
+                            <td><span class="speaker">K N Balaji</span>, IISc, Bangalore</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1515-1535</span></td>
+                            <td><span class="speaker">Anshu Pandey</span>, IISc, Bangalore</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1540-1600</td>
+                            <td>Tea break</td>
+                        </tr>
+                        <tr>
+                            <td>1600-1730</td>
+                            <td><span class="color-event text-bold">Business Meeting of Fellows</span></td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1730-1800</td>
+                            <td>Tea break</td>
+                        </tr>
+                        <tr>
+                            <td>1800-1900</td>
+                            <td>Public Lecture<br /><span class="speaker">RavindraKorisettar</span>, Karnatak University, Dharwad</td>
+                        </tr>
+                        <tr>
+                            <td>1900-2000</td>
+                            <td>Dinner</td>
+                        </tr>
+                        <tr>
+                            <td>2000</td>
+                            <td>Cultural Programme</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="day3" class="tab-pane fade">
+            <h3>6 November 2016 (Sunday)</h3>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Event Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+     </div>
+</div>    
