@@ -66,11 +66,11 @@
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="<?=BASE_URL?>#home">Home</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>/page/flat/About">About Conference</a></li>
+                    <li><a href="<?=BASE_URL?>page/flat/About">About Conference</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blnk">Registration</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#physical">Schedule</a></li>
+                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
