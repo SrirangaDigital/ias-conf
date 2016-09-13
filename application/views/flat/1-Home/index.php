@@ -91,24 +91,86 @@
 <div class="container-fluid physical" id="venue">
     <div class="row">
         <div class="col-md-12">
-            <h1>Venue</h1>
-<div id="map" style="width:100%;height:500px"></div>            
-<script>
-function myMap() {
-  var mapCanvas = document.getElementById("map");
-  var mapOptions = {
-    center: new google.maps.LatLng(23.2883503,77.273526), 
-    zoom: 10
-  }
-  var map = new google.maps.Map(mapCanvas, mapOptions);
-}
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
- 
+            <h1>Information for Participants</h1>
         </div>
+    </div>        
+    <div class="row">
+        <div class="col-md-6">
+            <div id="map" style="width:100%;height:800px"></div>            
+            <script>
+            function myMap() {
+              var mapCanvas = document.getElementById("map");
+              var mapOptions = {
+                center: new google.maps.LatLng(23.2883503,77.273526), 
+                zoom: 10
+              }
+              var map = new google.maps.Map(mapCanvas, mapOptions);
+            }
+            </script>
+
+            <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+        </div>
+        <div class="col-md-6 text-left">
+            <p>
+                <span class="text-bold">Venue of the Meeting:</span><br /> 
+                Indian Institute of Science Education and Research Bhopal<br />
+                Bhopal Bypass Road, Bhauri<br />
+                Bhopal 462 066<br />
+                Madhya Pradesh, INDIA
+            </p>
+            <p>
+                <span class="text-bold">Reaching the venue:</span>
+            </p>
+            <ul>    
+                <li><span class="text-bold">Bhopal Airport to IISER, Bhopal Campus</span><br /> 
+                    Distance- 10.9 Km Approx.<br /> 
+                    15 Minutes drive via Bhauri Bypass Rd / Bhopal Bypass Road.
+                </li>        
+                <li>
+                    <span class="text-bold">Bhopal Junction (Railway station) to IISER, Bhopal Campus</span><br /> 
+                    Distance- 22.3 Km Approx.<br /> 
+                    45 Mints drive via Bhauri Bypass Rd / Bhopal Bypass Rd.
+                </li> 
+            </ul> 
+            <p>An information desk will be available in the airport to assist the participant’s requirements. There will also be hospitality desk located outside the airport (arrivals) to organize participant’s transportation.</p>
+            <p><span class="text-bold">Local Transport</span><br /> 
+            The Local Committee has made arrangements for the pickup / drop off and all the participants will be provided with transportation on arrival and departure. Transportation between the hotel and meeting venue will be by a van or a bus. The exact timings of the pickup/drop during the meeting days will be arranged.
+            </p>    
+            <p><span class="text-bold">Accommodation</span><br />
+            Arrangements are being made to accommodate all participants at several hotels and guest houses of IISER campus in the Bhopal city. There will be volunteers at the airport to inform participants about the accommodation. Accommodation details are as follows:
+            </p>
+            <ul>
+                <li>Community Centre – IISER, Bhopal</li>
+                <li>Hotel Raj Bhog</li>
+            </ul>
+            <p>
+            (Details of accommodation may be collected from the helpdesk at the airport or <span class="color-alert">Click here to view details</span>)
+            </p>
+            <p><span class="text-bold">Climate</span><br />
+            Temperature in Bhopal range between a low of 20.9 degrees and a high of 24 degree Celsius. Participants are requested to carry adequate warm clothing.
+            </p>
+            <p><span class="text-bold">Local places of Interest</span><br />   
+            Lower Lake ,Bhojtal, Bhimbetka Caves, Taj-ul-Masajid,Regional Science Center, Chinar Park, Kamla Nehru Park etc,. 
+            </p>    
+        </div>        
     </div>
 </div>    
+
+<div class="container-fluid physical" id="venue">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Contact</h1>
+        </div>
+    </div>        
+    <div class="row">
+        <div class="col-md-12">
+            <p>For local logistics and hospitality queries, contact: <span class="text-bold">Event Secretariat</span></p>
+            <p>For registration and presentation related queries, contact: <span class="text-bold">Academy Secretariat</span></p>
+        </div>
+    </div>
+</div>        
+
+
 <div class="container-fluid physical" id="physical">
     <div class="row">
         <div class="col-md-12">
@@ -139,6 +201,8 @@ function myMap() {
         </div>
     </div>
 </div>
+
+
 <!--<div class="container-fluid" id="contact">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
