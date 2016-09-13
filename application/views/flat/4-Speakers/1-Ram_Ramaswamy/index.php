@@ -14,7 +14,7 @@
                 <figcaption class="figure-caption text-center">Prof. Ram Ramaswamy</figcaption>
             </p>
         </div>
-        <div class="col-md-3 text-left">
+        <div class="col-md-9 text-left">
             <p>
                 <span class="text-bold">Prof. Ram Ramaswamy</span><br />
                 School of Physical Sciences,<br /> 
