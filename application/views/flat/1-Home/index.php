@@ -35,6 +35,12 @@
     </div>
     <div class="row">
         <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
+                <img src="<?=PUBLIC_URL?>images/stock/Ram_Ramaswamy.jpg" class="img-thumbnail center-block" alt="Prof. Ram Ramaswamy" />
+                <figcaption class="figure-caption text-xs-right">Prof. Ram Ramaswamy</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
              <img src="<?=PUBLIC_URL?>images/stock/Anshu_Pandey.jpg" class="img-thumbnail" alt="Anshu Pandey" />
              <figcaption class="figure-caption text-xs-right">Anshu Pandey</figcaption>
         </div>
@@ -46,12 +52,12 @@
              <img src="<?=PUBLIC_URL?>images/stock/Arun_Chattopadhyay.jpg" class="img-thumbnail" alt="Arun Chattopadhyay" />
              <figcaption class="figure-caption text-xs-right">Arun Chattopadhyay</figcaption>
         </div>        
+    </div>
+    <div class="row gap-above-large">
         <div class="col-md-3">
              <img src="<?=PUBLIC_URL?>images/stock/B_Anand.jpg" class="img-thumbnail" alt="B Anand" />
              <figcaption class="figure-caption text-xs-right">B Anand</figcaption>
         </div>
-    </div>
-    <div class="row gap-above-large">
         <div class="col-md-3">
              <img src="<?=PUBLIC_URL?>images/stock/G_R_Tripathy.jpg" class="img-thumbnail" alt="G R Tripathy" />
              <figcaption class="figure-caption text-xs-right">G R Tripathy</figcaption>
@@ -64,12 +70,12 @@
              <img src="<?=PUBLIC_URL?>images/stock/N_Ravishankar.jpg" class="img-thumbnail" alt="N Ravishankar" />
              <figcaption class="figure-caption text-xs-right">N Ravishankar</figcaption>
         </div>
+    </div>    
+    <div class="row gap-above-large">
         <div class="col-md-3">
              <img src="<?=PUBLIC_URL?>images/stock/Pradyut_Ghosh.jpg" class="img-thumbnail" alt="Pradyut Ghosh" />
              <figcaption class="figure-caption text-xs-right">Pradyut Ghosh</figcaption>
         </div>
-    </div>    
-    <div class="row gap-above-large">
         <div class="col-md-3">
              <img src="<?=PUBLIC_URL?>images/stock/Sanjib_Agarwalla.jpg" class="img-thumbnail" alt="Sanjib Agarwalla" />
              <figcaption class="figure-caption text-xs-right">Sanjib Agarwalla</figcaption>
@@ -82,11 +88,13 @@
              <img src="<?=PUBLIC_URL?>images/stock/Tanusri_Sahadasgupta.jpg" class="img-thumbnail" alt="Tanusri Sahadasgupta" />
              <figcaption class="figure-caption text-xs-right">Tanusri Sahadasgupta</figcaption>
         </div>
+    </div>                            
+    <div class="row gap-above-large">
         <div class="col-md-3">
              <img src="<?=PUBLIC_URL?>images/stock/Tirthankar_Bhattacharyya.jpg" class="img-thumbnail" alt="Tirthankar Bhattacharyya" />
              <figcaption class="figure-caption text-xs-right">Tirthankar Bhattacharyya</figcaption>
-        </div>
-    </div>                            
+        </div>    
+    </div>    
 </div>
 <div class="container-fluid physical" id="venue">
     <div class="row">
