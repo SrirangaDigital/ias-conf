@@ -26,6 +26,8 @@
         <li class="active"><a data-toggle="pill" href="#day1">Day 1</a></li>
         <li><a data-toggle="pill" href="#day2">Day 2</a></li>
         <li><a data-toggle="pill" href="#day3">Day 3</a></li>
+        <li><a data-toggle="pill" href="#alliedevents">ALLIED EVENTS - 3<sup>rd</sup> – 5<sup>th</sup> November 2016</a></li>
+        <li><a data-toggle="pill" href="#progspouses">Program for Spouses</a></li>
     </ul>
     <div class="tab-content">
         <div id="day1"  class="tab-pane fade in active">
@@ -235,48 +237,103 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>0900-0940</td>
+                            <td><span class="color-event text-bold">Special Lecture</span><br />
+                            <span class="speaker">Amitabh Joshi</span>, JNCASR, Bengaluru</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>0940-1300</td>
+                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>0940-1000</td>
+                            <td><span class="speaker">Krishna P Kaliappan</span>, IIT, Mumbai</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>1005-1025</td>
+                            <td><span class="speaker">Rohini Garg</span>, NIPGR, New Delhi</td>
+                        </tr>
+                        <tr class="color-break">
+                            <td>1030-1100</td>
+                            <td>Tea break</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>1100-1120</td>
+                            <td><span class="speaker">N Ravishankar</span>, IISc, Bangalore</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>1125-1145</td>
+                            <td><span class="speaker">B. Anand</span>, IIT, Guwahati</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>1150-1210</td>
+                            <td><span class="speaker">Tirthankar Bhattacharyya</span>, IISc, Bengaluru</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>1215-1235</td>
+                            <td><span class="speaker">PratapRaychaudhuri</span>, TIFR, Mumbai</td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
+                            <td>1240-1300</td>
+                            <td><span class="speaker">G. R. Tripathy</span>, IISER, Pune</td>
                         </tr>
-                        <tr>
-                            <td></td>
-                            <td></td>
+                        <tr class="color-break">
+                            <td>1300-1400</td>
+                            <td>Lunch</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
         </div>
+        <div id="alliedevents" class="tab-pane fade">
+            <h3>ALLIED EVENTS - 3<sup>rd</sup> – 5<sup>th</sup> November 2016</h3>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Time</th>
+                            <th>Event</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>03 November (Thursday)</td>
+                            <td>10.00 AM</td>
+                            <td>Academy Publications Committee Meeting</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>03.00 PM</td>
+                            <td>Editorial Meeting – Pramana</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>05.00 PM</td>
+                            <td>Teachers interaction with SEP Panel<br />
+                            Popular Science Talk by Prof C N R Rao</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>06.30 PM</td>
+                            <td>Media/Press conference</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><span class="color-alert">To be Decided</span></td>
+                            <td>Exhibition</td>
+                        </tr>
+                        <tr>
+                            <td>05 November (Saturday)</td>
+                            <td>03.30 PM</td>
+                            <td>Business Meeting of Fellows</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="progspouses" class="tab-pane fade">
+            <h3><span class="color-alert">To be Added</span></h3>
+        </div>        
      </div>
 </div>    
