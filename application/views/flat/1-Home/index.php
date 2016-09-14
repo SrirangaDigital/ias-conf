@@ -214,7 +214,7 @@
     </div>
 </div>    
 
-<div class="container-fluid physical" id="venue">
+<div class="container-fluid physical" id="contact">
     <div class="row">
         <div class="col-md-12">
             <h1>Contact</h1>
