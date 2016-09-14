@@ -154,7 +154,8 @@
     </div>        
     <div class="row">
         <div class="col-md-6">
-            <div id="map" style="width:100%;height:800px"></div>            
+            <img src="<?=PUBLIC_URL?>images/stock/map_iiser.png" alt="Indian Institutes of Science Education and Research (IISER), Bhopal" />
+<!--             <div id="map" style="width:100%;height:800px"></div>            
             <script>
             function myMap() {
               var mapCanvas = document.getElementById("map");
@@ -166,7 +167,7 @@
             }
             </script>
 
-            <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+            <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script> -->
         </div>
         <div class="col-md-6 text-left">
             <p>
