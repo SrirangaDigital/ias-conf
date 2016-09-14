@@ -22,7 +22,7 @@ $(document).ready(function() {
     var hloc = window.location.href;
     if(hloc.match('#')){
 
-        var jumpLoc = $( '#' + hloc.split("#")[1] ).offset().top - 0;
+        var jumpLoc = $( '#' + hloc.split("#")[1] ).offset().top - 105;
 
         $("html, body").animate({scrollTop: jumpLoc}, 1000);
     }
@@ -31,7 +31,7 @@ $(document).ready(function() {
 
         // event.preventDefault();
 
-        var jumpLoc = $( '#' + $( this ).attr( "href" ).split('#')[1] ).offset().top - 90;
+        var jumpLoc = $( '#' + $( this ).attr( "href" ).split('#')[1] ).offset().top - 105;
 
         $("html, body").animate({scrollTop: jumpLoc}, 1000);
     });
