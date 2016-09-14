@@ -32,7 +32,7 @@
                     <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blnk">Registration</a></li>
                     <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>
                     <li><a href="#speakers">Speakers</a></li>
-                    <li><a href="#venue">Venue</a></li>
+                    <li><a href="#venue">Information for Participants</a></li>
                 </ul>
                 <p class="prog">Programme: 4th – 6th November 2016</p>    
             </div>
