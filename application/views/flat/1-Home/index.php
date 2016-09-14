@@ -1,5 +1,5 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<div class="container-fluid" id="home">
+<!-- <div class="container-fluid" id="home">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDiv">
@@ -13,8 +13,34 @@
             </div>
         </div>
     </div>
-</div>
-<div class="container" id="home">
+</div> -->
+
+<div class="container-fluid" id="home">
+    <div class="row first-row">
+        <div class="col-md-12 big-banner">
+            <div class="first-div">
+                <p class="big-heading">82<sup>nd</sup> Annual Meeting</p>
+<!--                 <p class="second-heading">The Academy annually holds scientific meetings, symposia, public lectures for encouraging other similar activities in order to provide means of exchange of scientific knowledge among scientists and to bring new knowledge to the attention of the whole scientific community. Annually, the midyear meeting is organised during July and the Annual meeting in November. The Fellowship of the Academy, teachers and other invitees participate in these meetings.
+                </p> -->
+                <p class="big-numbers">2016</p>
+                <p class="organizers">Indian Academy of Sciences (IASc), Bengaluru</p>
+                <p class="organizers">Indian Institutes of Science Education and Research (IISER), Bhopal</p>
+            </div>
+            <div class="sec-div">
+                <ul>
+                    <li><a href="<?=BASE_URL?>page/flat/About">About Meeting</a></li>
+                    <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blnk">Registration</a></li>
+                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>
+                    <li><a href="#speakers">Speakers</a></li>
+                    <li><a href="#venue">Venue</a></li>
+                </ul>
+                <p class="prog">Programme: 4th – 6th November 2016</p>    
+            </div>
+        </div>
+    </div>
+</div>        
+
+<div class="container">
     <div class="row">
         <div class="col-md-12 gap-above">
             <p class="text-right text-italic text-bold">“Nothing in science has any value to society if it is not communicated, and scientists are beginning to learn their social obligations.”<br />
@@ -234,7 +260,7 @@
     </div>
 </div>
 
-
+    <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js" async></script>
 <!--<div class="container-fluid" id="contact">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
@@ -270,3 +296,4 @@
         </div>
     </div>
 </div>-->
+
