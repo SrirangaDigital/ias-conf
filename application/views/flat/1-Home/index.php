@@ -53,7 +53,7 @@
         </div>
     </div>        
 </div>
-<div class="container-fluid physical" id="speakers">
+<div class="container-fluid" id="speakers">
     <div class="row">
         <div class="col-md-12">
             <h1>Speakers</h1>
@@ -146,7 +146,7 @@
         </div>    
     </div>    
 </div>
-<div class="container-fluid physical" id="venue">
+<div class="container-fluid" id="venue">
     <div class="row">
         <div class="col-md-12">
             <h1>Information for Participants</h1>
@@ -262,39 +262,4 @@
 </div>
 
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js" async></script>
-<!--<div class="container-fluid" id="contact">
-    <div class="row first-row">
-        <div class="col-md-12 clear-paddings">
-            <div class="fixOverlayDiv">
-                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide2.jpg">
-                <div class="OverlayTextMain">
-                    <div class="mainpage">
-                        <h2>Get in touch</h2><br />
-                        <form method="post" action="<?=BASE_URL . 'mail/send'?>">
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="name" id="name" placeholder="Name" required="required">
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" name="email" id="email" placeholder="Email" required="required">
-                            </div>
-                            <div class="form-group">
-                                <textarea rows="5" class="form-control" name="message" id="message" placeholder="Your message here" required="required"></textarea>
-                            </div>
-                            <div class="form-group">
-                                <div class="g-recaptcha" data-sitekey="6Le_DBsTAAAAACt5YrgWhjW00CcAF0XYlA30oLPc"></div>
-                            </div>
-                            <button type="submit" class="btn btn-default naked email-submit">Submit</button>
-                        </form>
-                        <p>
-                            <br /><br /><small>
-                                © 2016 Indian Academy of Sciences.<br />
-                                No image available from this site may be used for commercial purposes without written permission from IASc Bengaluru.
-                            </small><br />
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
 
