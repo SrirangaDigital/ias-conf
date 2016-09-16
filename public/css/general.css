@@ -193,5 +193,43 @@ a {
 .sec-div ul li a:hover{
 	text-decoration: underline;
 }
-.prog{
+#speakers{
+    color: #5D5D5D;
+    padding: 80px 60px 0px 60px;
+    font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
+#speakers h1{
+    font-size: 24px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EFEFEF;
+}
+#speakers h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    line-height: 1.5;
+}
+#venue{
+    color: #5D5D5D;
+    padding: 80px 60px 0px 60px;
+    font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
+#venue h1{
+    font-size: 24px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EFEFEF;
+}
+#venue h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    line-height: 1.5;
 }
