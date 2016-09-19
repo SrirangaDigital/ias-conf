@@ -104,3 +104,15 @@
 .navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav > li.active > a:hover {
   color: #e5ae47;
 }
+ul.nav-pills{
+	margin-top: 2em;
+}
+ul.nav-pills>li{
+	min-width: 10em;
+	margin-right: 1em;
+}
+.nav-pills>li>a {
+    border-radius: 4px;
+	border: 1px solid #ccc;
+	text-align: center;
+}
