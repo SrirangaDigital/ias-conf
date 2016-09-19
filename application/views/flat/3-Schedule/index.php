@@ -1,5 +1,5 @@
 <div class="container">
-    <div class="row first-row">
+    <div class="row">
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
             <p>&nbsp;</p>    

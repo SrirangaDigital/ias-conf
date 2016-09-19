@@ -1,12 +1,12 @@
 <div class="container">
-    <div class="row first-row">
+    <div class="row">
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
             <p>&nbsp;</p>    
         </div>
     </div>
 </div>
-<div id="grid" class="container-fluid">
+<div id="grid" class="container-fluid gap-above">
     <div class="row">
         <div class="col-md-12">
             <h3>Agenda&mdash;82<sup>nd</sup> Annual Meeting</h3>
