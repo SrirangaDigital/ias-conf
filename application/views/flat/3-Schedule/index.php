@@ -46,12 +46,18 @@
                             <td><span class="color-event text-bold">Registration</span></td>
                         </tr>
                         <tr>
-                            <td>0930-1100</td>
+                            <td>0930-1045</td>
                             <td><span class="color-event text-bold">Inauguration &amp; Presidential Address</span><br />
-                                <span class="speaker">Ram Ramaswamy</span>, JNU, New Delhi</td>
+                                <span class="speaker">Ram Ramaswamy</span>, JNU, New Delhi<br />
+                                <i>Chimeras: A spontaneous emergence of dynamical disorder</i>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1045-1130</td>
+                            <td><span class="color-event text-bold">Book Release function (authored by Prof. C N R Rao)</span></td>
                         </tr>
                         <tr class="color-break">
-                            <td>1100-1200</td>
+                            <td>1135-1200</td>
                             <td><span class="color-event">Group Photograph &amp; Tea break</span></td>
                         </tr>
                         <tr>
@@ -60,11 +66,15 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1200-1220</span></td>
-                            <td><span class="speaker">Arun Chattopadhyay</span>, IIT, Guwahati</td>
+                            <td><span class="speaker">Arun Chattopadhyay</span>, IIT, Guwahati<br />
+								<i>Decorating the surface of a quantum dot with molecules</i>
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1225-1245</span></td>
-                            <td><span class="speaker">Sanjib K. Agarwalla</span>, IoP, Bhubaneswar</td>
+                            <td><span class="speaker">Sanjib K. Agarwalla</span>, IoP, Bhubaneswar<br />
+								<i>Neutrino Oscillation Parameters: Present Status and Future Roadmap</i>
+                            </td>
                         </tr>
                         <tr class="color-break">
                             <td>1250-1400</td>
@@ -76,11 +86,15 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
-                            <td><span class="speaker">Javed N Agrewala</span>, IMTECH, Chandigarh </td>
+                            <td><span class="speaker">Javed N Agrewala</span>, IMTECH, Chandigarh<br /> 
+								<i>Signalling through Toll-Like Receptors can influence the dose and duration of treatment with anti-TB drugs</i>
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1425-1445</span></td>
-                            <td><span class="speaker">A Raghuram</span>, IISER, Pune</td>
+                            <td><span class="speaker">A Raghuram</span>, IISER, Pune<br />
+								<i>From calculus to number theory</i>
+                            </td>
                         </tr>
                         <tr class="color-break">
                             <td>1450-1530</td>
@@ -92,19 +106,26 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1530</span></td>
-                            <td><span class="speaker">T V Ramakrishnan</span>, BHU, Varanasi</td>
+                            <td><span class="speaker">T V Ramakrishnan</span>, BHU, Varanasi<br />
+								<i>Walter Kohn and the Rise of Condensed Matter Physics</i>
+							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1600</span></td>
-                            <td><span class="speaker">Swapan K Ghosh</span>, BARC, Mumbai</td>
+                            <td><span class="speaker">Swapan K Ghosh</span>, BARC, Mumbai<br />
+								<i>Density functional theory for materials modeling at different length scales: A legacy of Walter Kohn</i>
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1630</span></td>
-                            <td><span class="speaker">TanusriSaha-Dasgupta</span>, SN Bose Natl. Centre for Basic Sciences, Kolkata</td>
+                            <td><span class="speaker">TanusriSaha-Dasgupta</span>, SN Bose Natl. Centre for Basic Sciences, Kolkata<br />
+                            <i>Beyond the conventional DFT: Life with “U”</i></td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1700</span></td>
-                            <td><span class="speaker">Umesh V Waghmare</span>, JNCASR, Bengaluru</td>
+                            <td><span class="speaker">Umesh V Waghmare</span>, JNCASR, Bengaluru<br />
+								<i>Electrons in a Crystal: Localized versus Extended Orbitals</i>
+                            </td>
                         </tr>
                         <tr class="color-break">
                             <td>1730-1800</td>
@@ -113,7 +134,8 @@
                         <tr>
                             <td>1800-1900</td>
                             <td><span class="color-event text-bold">Public lecture</span><br /> 
-                                <span class="speaker">Rajendra Singh</span>, Tarun Bharat Sangh, Alwar (Rajasthan)  
+                                <span class="speaker">Rajendra Singh</span>, Tarun Bharat Sangh, Alwar (Rajasthan)<br />
+                                <i>Indigenous knowledge system in Indian Water Management</i>  
                             </td>
                         </tr>
                     </tbody>
@@ -132,9 +154,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>0900-0930</td>
+                            <td>0900-0940</td>
                             <td><span class="color-event text-bold">Special Lecture</span><br />
-                                <span class="speaker">Sunil Mukhi</span>, IISER, Pune
+                                <span class="speaker">Sunil Mukhi</span>, IISER, Pune<br />
+                                <i>Academic Ethics in India: What We Must Do</i>
                             </td>
                         </tr>
                         <tr>
@@ -143,11 +166,15 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">0940-1000</span></td>
-                            <td><span class="speaker">Pradyut Ghosh</span>, IACS, Kolkata</td>
+                            <td><span class="speaker">Pradyut Ghosh</span>, IACS, Kolkata<br />
+								<i>Recognition, Sensing, Separation of Anions</i>
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1005-1025</span></td>
-                            <td><span class="speaker">Ankur A. Kulkarni</span>, IIT, Mumbai</td>
+                            <td><span class="speaker">Ankur A. Kulkarni</span>, IIT, Mumbai<br />
+								<i>Towards a convex-analytic view of impossibility results in stochastic control and information theory</i>
+                            </td>
                         </tr>
                         <tr class="color-break">
                             <td>1030-1050</td>
@@ -155,23 +182,37 @@
                         </tr>
                         <tr>
                             <td>1050-1300</td>
-                            <td><span class="color-event text-bold">Symposium (to be finalized)</span></td>
+                            <td><span class="color-event text-bold">Symposium on “Our Second Genome”</span></td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1050</span></td>
-                            <td></td>
+                            <td><span class="speaker">Partha P. Majumder</span>, NIBG, Kolkata<br />
+								<i>An Overview of Our Second Genome</i>
+							</td>
                         </tr>
                         <tr>
-                            <td><span class="color-black">1120</span></td>
-                            <td></td>
+                            <td><span class="color-black">1110</span></td>
+                            <td><span class="speaker">Sharmila Mande</span>, TCS, Pune<br />
+								<i>Gut Microbiome and Health</i>	
+							</td>
                         </tr>
                         <tr>
-                            <td><span class="color-black">1150</span></td>
-                            <td></td>
+                            <td><span class="color-black">1140</span></td>
+                            <td><span class="speaker">Vineet K. Sharma</span>, IISER, Bhopal<br />
+								<i>Novel insights into The Human Microbiome</i>
+							</td>
                         </tr>
                         <tr>
-                            <td><span class="color-black">1220</span></td>
-                            <td></td>
+                            <td><span class="color-black">1210</span></td>
+                            <td><span class="speaker">Souvik Mukherjee</span>, NIBMG, Kolkata<br />
+								<i>The Microbiome in Skin Health and Disease</i>
+							</td>
+                        </tr>
+                        <tr>
+                            <td><span class="color-black">1240</span></td>
+                            <td><span class="speaker">Shekhar C Mande</span>, NCCS, Pune<br />
+								<i>Towards a National Microbiome Project</i>
+							</td>
                         </tr>
                         <tr class="color-break">
                             <td>1300-1400</td>
@@ -183,19 +224,27 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
-                            <td><span class="speaker">G C Anupama</span>, IIA, Bangalore</td>
+                            <td><span class="speaker">G C Anupama</span>, IIA, Bangalore<br />
+								<i>Time Domain Astronomy - Explosive Transients</i>
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1425-1445</span></td>
-                            <td><span class="speaker">S Ganesh</span>, IIT, Kanpur</td>
+                            <td><span class="speaker">S Ganesh</span>, IIT, Kanpur<br />
+								<i>Role of non-coding RNAs in cellular stress response</i>
+							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1450-1510</span></td>
-                            <td><span class="speaker">K N Balaji</span>, IISc, Bangalore</td>
+                            <td><span class="speaker">K N Balaji</span>, IISc, Bangalore<br />
+								<i>Mycobacteria scapegoat host epigenetic factors and non-coding RNAs to sneak through host immune responses</i>
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1515-1535</span></td>
-                            <td><span class="speaker">Anshu Pandey</span>, IISc, Bangalore</td>
+                            <td><span class="speaker">Anshu Pandey</span>, IISc, Bangalore<br />
+								<i>Chemistry with bigger atoms</i>
+                            </td>
                         </tr>
                         <tr class="color-break">
                             <td>1540-1600</td>
@@ -211,7 +260,9 @@
                         </tr>
                         <tr>
                             <td>1800-1900</td>
-                            <td>Public Lecture<br /><span class="speaker">RavindraKorisettar</span>, Karnatak University, Dharwad</td>
+                            <td>Public Lecture<br /><span class="speaker">Ravindra Korisettar</span>, Karnatak University, Dharwad<br />
+								<i>Importance of the Vindhya Basins, central India, in the Prehistory of India</i>
+                            </td>
                         </tr>
                         <tr>
                             <td>1900-2000</td>
@@ -237,45 +288,61 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>0900-0940</td>
-                            <td><span class="color-event text-bold">Special Lecture</span><br />
-                            <span class="speaker">Amitabh Joshi</span>, JNCASR, Bengaluru</td>
+                            <td>0900-1220</td>
+                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows/Associates</span></td>
                         </tr>
                         <tr>
-                            <td>0940-1300</td>
-                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                            <td>0900-0920</td>
+                            <td><span class="speaker">Krishna P Kaliappan</span>, IIT, Mumbai<br />
+								<i>Domino strategy to synthesis of natural products and heterocycles</i>
+                            </td>
                         </tr>
                         <tr>
-                            <td>0940-1000</td>
-                            <td><span class="speaker">Krishna P Kaliappan</span>, IIT, Mumbai</td>
+                            <td>0925-0945</td>
+                            <td><span class="speaker">Anuradha Dube</span>, CDRI, Lucknow<br />
+								<i>Challenges in the control of Kala-azar- a disease of poverty</i>
+							</td>
                         </tr>
                         <tr>
-                            <td>1005-1025</td>
-                            <td><span class="speaker">Rohini Garg</span>, NIPGR, New Delhi</td>
+                            <td>0950-1010</td>
+                            <td><span class="speaker">N Ravishankar</span>, IISc, Bangalore<br />
+								<i>Intriguing Structure and Transport Behaviour of Ultrathin Single Crystalline Gold Nanowires</i>
+							</td>
+                        </tr>
+                        <tr>
+                            <td>1015-1035</td>
+                            <td><span class="speaker">B. Anand</span>, IIT, Guwahati<br />
+								<i>Homing mechanism of the CRISPR-Cas Adaptive Immune System</i>
+							</td>
                         </tr>
                         <tr class="color-break">
-                            <td>1030-1100</td>
+                            <td>1040-1100</td>
                             <td>Tea break</td>
                         </tr>
                         <tr>
                             <td>1100-1120</td>
-                            <td><span class="speaker">N Ravishankar</span>, IISc, Bangalore</td>
+                            <td><span class="speaker">Tirthankar Bhattacharyya</span>, IISc, Bengaluru<br />
+								<i>What do analytic functions look like?</i>
+                            </td>
                         </tr>
                         <tr>
                             <td>1125-1145</td>
-                            <td><span class="speaker">B. Anand</span>, IIT, Guwahati</td>
+                            <td><span class="speaker">Pratap Raychaudhuri</span>, TIFR, Mumbai<br />
+								<i>Low temperature scanning tunneling spectroscopy</i>
+                            </td>
                         </tr>
                         <tr>
                             <td>1150-1210</td>
-                            <td><span class="speaker">Tirthankar Bhattacharyya</span>, IISc, Bengaluru</td>
+                            <td><span class="speaker">G.R. Tripathy</span>, IISER, Pune<br />
+								<i>Re-Os geochronology: Clues for past marine and atmospheric conditions</i>
+							</td>
                         </tr>
                         <tr>
-                            <td>1215-1235</td>
-                            <td><span class="speaker">PratapRaychaudhuri</span>, TIFR, Mumbai</td>
-                        </tr>
-                        <tr>
-                            <td>1240-1300</td>
-                            <td><span class="speaker">G. R. Tripathy</span>, IISER, Pune</td>
+                            <td>1215-1300</td>
+                            <td><span class="color-event text-bold">Special Lecture</span><br />
+                            <span class="speaker">Amitabh Joshi</span>, JNCASR, Bengaluru<br />
+								<i>Experimental ecology and evolution in the laboratory</i>
+                            </td>
                         </tr>
                         <tr class="color-break">
                             <td>1300-1400</td>
