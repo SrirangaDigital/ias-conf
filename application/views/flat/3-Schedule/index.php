@@ -62,7 +62,7 @@
                         </tr>
                         <tr>
                             <td>1200-1250</td>
-                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1200-1220</span></td>
@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                             <td>1400-1450</td>
-                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
@@ -162,7 +162,7 @@
                         </tr>
                         <tr>
                             <td>0940-1030</td>
-                            <td><span class="color-event text-bold">Lectures by Fellows/Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
                         </tr>
                         <tr>
                             <td><span class="color-black">0940-1000</span></td>
@@ -220,7 +220,7 @@
                         </tr>
                         <tr>
                             <td>1400-1540</td>
-                            <td><span class="color-event text-bold">Lectures  by Fellows/Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures  by Fellows / Associates</span></td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
@@ -260,8 +260,8 @@
                         </tr>
                         <tr>
                             <td>1800-1900</td>
-                            <td>Public Lecture<br /><span class="speaker">Ravindra Korisettar</span>, Karnatak University, Dharwad<br />
-								<i>Importance of the Vindhya Basins, central India, in the Prehistory of India</i>
+                            <td>Public Lecture<br /><span class="speaker">Ravindra Korisettar</span>, Dr VS Wakankar Archaeological Research Institute, Dharwad<br />
+								<i>Importance of the Vindhya Basin in the Prehistory of the Indian Subcontinent</i>
                             </td>
                         </tr>
                         <tr>
@@ -289,7 +289,7 @@
                     <tbody>
                         <tr>
                             <td>0900-1220</td>
-                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows/Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
                         </tr>
                         <tr>
                             <td>0900-0920</td>
