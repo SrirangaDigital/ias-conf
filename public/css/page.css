@@ -690,3 +690,11 @@ button.toggle-button{
   text-align:center;
   display:none;
 }
+
+.talk{
+  font-style: italic;
+  font-size: 1.5em;
+}
+.abstract{
+  font-weight: bold;
+}
