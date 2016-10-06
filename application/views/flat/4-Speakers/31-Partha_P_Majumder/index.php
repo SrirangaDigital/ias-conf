@@ -17,8 +17,13 @@
         <div class="col-md-9 text-left">
             <p>
                 <span class="text-bold">Partha P Majumder</span><br />
-                NIBMG,<br /> 
-                Kolkata            
+                    Director<br />
+                    National Institute of Biomedical Genomics<br />
+                    Netaji Subhas Sanitorium<br />
+                    Kalyani 741 251<br />
+                    Tel off. (033) 2589 2150<br />
+                    Mobile: 98310 04230<br />
+                    Email: ppm1@nibmg.ac.in
             </p>
         </div>    
     </div>        

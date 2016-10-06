@@ -18,9 +18,9 @@
             <p>
                 <span class="text-bold">Vineet K Sharma</span><br />
                 Indian Institute of Science Education and Research Bhopal<br />
-                Bhopal Bypass Road, Bhauri<br />
                 Bhopal 462 066<br />
-                Madhya Pradesh, INDIA            
+                Tel. off. (0755) 269 2572<br />
+                Mobile: 81202 54321
             </p>
         </div>    
     </div>        

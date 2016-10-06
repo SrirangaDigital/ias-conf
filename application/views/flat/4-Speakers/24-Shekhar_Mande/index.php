@@ -17,8 +17,11 @@
         <div class="col-md-9 text-left">
             <p>
                 <span class="text-bold">Shekhar C Mande</span><br />
-                NCCS,<br /> 
-                Pune    
+                   Director<br />
+                   National Centre for Cell Science<br />
+                   Pune 411 007<br />
+                   Tel. off. (020) 2569 1065<br />
+                   Email: director@nccs.res.in, shekhar@nccs.res.in
             </p>
         </div>    
     </div>        

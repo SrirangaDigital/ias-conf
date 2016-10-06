@@ -17,8 +17,10 @@
         <div class="col-md-9 text-left">
             <p>
                 <span class="text-bold">Souvik Mukherjee</span><br />
-                NIBMG,<br /> 
-                Kolkata
+                    National Institute of Biomedical Genomics<br />
+                    Netaji Subhas Sanitorium<br />
+                    Kalyani 741 251<br />
+                    mobile: 98301 32775
             </p>
         </div>    
     </div>        
