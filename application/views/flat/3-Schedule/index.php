@@ -66,14 +66,19 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1200-1220</span></td>
-                            <td><span class="speaker">Arun Chattopadhyay</span>, IIT, Guwahati<br />
-								<i>Decorating the surface of a quantum dot with molecules</i>
+                            <td>
+                                <div>
+                                    <span class="speaker">Arun Chattopadhyay</span>, IIT, Guwahati<br />
+    								<i>Decorating the surface of a quantum dot with molecules</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Arun_Chattopadhyay">More...</a>
+                                </div>
                             </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1225-1245</span></td>
                             <td><span class="speaker">Sanjib K. Agarwalla</span>, IoP, Bhubaneswar<br />
-								<i>Neutrino Oscillation Parameters: Present Status and Future Roadmap</i>
+								<i>Neutrino Oscillation Parameters: Present Status and Future Roadmap</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Sanjib_Agarwalla">More...</a>
                             </td>
                         </tr>
                         <tr class="color-break">
