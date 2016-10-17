@@ -14,7 +14,7 @@
                 <figcaption class="figure-caption text-center">Krishna P. Kaliappan</figcaption>
             </p>
         </div>
-        <div class="col-md-9 text-left">
+        <div class="col-md-3 text-left">
             <p>
                 <span class="text-bold">Krishna P. Kaliappan</span><br />
                 Department of Chemistry,<br /> 
@@ -25,5 +25,13 @@
                 Email: kpk@chem.iitb.ac.in
             </p>
         </div>    
+        <div class="col-md-6" id="K_P_Kaliappan">
+            <p class="color-event text-bold">Inaugural Lecture</p>
+            <p class="talk">Domino strategy to synthesis of natural products and heterocycles</p>
+            <p>
+            <span class="abstract">Abstract</span><br />
+
+            </p>
+        </div>        
     </div>        
 </div>

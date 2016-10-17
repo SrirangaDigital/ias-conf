@@ -14,7 +14,7 @@
                 <figcaption class="figure-caption text-center">T V Ramakrishnan</figcaption>
             </p>
         </div>
-        <div class="col-md-9 text-left">
+        <div class="col-md-3 text-left">
             <p>
                 <span class="text-bold">T V Ramakrishnan</span><br />
                 Emeritus Professor,<br /> 
@@ -26,5 +26,13 @@
                 Email: tvrama2002@yahoo.co.in, tvrama@bhu.ac.in
             </p>
         </div>    
+        <div class="col-md-6" id="T_V_Ramakrishnan">
+            <p class="color-event text-bold">Symposium  in honour of Prof. Walter Kohn</p>
+            <p class="talk">Walter Kohn and the rise of condensed matter physics</p>
+            <p>
+            <span class="abstract">Abstract</span><br />
+                Walter Kohn once remarked that around 1951, the great Niels Bohr had not heard of the phrase ‘solid state physics’, an earlier avatar of condensed matter physics.  Kohn played a prominent role in the evolution of the field from that obscurity to its present prominence, through his work and influence. In this talk, some of his contributions to the electron theory of solids, e.g. variational  approaches, effective mass theory, effect of electron interactions and  density functional theory for electronic structure, will be highlighted.  Then, his role as a leading figure in physics, in the USA and elsewhere, will be briefly touched upon. 
+            </p>
+        </div>
     </div>        
 </div>

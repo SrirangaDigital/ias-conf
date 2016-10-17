@@ -14,7 +14,7 @@
                 <figcaption class="figure-caption text-center">Shekhar Mande</figcaption>
             </p>
         </div>
-        <div class="col-md-9 text-left">
+        <div class="col-md-3 text-left">
             <p>
                 <span class="text-bold">Shekhar C Mande</span><br />
                    Director<br />
@@ -24,5 +24,12 @@
                    Email: director@nccs.res.in, shekhar@nccs.res.in
             </p>
         </div>    
+        <div class="col-md-6" id="Shekhar_Mande">
+            <p class="color-event text-bold">Symposium on “Our Second Genome”</p>
+            <p class="talk">Towards a National Microbiome Project</p>
+            <p>
+            <span class="abstract">Abstract</span><br />
+            </p>
+        </div>        
     </div>        
 </div>
