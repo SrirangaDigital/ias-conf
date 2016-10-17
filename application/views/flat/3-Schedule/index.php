@@ -22,7 +22,7 @@
 
 
 <div class="container">
-    <ul class="nav nav-pills">
+    <ul class="nav nav-pills nav-justified">
         <li class="active"><a data-toggle="pill" href="#day1">Day 1</a></li>
         <li><a data-toggle="pill" href="#day2">Day 2</a></li>
         <li><a data-toggle="pill" href="#day3">Day 3</a></li>
@@ -49,7 +49,8 @@
                             <td>0930-1045</td>
                             <td><span class="color-event text-bold">Inauguration &amp; Presidential Address</span><br />
                                 <span class="speaker">Ram Ramaswamy</span>, JNU, New Delhi<br />
-                                <i>Chimeras: A spontaneous emergence of dynamical disorder</i>
+                                <i>Chimeras: A spontaneous emergence of dynamical disorder</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">More...</a>
                             </td>
                         </tr>
                         <tr>
@@ -92,13 +93,15 @@
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
                             <td><span class="speaker">Javed N Agrewala</span>, IMTECH, Chandigarh<br /> 
-								<i>Signalling through Toll-Like Receptors can influence the dose and duration of treatment with anti-TB drugs</i>
+								<i>Signalling through Toll-Like Receptors can influence the dose and duration of treatment with anti-TB drugs</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Javed_Agrewala">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1425-1445</span></td>
                             <td><span class="speaker">A Raghuram</span>, IISER, Pune<br />
-								<i>From calculus to number theory</i>
+								<i>From calculus to number theory</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Raghuram_A">More...</a>
                             </td>
                         </tr>
                         <tr class="color-break">
@@ -112,24 +115,29 @@
                         <tr>
                             <td><span class="color-black">1530</span></td>
                             <td><span class="speaker">T V Ramakrishnan</span>, BHU, Varanasi<br />
-								<i>Walter Kohn and the Rise of Condensed Matter Physics</i>
+								<i>Walter Kohn and the Rise of Condensed Matter Physics</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1600</span></td>
                             <td><span class="speaker">Swapan K Ghosh</span>, BARC, Mumbai<br />
-								<i>Density functional theory for materials modeling at different length scales: A legacy of Walter Kohn</i>
+								<i>Density functional theory for materials modeling at different length scales: A legacy of Walter Kohn</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Swapan_K_Ghosh">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1630</span></td>
                             <td><span class="speaker">TanusriSaha-Dasgupta</span>, SN Bose Natl. Centre for Basic Sciences, Kolkata<br />
-                            <i>Beyond the conventional DFT: Life with “U”</i></td>
+                            <i>Beyond the conventional DFT: Life with “U”</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Tanusri_Sahadasgupta">More...</a>
+                        </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1700</span></td>
                             <td><span class="speaker">Umesh V Waghmare</span>, JNCASR, Bengaluru<br />
-								<i>Electrons in a Crystal: Localized versus Extended Orbitals</i>
+								<i>Electrons in a Crystal: Localized versus Extended Orbitals</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Umesh_V_Waghmare">More...</a>
                             </td>
                         </tr>
                         <tr class="color-break">
@@ -140,7 +148,8 @@
                             <td>1800-1900</td>
                             <td><span class="color-event text-bold">Public lecture</span><br /> 
                                 <span class="speaker">Rajendra Singh</span>, Tarun Bharat Sangh, Alwar (Rajasthan)<br />
-                                <i>Indigenous knowledge system in Indian Water Management</i>  
+                                <i>Indigenous knowledge system in Indian Water Management</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Rajendra_Singh">More...</a>  
                             </td>
                         </tr>
                     </tbody>
@@ -162,7 +171,8 @@
                             <td>0900-0940</td>
                             <td><span class="color-event text-bold">Special Lecture</span><br />
                                 <span class="speaker">Sunil Mukhi</span>, IISER, Pune<br />
-                                <i>Academic Ethics in India: What We Must Do</i>
+                                <i>Academic Ethics in India: What We Must Do</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Sunil_Mukhi">More...</a>
                             </td>
                         </tr>
                         <tr>
@@ -172,13 +182,15 @@
                         <tr>
                             <td><span class="color-black">0940-1000</span></td>
                             <td><span class="speaker">Pradyut Ghosh</span>, IACS, Kolkata<br />
-								<i>Recognition, Sensing, Separation of Anions</i>
+								<i>Recognition, Sensing, Separation of Anions</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Pradyut_Ghosh">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1005-1025</span></td>
                             <td><span class="speaker">Ankur A. Kulkarni</span>, IIT, Mumbai<br />
-								<i>Towards a convex-analytic view of impossibility results in stochastic control and information theory</i>
+								<i>Towards a convex-analytic view of impossibility results in stochastic control and information theory</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Ankur_Kulkarni">More...</a>
                             </td>
                         </tr>
                         <tr class="color-break">
@@ -192,31 +204,36 @@
                         <tr>
                             <td><span class="color-black">1050</span></td>
                             <td><span class="speaker">Partha P. Majumder</span>, NIBG, Kolkata<br />
-								<i>An Overview of Our Second Genome</i>
+								<i>An Overview of Our Second Genome</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Partha_P_Majumder">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1110</span></td>
                             <td><span class="speaker">Sharmila Mande</span>, TCS, Pune<br />
-								<i>Gut Microbiome and Health</i>	
+								<i>Gut Microbiome and Health</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Sharmila_Mande">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1140</span></td>
                             <td><span class="speaker">Vineet K. Sharma</span>, IISER, Bhopal<br />
-								<i>Novel insights into The Human Microbiome</i>
+								<i>Novel insights into The Human Microbiome</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Vineet_K_Sharma">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1210</span></td>
                             <td><span class="speaker">Souvik Mukherjee</span>, NIBMG, Kolkata<br />
-								<i>The Microbiome in Skin Health and Disease</i>
+								<i>The Microbiome in Skin Health and Disease</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Souvik_Mukherjee">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1240</span></td>
                             <td><span class="speaker">Shekhar C Mande</span>, NCCS, Pune<br />
-								<i>Towards a National Microbiome Project</i>
+								<i>Towards a National Microbiome Project</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Shekhar_Mande">More...</a>
 							</td>
                         </tr>
                         <tr class="color-break">
@@ -230,25 +247,29 @@
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
                             <td><span class="speaker">G C Anupama</span>, IIA, Bangalore<br />
-								<i>Time Domain Astronomy - Explosive Transients</i>
+								<i>Time Domain Astronomy - Explosive Transients</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/G_C_Anupama">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1425-1445</span></td>
                             <td><span class="speaker">S Ganesh</span>, IIT, Kanpur<br />
-								<i>Role of non-coding RNAs in cellular stress response</i>
+								<i>Role of non-coding RNAs in cellular stress response</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/S_Ganesh">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1450-1510</span></td>
                             <td><span class="speaker">K N Balaji</span>, IISc, Bangalore<br />
-								<i>Mycobacteria scapegoat host epigenetic factors and non-coding RNAs to sneak through host immune responses</i>
+								<i>Mycobacteria scapegoat host epigenetic factors and non-coding RNAs to sneak through host immune responses</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="<?=BASE_URL?>Speakers/K_N_Balaji">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1515-1535</span></td>
                             <td><span class="speaker">Anshu Pandey</span>, IISc, Bangalore<br />
-								<i>Chemistry with bigger atoms</i>
+								<i>Chemistry with bigger atoms</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Anshu_Pandey">More...</a>
                             </td>
                         </tr>
                         <tr class="color-break">
@@ -266,7 +287,8 @@
                         <tr>
                             <td>1800-1900</td>
                             <td>Public Lecture<br /><span class="speaker">Ravindra Korisettar</span>, Dr VS Wakankar Archaeological Research Institute, Dharwad<br />
-								<i>Importance of the Vindhya Basin in the Prehistory of the Indian Subcontinent</i>
+								<i>Importance of the Vindhya Basin in the Prehistory of the Indian Subcontinent</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="<?=BASE_URL?>Speakers/Ravi_Korisettar">More...</a>
                             </td>
                         </tr>
                         <tr>
@@ -299,25 +321,29 @@
                         <tr>
                             <td>0900-0920</td>
                             <td><span class="speaker">Krishna P Kaliappan</span>, IIT, Mumbai<br />
-								<i>Domino strategy to synthesis of natural products and heterocycles</i>
+								<i>Domino strategy to synthesis of natural products and heterocycles</i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="<?=BASE_URL?>Speakers/K_P_Kaliappan">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td>0925-0945</td>
                             <td><span class="speaker">Anuradha Dube</span>, CDRI, Lucknow<br />
 								<i>Challenges in the control of Kala-azar- a disease of poverty</i>
+                                &nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="<?=BASE_URL?>Speakers/Anuradha_Dube">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td>0950-1010</td>
                             <td><span class="speaker">N Ravishankar</span>, IISc, Bangalore<br />
-								<i>Intriguing Structure and Transport Behaviour of Ultrathin Single Crystalline Gold Nanowires</i>
+								<i>Intriguing Structure and Transport Behaviour of Ultrathin Single Crystalline Gold Nanowires</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/N_Ravishankar">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td>1015-1035</td>
                             <td><span class="speaker">B. Anand</span>, IIT, Guwahati<br />
-								<i>Homing mechanism of the CRISPR-Cas Adaptive Immune System</i>
+								<i>Homing mechanism of the CRISPR-Cas Adaptive Immune System</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/B_Anand">More...</a>
 							</td>
                         </tr>
                         <tr class="color-break">
@@ -327,26 +353,30 @@
                         <tr>
                             <td>1100-1120</td>
                             <td><span class="speaker">Tirthankar Bhattacharyya</span>, IISc, Bengaluru<br />
-								<i>What do analytic functions look like?</i>
+								<i>What do analytic functions look like?</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td>1125-1145</td>
                             <td><span class="speaker">Pratap Raychaudhuri</span>, TIFR, Mumbai<br />
-								<i>Low temperature scanning tunneling spectroscopy</i>
+								<i>Low temperature scanning tunneling spectroscopy</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri">More...</a>
                             </td>
                         </tr>
                         <tr>
                             <td>1150-1210</td>
                             <td><span class="speaker">G.R. Tripathy</span>, IISER, Pune<br />
-								<i>Re-Os geochronology: Clues for past marine and atmospheric conditions</i>
+								<i>Re-Os geochronology: Clues for past marine and atmospheric conditions</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/G_R_Tripathy">More...</a>
 							</td>
                         </tr>
                         <tr>
                             <td>1215-1300</td>
                             <td><span class="color-event text-bold">Special Lecture</span><br />
                             <span class="speaker">Amitabh Joshi</span>, JNCASR, Bengaluru<br />
-								<i>Experimental ecology and evolution in the laboratory</i>
+								<i>Experimental ecology and evolution in the laboratory</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <a href="<?=BASE_URL?>Speakers/Amitabh_Joshi">More...</a>
                             </td>
                         </tr>
                         <tr class="color-break">
