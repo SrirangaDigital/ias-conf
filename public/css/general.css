@@ -233,3 +233,9 @@ a {
     text-align: left;
     line-height: 1.5;
 }
+.speakers-profile{
+	font-weight: bold;		
+}
+.figure-caption{
+	font-weight: bold;	
+}
