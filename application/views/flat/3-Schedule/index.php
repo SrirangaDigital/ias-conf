@@ -326,10 +326,10 @@
                         </tr>
                         <tr>
                             <td>0925-0945</td>
-                            <td><span class="speaker">Anuradha Dube</span>, CDRI, Lucknow<br />
-								<i>Challenges in the control of Kala-azar- a disease of poverty</i>
+                            <td><span class="speaker">Appa Rao Podile</span>, University of Hyderabad, Hyderabad<br />
+								<i>Transglycosylation by bacterial chitinases</i>
                                 &nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href="<?=BASE_URL?>Speakers/Anuradha_Dube">More...</a>
+                                <a href="<?=BASE_URL?>Speakers/Appa_Rao_Podile">More...</a>
 							</td>
                         </tr>
                         <tr>
