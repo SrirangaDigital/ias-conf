@@ -53,6 +53,8 @@
         </div>
     </div>        
 </div>
+
+<!--Speakers -->
 <div class="container-fluid" id="speakers">
     <div class="row">
         <div class="col-md-12">
@@ -67,57 +69,11 @@
             </a>
         </div>
         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Anshu_Pandey">
-                 <img src="<?=PUBLIC_URL?>images/stock/Anshu_Pandey.jpg" class="img-thumbnail" alt="Anshu Pandey" />
-                 <figcaption class="figure-caption text-xs-right">Anshu Pandey</figcaption>
-            </a>
-        </div>
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Ankur_Kulkarni">
-                 <img src="<?=PUBLIC_URL?>images/stock/Anukur_Kulkarni.jpg" class="img-thumbnail" alt="Ankur Kulkarni.jpg" />
-                 <figcaption class="figure-caption text-xs-right">Ankur Kulkarni</figcaption>
-            </a>
-        </div>        
-        <div class="col-md-3">
             <a href="<?=BASE_URL?>Speakers/Arun_Chattopadhyay">
                  <img src="<?=PUBLIC_URL?>images/stock/Arun_Chattopadhyay.jpg" class="img-thumbnail" alt="Arun Chattopadhyay" />
                  <figcaption class="figure-caption text-xs-right">Arun Chattopadhyay</figcaption>     
             </a>
         </div>        
-    </div>
-    <div class="row gap-above-large">
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/B_Anand">
-                 <img src="<?=PUBLIC_URL?>images/stock/B_Anand.jpg" class="img-thumbnail" alt="B Anand" />
-                 <figcaption class="figure-caption text-xs-right">B Anand</figcaption>
-            </a>
-        </div>
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/G_R_Tripathy">
-                 <img src="<?=PUBLIC_URL?>images/stock/G_R_Tripathy.jpg" class="img-thumbnail" alt="G R Tripathy" />
-                 <figcaption class="figure-caption text-xs-right">G R Tripathy</figcaption>
-            </a>
-        </div>        
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/K_P_Kaliappan">
-                <img src="<?=PUBLIC_URL?>images/stock/K_P_Kaliappan.jpg" class="img-thumbnail" alt="K P Kaliappan" />
-                <figcaption class="figure-caption text-xs-right">K P Kaliappan</figcaption>
-            </a>
-        </div>        
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/N_Ravishankar">        
-                <img src="<?=PUBLIC_URL?>images/stock/N_Ravishankar.jpg" class="img-thumbnail" alt="N Ravishankar" />
-                <figcaption class="figure-caption text-xs-right">N Ravishankar</figcaption>
-            </a>
-        </div>
-    </div>    
-    <div class="row gap-above-large">
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Pradyut_Ghosh">
-                <img src="<?=PUBLIC_URL?>images/stock/Pradyut_Ghosh.jpg" class="img-thumbnail" alt="Pradyut Ghosh" />
-                <figcaption class="figure-caption text-xs-right">Pradyut Ghosh</figcaption>
-            </a>
-        </div>
         <div class="col-md-3">
             <a href="<?=BASE_URL?>Speakers/Sanjib_Agarwalla">
                 <img src="<?=PUBLIC_URL?>images/stock/Sanjib_Agarwalla.jpg" class="img-thumbnail" alt="Sanjib Agarwalla" />
@@ -125,107 +81,23 @@
             </a>    
         </div>        
         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/S_Ganesh">        
-                <img src="<?=PUBLIC_URL?>images/stock/S_Ganesh.jpg" class="img-thumbnail" alt="S Ganesh" />
-                <figcaption class="figure-caption text-xs-right">S Ganesh</figcaption>
-            </a>    
-        </div>        
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Tanusri_Sahadasgupta">        
-                <img src="<?=PUBLIC_URL?>images/stock/Tanusri_Sahadasgupta.jpg" class="img-thumbnail" alt="Tanusri Sahadasgupta" />
-                <figcaption class="figure-caption text-xs-right">Tanusri Sahadasgupta</figcaption>
-            </a>    
-        </div>
-    </div>                            
-    <div class="row gap-above-large">
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya">        
-                <img src="<?=PUBLIC_URL?>images/stock/Tirthankar_Bhattacharyya.jpg" class="img-thumbnail" alt="Tirthankar Bhattacharyya" />
-                <figcaption class="figure-caption text-xs-right">Tirthankar Bhattacharyya</figcaption>
-            </a>
-        </div>
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Amitabh_Joshi">        
-                <img src="<?=PUBLIC_URL?>images/stock/Amitabh_Joshi.jpg" class="img-thumbnail" alt="Amitabh Joshi" />
-                <figcaption class="figure-caption text-xs-right">Amitabh Joshi</figcaption>
-            </a>
-        </div>        
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Anuradha_Dube">        
-                <img src="<?=PUBLIC_URL?>images/stock/Anuradha_Dube.jpg" class="img-thumbnail" alt="Anuradha Dube" />
-                <figcaption class="figure-caption text-xs-right">Anuradha Dube</figcaption>
-            </a>
-        </div>             
-         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/G_C_Anupama">        
-                <img src="<?=PUBLIC_URL?>images/stock/G_C_Anupama.jpg" class="img-thumbnail" alt="G C Anupama" />
-                <figcaption class="figure-caption text-xs-right">G C Anupama</figcaption>
-            </a>
-        </div>             
-    </div>   
-    <div class="row gap-above-large">
-        <div class="col-md-3">
             <a href="<?=BASE_URL?>Speakers/Javed_Agrewala">        
                 <img src="<?=PUBLIC_URL?>images/stock/javed_Agrewala.jpg" class="img-thumbnail" alt="Javed_Agrewala" />
                 <figcaption class="figure-caption text-xs-right">Javed Agrewala</figcaption>
             </a>
         </div>        
+    </div>
+    <div class="row gap-above-large">
         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/K_N_Balaji">        
-                <img src="<?=PUBLIC_URL?>images/stock/K_N_Balaji.jpg" class="img-thumbnail" alt="K N Balaji" />
-                <figcaption class="figure-caption text-xs-right">K N Balaji</figcaption>
-            </a>
-        </div>
-         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri">        
-                <img src="<?=PUBLIC_URL?>images/stock/Pratap_Raychaudhuri.jpg" class="img-thumbnail" alt="Pratap Raychaudhuri" />
-                <figcaption class="figure-caption text-xs-right">Pratap Raychaudhuri</figcaption>
-            </a>
-        </div>
-          <div class="col-md-3">
             <a href="<?=BASE_URL?>Speakers/Raghuram_A">        
                 <img src="<?=PUBLIC_URL?>images/stock/Raghuram_A.jpg" class="img-thumbnail" alt="Raghuram A" />
                 <figcaption class="figure-caption text-xs-right">Raghuram A</figcaption>
             </a>
         </div>
-    </div>
-    <div class="row gap-above-large">
         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Rajendra_Singh">        
-                <img src="<?=PUBLIC_URL?>images/stock/Rajendra_Singh.jpg" class="img-thumbnail" alt="Rajendra Singh" />
-                <figcaption class="figure-caption text-xs-right">Rajendra Singh</figcaption>
-            </a>
-        </div>
-         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Ravi_Korisettar">        
-                <img src="<?=PUBLIC_URL?>images/stock/Ravi_Korisettar.jpg" class="img-thumbnail" alt="Ravi Korisettar" />
-                <figcaption class="figure-caption text-xs-right">Ravi Korisettar</figcaption>
-            </a>
-        </div>
-         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Sharmila_Mande">        
-                <img src="<?=PUBLIC_URL?>images/stock/Sharmila_Mande.jpg" class="img-thumbnail" alt="Sharmila Mande" />
-                <figcaption class="figure-caption text-xs-right">Sharmila Mande</figcaption>
-            </a>
-        </div>
-          <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Shekhar_Mande">        
-                <img src="<?=PUBLIC_URL?>images/stock/Shekhar_Mande.jpg" class="img-thumbnail" alt="Shekhar Mande" />
-                <figcaption class="figure-caption text-xs-right">Shekhar Mande</figcaption>
-            </a>
-        </div>
-    </div>
-    <div class="row gap-above-large">
-        <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Souvik_Mukherjee">        
-                <img src="<?=PUBLIC_URL?>images/stock/Souvik_Mukherjee.jpg" class="img-thumbnail" alt="Souvik Mukherjee" />
-                <figcaption class="figure-caption text-xs-right">Souvik Mukherjee</figcaption>
-            </a>
-        </div>
-         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Sunil_Mukhi">        
-                <img src="<?=PUBLIC_URL?>images/stock/Sunil_Mukhi.jpg" class="img-thumbnail" alt="Sunil Mukhi" />
-                <figcaption class="figure-caption text-xs-right">Sunil Mukhi</figcaption>
+            <a href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan">        
+                <img src="<?=PUBLIC_URL?>images/stock/T_V_Ramakrishnan.jpg" class="img-thumbnail" alt="T_V_Ramakrishnan" />
+                <figcaption class="figure-caption text-xs-right">T V Ramakrishnan</figcaption>
             </a>
         </div>
          <div class="col-md-3">
@@ -235,10 +107,10 @@
             </a>
         </div>
         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan">        
-                <img src="<?=PUBLIC_URL?>images/stock/T_V_Ramakrishnan.jpg" class="img-thumbnail" alt="T_V_Ramakrishnan" />
-                <figcaption class="figure-caption text-xs-right">T V Ramakrishnan</figcaption>
-            </a>
+            <a href="<?=BASE_URL?>Speakers/Tanusri_Sahadasgupta">        
+                <img src="<?=PUBLIC_URL?>images/stock/Tanusri_Sahadasgupta.jpg" class="img-thumbnail" alt="Tanusri Sahadasgupta" />
+                <figcaption class="figure-caption text-xs-right">Tanusri Sahadasgupta</figcaption>
+            </a>    
         </div>
     </div>
     <div class="row gap-above-large">
@@ -249,11 +121,31 @@
             </a>
         </div>
         <div class="col-md-3">
-            <a href="<?=BASE_URL?>Speakers/Vineet_K_Sharma">        
-                <img src="<?=PUBLIC_URL?>images/stock/Vineet_K_Sharma.jpg" class="img-thumbnail" alt="Vineet K Sharma" />
-                <figcaption class="figure-caption text-xs-right">Vineet K Sharma</figcaption>
+            <a href="<?=BASE_URL?>Speakers/Rajendra_Singh">        
+                <img src="<?=PUBLIC_URL?>images/stock/Rajendra_Singh.jpg" class="img-thumbnail" alt="Rajendra Singh" />
+                <figcaption class="figure-caption text-xs-right">Rajendra Singh</figcaption>
             </a>
         </div>
+         <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Sunil_Mukhi">        
+                <img src="<?=PUBLIC_URL?>images/stock/Sunil_Mukhi.jpg" class="img-thumbnail" alt="Sunil Mukhi" />
+                <figcaption class="figure-caption text-xs-right">Sunil Mukhi</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Pradyut_Ghosh">
+                <img src="<?=PUBLIC_URL?>images/stock/Pradyut_Ghosh.jpg" class="img-thumbnail" alt="Pradyut Ghosh" />
+                <figcaption class="figure-caption text-xs-right">Pradyut Ghosh</figcaption>
+            </a>
+        </div>
+    </div>
+    <div class="row gap-above-large">
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Ankur_Kulkarni">
+                 <img src="<?=PUBLIC_URL?>images/stock/Anukur_Kulkarni.jpg" class="img-thumbnail" alt="Ankur Kulkarni.jpg" />
+                 <figcaption class="figure-caption text-xs-right">Ankur Kulkarni</figcaption>
+            </a>
+        </div>        
         <div class="col-md-3">
             <a href="<?=BASE_URL?>Speakers/Partha_P_Majumder">        
                 <img src="<?=PUBLIC_URL?>images/stock/Partha_P_Majumder.jpg" class="img-thumbnail" 
@@ -261,8 +153,121 @@
                 <figcaption class="figure-caption text-xs-right">Partha P Majumder</figcaption>
             </a>
         </div>
-    </div>                                    
+         <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Sharmila_Mande">        
+                <img src="<?=PUBLIC_URL?>images/stock/Sharmila_Mande.jpg" class="img-thumbnail" alt="Sharmila Mande" />
+                <figcaption class="figure-caption text-xs-right">Sharmila Mande</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Vineet_K_Sharma">        
+                <img src="<?=PUBLIC_URL?>images/stock/Vineet_K_Sharma.jpg" class="img-thumbnail" alt="Vineet K Sharma" />
+                <figcaption class="figure-caption text-xs-right">Vineet K Sharma</figcaption>
+            </a>
+        </div>        
+    </div>        
+    <div class="row gap-above-large">
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Souvik_Mukherjee">        
+                <img src="<?=PUBLIC_URL?>images/stock/Souvik_Mukherjee.jpg" class="img-thumbnail" alt="Souvik Mukherjee" />
+                <figcaption class="figure-caption text-xs-right">Souvik Mukherjee</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Shekhar_Mande">        
+                <img src="<?=PUBLIC_URL?>images/stock/Shekhar_Mande.jpg" class="img-thumbnail" alt="Shekhar Mande" />
+                <figcaption class="figure-caption text-xs-right">Shekhar Mande</figcaption>
+            </a>
+        </div>
+         <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/G_C_Anupama">        
+                <img src="<?=PUBLIC_URL?>images/stock/G_C_Anupama.jpg" class="img-thumbnail" alt="G C Anupama" />
+                <figcaption class="figure-caption text-xs-right">G C Anupama</figcaption>
+            </a>
+        </div>             
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/S_Ganesh">        
+                <img src="<?=PUBLIC_URL?>images/stock/S_Ganesh.jpg" class="img-thumbnail" alt="S Ganesh" />
+                <figcaption class="figure-caption text-xs-right">S Ganesh</figcaption>
+            </a>    
+        </div>        
+    </div>        
+    <div class="row gap-above-large">
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/K_N_Balaji">        
+                <img src="<?=PUBLIC_URL?>images/stock/K_N_Balaji.jpg" class="img-thumbnail" alt="K N Balaji" />
+                <figcaption class="figure-caption text-xs-right">K N Balaji</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Anshu_Pandey">
+                 <img src="<?=PUBLIC_URL?>images/stock/Anshu_Pandey.jpg" class="img-thumbnail" alt="Anshu Pandey" />
+                 <figcaption class="figure-caption text-xs-right">Anshu Pandey</figcaption>
+            </a>
+        </div>
+         <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Ravi_Korisettar">        
+                <img src="<?=PUBLIC_URL?>images/stock/Ravi_Korisettar.jpg" class="img-thumbnail" alt="Ravi Korisettar" />
+                <figcaption class="figure-caption text-xs-right">Ravi Korisettar</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/K_P_Kaliappan">
+                <img src="<?=PUBLIC_URL?>images/stock/K_P_Kaliappan.jpg" class="img-thumbnail" alt="K P Kaliappan" />
+                <figcaption class="figure-caption text-xs-right">K P Kaliappan</figcaption>
+            </a>
+        </div>                
+    </div>        
+    <div class="row gap-above-large">
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Appa_Rao_Podile">
+                <img src="<?=PUBLIC_URL?>images/stock/Appa_Rao_Podile.jpg" class="img-thumbnail" alt="Appa Rao Podile" />
+                <figcaption class="figure-caption text-xs-right">Appa Rao Podile</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/N_Ravishankar">        
+                <img src="<?=PUBLIC_URL?>images/stock/N_Ravishankar.jpg" class="img-thumbnail" alt="N Ravishankar" />
+                <figcaption class="figure-caption text-xs-right">N Ravishankar</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/B_Anand">
+                 <img src="<?=PUBLIC_URL?>images/stock/B_Anand.jpg" class="img-thumbnail" alt="B Anand" />
+                 <figcaption class="figure-caption text-xs-right">B Anand</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya">        
+                <img src="<?=PUBLIC_URL?>images/stock/Tirthankar_Bhattacharyya.jpg" class="img-thumbnail" alt="Tirthankar Bhattacharyya" />
+                <figcaption class="figure-caption text-xs-right">Tirthankar Bhattacharyya</figcaption>
+            </a>
+        </div>
+    </div>        
+    <div class="row gap-above-large">
+         <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri">        
+                <img src="<?=PUBLIC_URL?>images/stock/Pratap_Raychaudhuri.jpg" class="img-thumbnail" alt="Pratap Raychaudhuri" />
+                <figcaption class="figure-caption text-xs-right">Pratap Raychaudhuri</figcaption>
+            </a>
+        </div>
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/G_R_Tripathy">
+                 <img src="<?=PUBLIC_URL?>images/stock/G_R_Tripathy.jpg" class="img-thumbnail" alt="G R Tripathy" />
+                 <figcaption class="figure-caption text-xs-right">G R Tripathy</figcaption>
+            </a>
+        </div>        
+        <div class="col-md-3">
+            <a href="<?=BASE_URL?>Speakers/Amitabh_Joshi">        
+                <img src="<?=PUBLIC_URL?>images/stock/Amitabh_Joshi.jpg" class="img-thumbnail" alt="Amitabh Joshi" />
+                <figcaption class="figure-caption text-xs-right">Amitabh Joshi</figcaption>
+            </a>
+        </div>        
+    </div>
 </div>
+
+
+
 <div class="container-fluid" id="venue">
     <div class="row">
         <div class="col-md-12">
