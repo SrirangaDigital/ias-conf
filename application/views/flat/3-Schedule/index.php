@@ -43,11 +43,15 @@
                     <tbody>
                         <tr>
                             <td>0900-0930</td>
-                            <td><span class="color-event text-bold">Registration</span></td>
+                            <td><span class="color-event text-bold">Registration<br /> (Venue: Lecture Hall Complex)</span></td>
                         </tr>
                         <tr>
-                            <td>0930-1045</td>
-                            <td><span class="color-event text-bold">Inauguration &amp; Presidential Address</span><br />
+                            <td>0930-1000</td>
+                            <td><span class="color-event text-bold">Inauguration and introduction of Fellows</span></td>
+                        </tr>
+                        <tr>
+                            <td>1000-1045</td>
+                            <td><span class="color-event text-bold">Presidential Address: </span><br />
                                 <span class="speaker">Ram Ramaswamy</span>, JNU, New Delhi<br />
                                 <i>Chimeras: A spontaneous emergence of dynamical disorder</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">More...</a>
@@ -55,7 +59,7 @@
                         </tr>
                         <tr>
                             <td>1045-1130</td>
-                            <td><span class="color-event text-bold">Book Release function (authored by Prof. C N R Rao)</span></td>
+                            <td>Book release; <span class="text-bold">A Life in Science</span> –  Author: <span class="text-bold">Prof. C N R Rao</span><br /> Published by Penguin Random House India</td>
                         </tr>
                         <tr class="color-break">
                             <td>1135-1200</td>
@@ -63,7 +67,9 @@
                         </tr>
                         <tr>
                             <td>1200-1250</td>
-                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures of Fellows / Associates</span><br />
+                             Chairperson: <span class="text-bold">Subrata Ghosh</span>, IACS, Kolkata   
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1200-1220</span></td>
@@ -88,13 +94,17 @@
                         </tr>
                         <tr>
                             <td>1400-1450</td>
-                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures of Fellows<br />
+                            (Venue: Auditorium – Visitors’ Hostel)</span><br />
+                            Chairperson: <span class="text-bold">Probir Roy</span>, Kolkata
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
                             <td><span class="speaker">Javed N Agrewala</span>, IMTECH, Chandigarh<br /> 
-								<i>Signalling through Toll-Like Receptors can influence the dose and duration of treatment with anti-TB drugs</i>&nbsp;&nbsp;&nbsp;&nbsp;
-                                    <a href="<?=BASE_URL?>Speakers/Javed_Agrewala">More...</a>
+								<i>Caerulomycin A suppresses arthritis symptoms by expanding
+                                regulatory T cells</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="<?=BASE_URL?>Speakers/Javed_Agrewala">More...</a>
                             </td>
                         </tr>
                         <tr>
@@ -110,7 +120,10 @@
                         </tr>
                         <tr>
                             <td>1530-1730</td>
-                            <td><span class="color-event text-bold">Symposium  in honour of Prof. Walter Kohn</span></td>
+                            <td><span class="color-event text-bold">Walter Kohn Memorial Symposium<br />
+                               (Venue: Visitors’ Hostel)</span><br />
+                               Chairperson: <span class="text-bold">H R Krishnamurthy</span>, IISc, Bengaluru
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1530</span></td>
@@ -128,7 +141,7 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1630</span></td>
-                            <td><span class="speaker">TanusriSaha-Dasgupta</span>, SN Bose Natl. Centre for Basic Sciences, Kolkata<br />
+                            <td><span class="speaker">Tanusri Saha-Dasgupta</span>, SN Bose Natl. Centre for Basic Sciences, Kolkata<br />
                             <i>Beyond the conventional DFT: Life with “U”</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Tanusri_Sahadasgupta">More...</a>
                         </td>
@@ -146,9 +159,12 @@
                         </tr>
                         <tr>
                             <td>1800-1900</td>
-                            <td><span class="color-event text-bold">Public lecture</span><br /> 
+                            <td><span class="color-event text-bold">Public lecture<br />
+                                (Venue: L5 – Lecture Hall Complex)    
+                                </span><br />
+                                Chairperson: <span class="text-bold">Ram Ramaswamy</span>, JNU, New Delhi<br /> 
                                 <span class="speaker">Rajendra Singh</span>, Tarun Bharat Sangh, Alwar (Rajasthan)<br />
-                                <i>Indigenous knowledge system in Indian Water Management</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i>Indigenous knowledge system of water management in India</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Rajendra_Singh">More...</a>  
                             </td>
                         </tr>
@@ -169,7 +185,10 @@
                     <tbody>
                         <tr>
                             <td>0900-0940</td>
-                            <td><span class="color-event text-bold">Special Lecture</span><br />
+                            <td><span class="color-event text-bold">Special Lecture<br />
+                                (Venue: Auditorium – Visitors’ Hostel)    
+                                </span><br />
+                                Chairperson: <span class="text-bold">P C Agrawal</span>, Mumbai<br />
                                 <span class="speaker">Sunil Mukhi</span>, IISER, Pune<br />
                                 <i>Academic Ethics in India: What We Must Do</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Sunil_Mukhi">More...</a>
@@ -177,7 +196,9 @@
                         </tr>
                         <tr>
                             <td>0940-1030</td>
-                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures of Fellows / Associates</span><br />
+                            Chairperson: <span class="text-bold">S Thangavelu</span>, IISc, Bengaluru    
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">0940-1000</span></td>
@@ -199,7 +220,9 @@
                         </tr>
                         <tr>
                             <td>1050-1300</td>
-                            <td><span class="color-event text-bold">Symposium on “Our Second Genome”</span></td>
+                            <td><span class="color-event text-bold">Symposium on “Our Second Genome”</span><br />
+                            Chairperson: <span class="text-bold">Partha P Majumder</span>, NIBMG, Kolkata    
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1050</span></td>
@@ -210,8 +233,8 @@
                         </tr>
                         <tr>
                             <td><span class="color-black">1110</span></td>
-                            <td><span class="speaker">Sharmila Mande</span>, TCS, Pune<br />
-								<i>Gut Microbiome and Health</i>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <td><span class="speaker">Sharmila S Mande</span>, TCS, Pune<br />
+								<i>Gut Microbiome and Human Health</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Sharmila_Mande">More...</a>
 							</td>
                         </tr>
@@ -232,7 +255,7 @@
                         <tr>
                             <td><span class="color-black">1240</span></td>
                             <td><span class="speaker">Shekhar C Mande</span>, NCCS, Pune<br />
-								<i>Towards a National Microbiome Project</i>&nbsp;&nbsp;&nbsp;&nbsp;
+								<i>The Indian human microbiome initiative</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Shekhar_Mande">More...</a>
 							</td>
                         </tr>
@@ -242,7 +265,9 @@
                         </tr>
                         <tr>
                             <td>1400-1540</td>
-                            <td><span class="color-event text-bold">Inaugural Lectures  by Fellows / Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures  by Fellows / Associates</span><br />
+                            Chairperson: <span class="text-bold">P N Pandita</span>, IISc, Bengaluru
+                            </td>
                         </tr>
                         <tr>
                             <td><span class="color-black">1400-1420</span></td>
@@ -278,7 +303,9 @@
                         </tr>
                         <tr>
                             <td>1600-1730</td>
-                            <td><span class="color-event text-bold">Business Meeting of Fellows</span></td>
+                            <td><span class="color-event text-bold">Business Meeting of Fellows<br />
+                            (Venue: L3 – Lecture Hall Complex)    
+                            </span></td>
                         </tr>
                         <tr class="color-break">
                             <td>1730-1800</td>
@@ -286,18 +313,22 @@
                         </tr>
                         <tr>
                             <td>1800-1900</td>
-                            <td>Public Lecture<br /><span class="speaker">Ravindra Korisettar</span>, Dr VS Wakankar Archaeological Research Institute, Dharwad<br />
+                            <td><span class="color-event text-bold">Public Lecture<br />
+                            (Venue: L5– Lecture Hall Complex)</span><br />
+                            Chairperson: <span class="text-bold">Ram Ramaswamy</span>, JNU, New Delhi<br />    
+                            <span class="speaker">Ravindra Korisettar</span>, Dr VS Wakankar Archaeological Research Institute, Dharwad<br />
 								<i>Importance of the Vindhya Basin in the Prehistory of the Indian Subcontinent</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                 <a href="<?=BASE_URL?>Speakers/Ravi_Korisettar">More...</a>
                             </td>
                         </tr>
-                        <tr>
+                        <tr class="color-break">
                             <td>1900-2000</td>
                             <td>Dinner</td>
                         </tr>
                         <tr>
                             <td>2000</td>
-                            <td>Cultural Programme</td>
+                            <td><span class="text-bold">Cultural Programme:</span> <span class="color-event text-bold">Mehfil-e-Sama: A Qawwali Night by Emerald The Band<br /> 
+                            (Venue: L5– Lecture Hall Complex)</span></td>
                         </tr>
                     </tbody>
                 </table>
@@ -316,7 +347,10 @@
                     <tbody>
                         <tr>
                             <td>0900-1220</td>
-                            <td><span class="color-event text-bold">Inaugural Lectures by Fellows / Associates</span></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures of Fellows / Associates<br />
+                            (Venue: Auditorium – Visitors’ Hostel)</span><br />
+                            Chairperson: <span class="text-bold">S S Sane</span>, IIT-Bombay
+                            </td>
                         </tr>
                         <tr>
                             <td>0900-0920</td>
@@ -351,6 +385,12 @@
                             <td>Tea break</td>
                         </tr>
                         <tr>
+                            <td></td>
+                            <td><span class="color-event text-bold">Inaugural Lectures of Fellows / Associates</span><br />
+                            Chairperson: <span class="text-bold">S V Bhat</span>, IISc, Bengaluru
+                            </td>
+                        </tr>                        
+                        <tr>
                             <td>1100-1120</td>
                             <td><span class="speaker">Tirthankar Bhattacharyya</span>, IISc, Bengaluru<br />
 								<i>What do analytic functions look like?</i>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -374,6 +414,7 @@
                         <tr>
                             <td>1215-1300</td>
                             <td><span class="color-event text-bold">Special Lecture</span><br />
+                            Chairperson: <span class="text-bold">S Chandrasekaran</span>, IISc, Bengaluru<br />
                             <span class="speaker">Amitabh Joshi</span>, JNCASR, Bengaluru<br />
 								<i>Experimental ecology and evolution in the laboratory</i>&nbsp;&nbsp;&nbsp;&nbsp;
                                     <a href="<?=BASE_URL?>Speakers/Amitabh_Joshi">More...</a>
