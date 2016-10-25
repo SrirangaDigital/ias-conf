@@ -186,154 +186,79 @@
         </div>
     </div>
     <div class="row">
-        <a href="">
-            <div id="block1" class="col-md-3 schedule-block">
-                <p class="dayNum">Day 1</p>
-                <p class="date">4 Nov 2016</p>
-                <p class="day">Friday</p>
-            </div>
-        </a>
-        <a href="">
-            <div id="block2" class="col-md-3 schedule-block">
-                <p class="dayNum">Day 2</p>
-                <p class="date">5 Nov 2016</p>
-                <p class="day">Saturday</p>
-            </div>
-        </a>
-        <a href="">
-            <div id="block3" class="col-md-3 schedule-block">
-                <p class="dayNum">Day 3</p>
-                <p class="date">6 Nov 2016</p>
-                <p class="day">Sunday</p>
-            </div>
-        </a>
-        <a href="">
-            <div id="block4" class="col-md-3 schedule-block" style="padding: 43px 0 42px">
-                <p class="date">Allied Events</p>
-                <p class="day">4 &ndash; 5 Nov 2016</p>
-            </div>
-            <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
-                <p class="date" style="width: 90%">Program for Spouses</p>
-                <p class="day">4 &amp; 5 Nov 2016</p>
-            </div>
-        </a>
-    </div>
-</div>
-
-<div class="container-fluid" id="venue">
-    <div class="row">
         <div class="col-md-12">
-            <h1>Information for Participants</h1>
-        </div>
-    </div>        
-    <div class="row">
-        <div class="col-md-6">
-            <img src="<?=PUBLIC_URL?>images/stock/map_iiser.png" alt="Indian Institutes of Science Education and Research (IISER), Bhopal" />
-<!--             <div id="map" style="width:100%;height:800px"></div>            
-            <script>
-            function myMap() {
-              var mapCanvas = document.getElementById("map");
-              var mapOptions = {
-                center: new google.maps.LatLng(23.2883503,77.273526), 
-                zoom: 10
-              }
-              var map = new google.maps.Map(mapCanvas, mapOptions);
-            }
-            </script>
-
-            <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script> -->
-        </div>
-        <div class="col-md-6 text-left">
-            <p>
-                <span class="text-bold">Venue of the Meeting:</span><br /> 
-                Indian Institute of Science Education and Research Bhopal<br />
-                Bhopal Bypass Road, Bhauri<br />
-                Bhopal 462 066<br />
-                Madhya Pradesh, INDIA
-            </p>
-            <p>
-                <span class="text-bold">Reaching the venue:</span>
-            </p>
-            <ul>    
-                <li><span class="text-bold">Bhopal Airport to IISER, Bhopal Campus</span><br /> 
-                    Distance- 10.9 Km Approx.<br /> 
-                    15 Minutes drive via Bhauri Bypass Rd / Bhopal Bypass Road.
-                </li>        
-                <li>
-                    <span class="text-bold">Bhopal Junction (Railway station) to IISER, Bhopal Campus</span><br /> 
-                    Distance- 22.3 Km Approx.<br /> 
-                    45 Mints drive via Bhauri Bypass Rd / Bhopal Bypass Rd.
-                </li> 
-            </ul> 
-            <p>An information desk will be available in the airport to assist the participant’s requirements. There will also be hospitality desk located outside the airport (arrivals) to organize participant’s transportation.</p>
-            <p><span class="text-bold">Local Transport</span><br /> 
-            The Local Committee has made arrangements for the pickup / drop off and all the participants will be provided with transportation on arrival and departure. Transportation between the hotel and meeting venue will be by a van or a bus. The exact timings of the pickup/drop during the meeting days will be arranged.
-            </p>    
-            <p><span class="text-bold">Accommodation</span><br />
-            Arrangements are being made to accommodate all participants at several hotels and guest houses of IISER campus in the Bhopal city. There will be volunteers at the airport to inform participants about the accommodation. Accommodation details are as follows:
-            </p>
-            <ul>
-                <li>Community Centre – IISER, Bhopal</li>
-                <li>Hotel Raj Bhog</li>
-            </ul>
-            <p>
-            (Details of accommodation may be collected from the helpdesk at the airport or <span class="color-alert">Click here to view details</span>)
-            </p>
-            <p><span class="text-bold">Climate</span><br />
-            Temperature in Bhopal range between a low of 20.9 degrees and a high of 24 degree Celsius. Participants are requested to carry adequate warm clothing.
-            </p>
-            <p><span class="text-bold">Local places of Interest</span><br />   
-            Lower Lake ,Bhojtal, Bhimbetka Caves, Taj-ul-Masajid,Regional Science Center, Chinar Park, Kamla Nehru Park etc,. 
-            </p>    
-        </div>        
-    </div>
-</div>    
-
-<div class="container-fluid physical" id="contact">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>Contact</h1>
-        </div>
-    </div>        
-    <div class="row">
-        <div class="col-md-12">
-            <p>For local logistics and hospitality queries, contact: <span class="text-bold">Event Secretariat</span></p>
-            <p>For registration and presentation related queries, contact: <span class="text-bold">Academy Secretariat</span></p>
-        </div>
-    </div>
-</div>        
-
-
-<div class="container-fluid physical" id="physical">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>Social Network</h1>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">
-            <h1>
-                <!-- <i class="fa fa-youtube-play"></i> -->
-                <img src="<?=PUBLIC_URL?>images/stock/youtube.png" alt="YouTube">
-            </h1> 
-            <p>Meeting  videos goes here.....</p>
-        </div>
-        <div class="col-md-4">
-            <h1>
-                <!-- <i class="fa fa-twitter-square"></i> -->
-                <img src="<?=PUBLIC_URL?>images/stock/twitter.png" alt="Twitter">
-            </h1> 
-            <p>Meeting live tweetes goes here.....</p>
-        </div>        
-        <div class="col-md-4">
-            <h1>
-                <!-- <i class="fa fa-twitter-square"></i> -->
-                <img src="<?=PUBLIC_URL?>images/stock/facebook.png" alt="Facebook">
-            </h1> 
-            <p>Facebook details goes here.....</p>
+            <a href="">
+                <div id="block1" class="col-md-3 schedule-block">
+                    <p class="dayNum">Day 1</p>
+                    <p class="date">4 Nov 2016</p>
+                    <p class="day">Friday</p>
+                </div>
+            </a>
+            <a href="">
+                <div id="block2" class="col-md-3 schedule-block">
+                    <p class="dayNum">Day 2</p>
+                    <p class="date">5 Nov 2016</p>
+                    <p class="day">Saturday</p>
+                </div>
+            </a>
+            <a href="">
+                <div id="block3" class="col-md-3 schedule-block">
+                    <p class="dayNum">Day 3</p>
+                    <p class="date">6 Nov 2016</p>
+                    <p class="day">Sunday</p>
+                </div>
+            </a>
+            <a href="">
+                <div id="block4" class="col-md-3 schedule-block" style="padding: 43px 0 42px">
+                    <p class="date">Allied Events</p>
+                    <p class="day">4 &amp; 5 Nov 2016</p>
+                </div>
+                <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
+                    <p class="date" style="width: 80%">Program for Spouses</p>
+                    <p class="day">4 &amp; 5 Nov 2016</p>
+                </div>
+            </a>
         </div>
     </div>
 </div>
 
-    <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js" async></script>
+<!-- Information for participants -->
+<div class="container-fluid" id="information">
+    <div class="row">
+        <div class="col-md-12">
+            <p class="subtitle fancy"><span>For Participants</span></p>
+        </div>
+    </div>
+    <div class="row" style="line-height: 150px">
+        <div class="col-md-12">
+            <a href="" class="info-icon"><i class="fa fa-file-text-o"></i><br />Registration</a>
+            <a href="" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
+            <a href="" class="info-icon"><i class="fa fa-bed"></i><br />Accommodation</a>
+            <a href="" class="info-icon"><i class="fa fa-bus"></i><br />Transport</a><br />
+            <a href="" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
+            <a href="" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a>
+            <a href="" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
+        </div>
+    </div>
+</div>
+
+<!-- Information for participants -->
+<div class="container-fluid gap-below-large" id="social">
+    <div class="row">
+        <div class="col-md-12">
+            <p class="subtitle fancy"><span>Follow</span></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <a title="Live streaming" href="" class="info-icon"><i class="fa fa-video-camera"></i></a>
+            <a title="YouTube" href="" class="info-icon"><i class="fa fa-youtube"></i></a>
+            <a title="Twitter" href="" class="info-icon"><i class="fa fa-twitter"></i></a>
+            <a title="Facebook" href="" class="info-icon"><i class="fa fa-facebook"></i></a>
+            <a title="Blog" href="" class="info-icon"><i class="fa fa-wordpress"></i></a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js" async></script>
 

@@ -151,7 +151,7 @@ a.moretag {
 .copy-text {
 	font-size: 12px;
 	line-height: 24px;
-	margin: -4px 0 0 0;
+	margin: 40px 0 40px 0;
 	color: rgb(119, 119, 119);
 	font-weight: 300;
 }
@@ -735,7 +735,7 @@ button.toggle-button{
     border-bottom: 1px solid #e5ae47;
     border-top: 1px solid #e5ae47;
     top: 0;
-    width: 200%;
+    width: 300px;
 }
 .fancy span:before {
     right: 100%;

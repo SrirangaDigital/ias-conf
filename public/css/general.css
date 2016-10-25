@@ -193,14 +193,15 @@ a {
 .sec-div ul li a:hover{
 	text-decoration: underline;
 }
-#speakers, #schedule, #schedule{
+#speakers, #schedule, #information, #social{
     color: #5D5D5D;
     padding: 80px 60px 0px 60px;
     font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
     text-align: center;
     font-weight: 400;
+    margin-top: 40px;
 }
-#speakers .fancy, #schedule .fancy{
+#speakers .fancy, #schedule .fancy, #information .fancy, #social .fancy{
     font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 24px;
     color: #444444;
@@ -280,7 +281,43 @@ a {
 	color: inherit;
 	/*display: inline-block;*/
 }
-
+#information .info-icon, #social .info-icon{
+	padding: 0 50px;
+	display: inline-block;
+	color: #666;
+	line-height: 40px;
+	font-size: 16px;
+}
+#information .info-icon i, #social .info-icon i{
+	font-size: 75px;
+	color: #DDD;
+	-webkit-transition: 0.4s ease-in-out all;
+	-moz-transition: 0.4s ease-in-out all;
+	-o-transition: 0.4s ease-in-out all;
+	transition: 0.4s ease-in-out all;
+}
+#information .info-icon i:hover{
+	color: #e5ae47;
+	-webkit-transition: 0.4s ease-in-out all;
+	-moz-transition: 0.4s ease-in-out all;
+	-o-transition: 0.4s ease-in-out all;
+	transition: 0.4s ease-in-out all;
+}
+#social .fa-video-camera{
+	color: #444 !important;
+}
+#social .fa-youtube{
+	color: #bb0000 !important;
+}
+#social .fa-twitter{
+	color: #4099FF !important;
+}
+#social .fa-facebook{
+	color: #3b5998 !important;
+}
+#social .fa-wordpress{
+	color: #d54e21 !important;
+}
 #venue{
     color: #5D5D5D;
     padding: 80px 60px 0px 60px;
