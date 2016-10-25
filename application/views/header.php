@@ -64,7 +64,7 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="<?=BASE_URL?>#home">Home</a></li>
+                    <li><a href="<?=BASE_URL?>#home">Home</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>page/flat/About">About Conference</a></li>
                     <li><a>·</a></li>

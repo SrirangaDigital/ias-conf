@@ -6,46 +6,38 @@
         </div>
     </div>
 </div>
-<div id="grid" class="container-fluid gap-above">
+<div id="grid" class="container gap-above">
     <div class="row">
-        <div class="col-md-12">
-            <h3>Agenda&mdash;82<sup>nd</sup> Annual Meeting</h3>
-            <p>The 82nd Annual Meeting of The Indian Academy of Sciences is being held at Bhopal hosted by The Indian Institute of Science Education &amp; Research (IISER) during 4-6 November 2016. The three-day deliberation will see the participation of over Fellows and Associates of the Academy over a wide range of scientific topics. The meeting is designed to be a platform for bringing together scientific research and education and will be attended by about 40 invited teachers from different parts of the country, who will engage in active scientific discussions with the Fellows. </p>
-            <p>Over 30 scientific presentations will be made by distinguished Fellows and Associates of the Academy along with the President of the Academy during the meeting. Apart from these, over the three days, two renowned speakers will deliver public lectures on topics of wide social interest. Honoring the memories of Prof. Walter Kohn, the Noble Laurate who has furthered our understanding of the electronic properties of materials,a special symposium is being organized on this occasion. Aiming to gain more insights into mysteries of life and reviewing the breakthroughs in the discipline of biology since the last meeting, The 82<sup>nd</sup> Annual Meeting of the Academy also comprise a special symposium on “General Biology”.</p>    
-            <p>The meeting will also comprise many allied events including publication committee and editorial board meetings along with teachers interaction with SEP Panel; media/press conference; exhibition and special lectures.</p>
-            <p class="text-bold">All the scientific presentations are open to public, in particular college and university students, faculty and others.</p>
-        </div>
-    </div>        
-    <div class="row">
-        <div class="col-md-12">
-            <h3>Flashing Highlights</h3>
-                <ul>
-                    <li>Over 30 scientific presentations.</li>
-                    <li>Presidential lecture by Prof. Ram Ramaswamy, President, Indian Academy of Sciences- 10.00 hrs, 4<sup>th</sup> November 2016.</li>
-                    <li>Public Lecture by Shri Rajendra Singh (Tarun Bharat Sangh, Alwar (Rajasthan) -1800 hrs, 4<sup>th</sup> November 2016.</li>
-                    <li>Public Lecture by Prof. R. Korisettar (Karnatak University, Dharwad), 1400 hrs, 5<sup>th</sup> November 2016.</li>
-                    <li>Special Symposium on ‘Prof. Walter Kohn’, a symposium-1530 hrs, 4<sup>th</sup> November 2016.</li>
-                    <li>Special Symposium on ‘General Biology’ -1050 hrs, 5<sup>th</sup> November 2016.</li>
-                </ul>             
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
-            <h3>Organizers</h3>
-            <p><b>Indian Academy of Sciences (IASc), Bengaluru:</b> The Indian Academy of Sciences, since its inception in 1934, has been striving ceaselessly to achieve these goals. The Academy, as envisioned by its founder- Sir C V Raman, is devoted to the promotion and the upholding of the cause of science through diverse activities that aim to recognize and reward scientific efforts and talents. Science education programs are also a major thrust area of the Academy. The Academy holds its annual meetings at different places of scientific interest in the country. The 82nd Annual Meeting of the Academy is being held at Bhopal on the invitation of Prof. V.K. Singh, the Director of IISER. He and his team from his institute and faculty and students are looking after all the organizational aspects of this prestigious meeting.For more details visit: <a href="https://iiserb.ac.in/index.php" target="_blank">https://iiserb.ac.in/index.php</a></p>
+        <div class="col-md-9 main">
+            <h1>About the conference</h1>
+
+            <h2>Agenda&mdash;82<sup>nd</sup> Annual Meeting - Indian Academy of Sciences</h2>
+            <p>The 82<sup>nd</sup> Annual Meeting of the Indian Academy of Sciences is being held at Bhopal, hosted by the Indian Institute of Science Education and Research, during 4<sup>th</sup> &ndash; 6<sup>th</sup> November 2016. The two and a half days deliberation will see the participation of many Fellows and Associates of the Academy and about 40 invited teachers from different parts of the country who will engage in active scientific discussions with the Fellows.</p>
+            <p>The conference forum will include inaugural lectures by newly elected Fellows and Associates over a wide range of scientific topics. The deliberations also includes two special lectures on <em>‘academic ethics’</em> and <em>‘experimental ecology’</em> along with two high-level scientific symposia, one honoring the memories of Noble Laureate Prof. Walter Kohn, and the other celebrating the achievements of biological sciences. Encompassing wider areas, the 82<sup>nd</sup> Annual Meeting will carry forward the tradition of public lectures by scholars from various fields. Over the two and a half days, the audience will have an opportunity to interact with some of the leading researchers of the country.  The 82<sup>nd</sup> Academy meeting will also comprise many allied events including a teacher’s interaction with the Science Education Panel (SEP) and Fellows along with publication committee and editorial board meeting, an exhibition of Academy’s publications ( journals and books), and a brief press conference.</p>
+            <p><strong>All the scientific presentations are open to public, in particular college and university students, faculty and others.</strong></p>
+
+            <h2>Organizers</h2>
             <p>
-            <b>Indian Institutes of Science Education and Research (IISER), Bhopal:</b> The The 82nd Annual Meeting of the Indian Academy of Sciences is being hosted by Indian Institutes of Science Education and Research (IISER), Bhopal.Established in 2008, IISER, Bhopalis one of the premier Indian institution engaged in promoting quality education and research in basic sciences. The institute aims to seamless integrate teaching and state of the art research.  For more details visit: <a href="https://iiserb.ac.in/index.php" target="_blank">https://iiserb.ac.in/index.php</a>                
+                <img src="<?=PUBLIC_URL?>images/logo.png" alt="IAS Logo" style="float: left;width: 75px;margin: 10px 20px 50px 0"/>
+                <strong>Indian Academy of Sciences (IASc), Bengaluru:</strong> The Indian Academy of Sciences, as envisioned by its founder- Sir C V Raman, is devoted to the promotion and the upholding of the cause of science through diverse activities that aim to recognize and reward scientific efforts and talents. Science education programs are also a major thrust area of the Academy. The Academy holds its annual meetings at different places of scientific interest in the country. The 82<sup>nd</sup> Annual Meeting of the Academy is being held at Bhopal on the invitation of the Director, IISER Bhopal. For more details visit: <a href="http://www.ias.ac.in" target="_blank">www.ias.ac.in</a>
             </p>
-            <p><b>Bhopal, Madhya Pradesh, India:</b> Known as the ‘City of Lakes’, Bhopal- the capital city of Madhya Pradesh is also one of the cleanest and greenest cities in India. Striding steadily on the path of being India’s first smart city, Bhopal houses various institutions and installations of scientific importance. This includes <i>ISRO</i>'s Master Control Facility and <i>BHEL</i>. Bhopal is also home to the largest number of institutions of higher scientific education namely,   <i>IISER</i>, <i>MANIT</i>, <i>SPA</i>, <i>AIIMS</i> and <i>NLIU</i>. The intellectually charged atmosphere and scientific excellence makes Bhopal the ideal choice to conduct the 82<sup>nd</sup> Annual Meeting of the IASc.
+            <p>
+                <img src="<?=PUBLIC_URL?>images/stock/iiser-bhopal-logo.png" alt="IISER Bhopal Logo" style="float: left;width: 75px;margin: 0px 20px 30px 0"/>
+                <strong>Indian Institute of Science Education and Research (IISER), Bhopal:</strong> Indian Institute of Science Education and Research, Bhopal, established in 2008, is one of the premier Indian institutions engaged in promoting quality education and research in basic sciences. The institute aims to seamlessly integrate teaching and state of the art research.  For more details visit: <a href="https://iiserb.ac.in/index.php" target="_blank">https://iiserb.ac.in/index.php</a>
             </p>
+            
+            <h2>Registration</h2>
+            <p>The 82<sup>nd</sup> Annual Meeting of the Academy will start on 4<sup>th</sup> November 2016 with registration at 9 AM. Participants are expected arrive on 3 Nov 2016 and depart on 7 Nov 2016.
+            <p>
+                For online registration please visit:<br />
+                <em><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blank">http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp</a></em>
+            </p>
+        </div>
+        <div class="col-md-3 sidebar">
+            <h1>Quick links</h1>
+            <ul>
+                <li><a href="">Detailed Schedule</a></li>
+            </ul>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-12">
-            <h3>Registration &amp; Submission of Abstracts</h3>
-            <p>The 82nd Annual Meeting of the Academy will start on 4th November 2016 with registration at 0900 am. Participants are expected arrive on 3/11/16 and depart on 7/11/16.</p>
-            <p class="text-bold">Fellows, Associates, Teachers and Invited teachers should register in advance for the meeting.</p>
-            <p>For online registration please visit: <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blank">http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp</a></p>
-        </div>
-    </div>             
 </div>
