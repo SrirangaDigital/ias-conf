@@ -385,7 +385,7 @@ a.moretag {
 .OverlayTextMain .mainpage{
     font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-weight: normal !important;
-    max-width: 60%;
+    /*max-width: 60%;*/
     text-align: left;
     line-height: 24px;
 }
@@ -698,4 +698,50 @@ button.toggle-button{
 .abstract{
   color: #000;
   font-weight: bold;
+}
+
+
+/*Home page styles*/
+.logos{
+  text-align: right;
+}
+.logos img{
+  width: 100px;
+  margin: 20px 0;
+}
+.intro{
+  width: 80%;
+  font-size: 16px;
+  line-height: 32px;
+  margin: 50px 0 50px 20px;
+}
+
+/*side lines*/
+.fancy {
+    font-size: 24px;
+    line-height: 0.5;
+    text-align: center;
+    margin: 30px 0 90px;
+}
+.fancy span {
+    display: inline-block;
+    position: relative;  
+}
+.fancy span:before,
+.fancy span:after {
+    content: "";
+    position: absolute;
+    height: 15px;
+    border-bottom: 1px solid #e5ae47;
+    border-top: 1px solid #e5ae47;
+    top: 0;
+    width: 200%;
+}
+.fancy span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+.fancy span:after {
+    left: 100%;
+    margin-left: 15px;
 }

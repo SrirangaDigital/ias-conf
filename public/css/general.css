@@ -1,5 +1,5 @@
 body{
-	font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: #555;
 }
 a:link { 
@@ -193,25 +193,38 @@ a {
 .sec-div ul li a:hover{
 	text-decoration: underline;
 }
-#speakers{
+#speakers, #schedule{
     color: #5D5D5D;
     padding: 80px 60px 0px 60px;
     font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
     text-align: center;
     font-weight: 400;
 }
-#speakers h1{
+#speakers .fancy, #schedule .fancy{
+    font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 24px;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
+    color: #444444;
+    /*line-height: 32px;*/
+    letter-spacing: 4px;
+    font-weight: 700;
     text-transform: uppercase;
-    border-bottom: 1px solid #EFEFEF;
+
+    /*border-bottom: 1px solid #EFEFEF;*/
 }
 #speakers h2{
     font-size: 18px;
     margin-bottom: 10px;
     text-align: left;
     line-height: 1.5;
+}
+#speakers .speaker-thumbnail{
+	width: 170px;
+}
+#speakers a, #schedule a{
+	font-size: 0;
+}
+#speakers figcaption{
+	display: none;
 }
 #venue{
     color: #5D5D5D;
