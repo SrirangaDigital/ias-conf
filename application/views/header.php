@@ -68,7 +68,7 @@
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>page/flat/About">About Conference</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Speakers</a></li>
+                    <li><a href="<?=BASE_URL?>#speakers">Speakers</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
