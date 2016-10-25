@@ -193,7 +193,7 @@ a {
 .sec-div ul li a:hover{
 	text-decoration: underline;
 }
-#speakers, #schedule{
+#speakers, #schedule, #schedule{
     color: #5D5D5D;
     padding: 80px 60px 0px 60px;
     font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -226,6 +226,61 @@ a {
 #speakers figcaption{
 	display: none;
 }
+#schedule{
+	color: #FFF !important;	
+}
+#schedule .schedule-block{
+  padding: 80px 0;
+}
+#schedule .schedule-block#block1{
+  background-color: #3F51B5;
+}
+#schedule .schedule-block#block2{
+  background-color: #FFA000;
+}
+#schedule .schedule-block#block3{
+  background-color: #BF360C;
+}
+#schedule .schedule-block#block4{
+  background-color: #4CAF50;
+}
+#schedule .schedule-block#block5{
+  background-color: #9C27B0;
+}
+#schedule .schedule-block#block1:hover{
+  background-color: #5C6BC0;
+}
+#schedule .schedule-block#block2:hover{
+  background-color: #FFB300;
+}
+#schedule .schedule-block#block3:hover{
+  background-color: #D84315;
+}
+#schedule .schedule-block#block4:hover{
+  background-color: #66BB6A;
+}
+#schedule .schedule-block#block5:hover{
+  background-color: #BA68C8;
+}
+#schedule .schedule-block .dayNum{
+	font-size: 30px;
+	margin-bottom: 30px;
+	/*font-weight: 700;*/
+}
+#schedule .schedule-block .date{
+	font-size: 20px;
+	border-bottom: 1px solid #FFF;
+	width: 60%;
+	margin: 0 auto;
+}
+#schedule .schedule-block .day{
+	font-size: 16px;
+}
+#schedule a{
+	color: inherit;
+	/*display: inline-block;*/
+}
+
 #venue{
     color: #5D5D5D;
     padding: 80px 60px 0px 60px;
