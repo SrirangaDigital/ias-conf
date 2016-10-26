@@ -21,7 +21,11 @@ $(document).ready(function() {
         event.preventDefault();
         tab = $(this).attr('href');
         $('.schedule-text').hide();
-        $(tab).show();
+        $(tab).show(function(){
+            
+            window.location.hash = tab;
+            $("html, body").animate({scrollTop: 0}, 1);
+        });
         $('.schedule .nav li').removeClass('active');
         $(this).parent().addClass('active');
     });
@@ -53,13 +57,17 @@ $(document).ready(function() {
 
                     <div class="session">
                         <dl class="dl-horizontal">
-                            <dt>0900 - 0930</dt>
+                            <dt>
+                                0900 - 0930
+                            </dt>
                             <dd>
                                 <span class="aux">Registration</span><br />(Venue: Lecture Hall Complex)
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>0930 - 1000</dt>
+                            <dt>
+                                0930 - 1000
+                            </dt>
                             <dd>
                                 <span class="aux">Inauguration and introduction of Fellows</span>
                             </dd>
@@ -68,7 +76,10 @@ $(document).ready(function() {
                     <div class="session">
                         <span class="type">Session 1A - Presidential Address</span><br /><br />
                         <dl class="dl-horizontal">
-                            <dt>1000 - 1045</dt>
+                            <dt>
+                                1000 - 1045<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Ram Ramaswamy</span><br />
                                 JNU, New Delhi<br />
@@ -76,7 +87,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>1045 - 1130</dt>
+                            <dt>
+                                1045 - 1130<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="aux">Book release</span><br />
                                 <span class="talk">A Life in Science – Author: Prof. C N R Rao,</span><br />Published by Penguin Random House India
@@ -85,7 +99,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1135 - 1200</dt>
+                            <dt>
+                                1135 - 1200
+                            </dt>
                             <dd>Group Photograph &amp; Tea break</dd>
                         </dl>
                     </div>
@@ -93,7 +109,10 @@ $(document).ready(function() {
                         <span class="type">Session 1B - Inaugural Lectures of Fellows/Associates</span><br />
                         Chairperson: Subrata Ghosh, IACS, Kolkata<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>1200 - 1220</dt>
+                            <dt>
+                                1200 - 1220<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Arun Chattopadhyay</span><br />
                                 IIT-Guwahati<br />
@@ -101,7 +120,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>1225 - 1245</dt>
+                            <dt>
+                                1225 - 1245<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Sanjib K Agarwalla,</span><br />
                                 IOP, Bhubaneswar<br />
@@ -111,7 +133,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1250 - 1400</dt>
+                            <dt>
+                                1250 - 1400
+                            </dt>
                             <dd>Lunch Break</dd>
                         </dl>
                     </div>
@@ -120,7 +144,10 @@ $(document).ready(function() {
                         (Venue: Auditorium – Visitors’ Hostel)<br />
                         Chairperson: Probir Roy, Kolkata<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>1400 - 1420</dt>
+                            <dt>
+                                1400 - 1420<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Javed N Agrewala</span><br />
                                 IMTECH, Chandigarh<br />
@@ -128,7 +155,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1425 - 1445</dt>
+                            <dt>
+                                1425 - 1445<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">A Raghuram</span><br />
                                 IISER, Pune<br />
@@ -138,7 +168,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1450 - 1530</dt>
+                            <dt>
+                                1450 - 1530
+                            </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>                    
@@ -147,7 +179,10 @@ $(document).ready(function() {
                         (Venue: Visitors’ Hostel)<br />
                         Chairperson: H R Krishnamurthy, IISc, Bengaluru<br /><br />                                    
                         <dl class="dl-horizontal">
-                            <dt>1530</dt>
+                            <dt>
+                                1530<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">T V Ramakrishnan</span><br />
                                 BHU, Varanasi<br />
@@ -155,7 +190,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1600</dt>
+                            <dt>
+                                1600<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Swapan K Ghosh</span><br />
                                 BARC, Mumbai<br />
@@ -163,7 +201,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                       
                         <dl class="dl-horizontal">
-                            <dt>1630</dt>
+                            <dt>
+                                1630<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Tanusri Saha-Dasgupta</span><br />
                                 SN Bose Natl. Centre for Basic Sciences, Kolkata<br />
@@ -171,7 +212,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>1700</dt>
+                            <dt>
+                                1700<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Umesh V Waghmare</span><br />
                                 JNCASR, Bengaluru<br />
@@ -181,7 +225,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1730 - 1800</dt>
+                            <dt>
+                                1730 - 1800
+                            </dt>
                             <dd>Tea Break</dd>
                         </dl>
                     </div>
@@ -190,7 +236,10 @@ $(document).ready(function() {
                         (Venue: L5 &mdash; Lecture Hall Complex)<br />
                         Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>1800 - 1900</dt>
+                            <dt>
+                                1800 - 1900<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Rajendra Singh</span><br />
                                 Tarun Bharat Sangh, Alwar (Rajasthan)<br />
@@ -206,7 +255,10 @@ $(document).ready(function() {
                         (Venue: Auditorium – Visitors’ Hostel)<br />
                         Chairperson: P C Agrawal, Mumbai<br /><br />                    
                         <dl class="dl-horizontal">
-                            <dt>0900 - 0940</dt>
+                            <dt>
+                                0900 - 0940<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Sunil Mukhi</span><br />
                                 IISER Pune
@@ -219,7 +271,10 @@ $(document).ready(function() {
                         <span class="type">Session 2B - Inaugural Lectures of Fellows/Associates</span><br />
                         Chairperson: S Thangavelu, IISc, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>0940 - 1000</dt>
+                            <dt>
+                                0940 - 1000<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Pradyut Ghosh</span><br />
                                 IACS, Kolkata<br />
@@ -227,7 +282,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                                            
                         <dl class="dl-horizontal">
-                            <dt>1005 - 1025</dt>
+                            <dt>
+                                1005 - 1025<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Ankur A Kulkarni</span><br />
                                 IIT-Bombay<br />
@@ -237,7 +295,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1030 - 1050</dt>
+                            <dt>
+                                1030 - 1050
+                            </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>           
@@ -245,7 +305,10 @@ $(document).ready(function() {
                         <span class="type">Session 2C - Symposium “Our Second Genome”</span><br />
                         Chairperson: Partha P Majumder, NIBMG, Kolkata<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>1050</dt>
+                            <dt>
+                                1050<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Partha P Majumder</span><br />
                                 NIBMG, Kolkata
@@ -254,7 +317,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>1110</dt>
+                            <dt>
+                                1110<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Sharmila S Mande</span><br />
                                 TCS, Pune<br />
@@ -262,7 +328,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1140</dt>
+                            <dt>
+                                1140<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Vineet K Sharma</span><br />
                                 IISER, Bhopal
@@ -271,7 +340,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1210</dt>
+                            <dt>
+                                1210<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Souvik Mukherjee</span><br />
                                 NIBMG, Kolkata
@@ -280,7 +352,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1240</dt>
+                            <dt>
+                                1240<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Shekhar C Mande</span><br />
                                 NCCS, Pune
@@ -291,7 +366,9 @@ $(document).ready(function() {
                     </div>                           
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1300 - 1400</dt>
+                            <dt>
+                                1300 - 1400
+                            </dt>
                             <dd>Lunch break</dd>
                         </dl>
                     </div>
@@ -299,7 +376,10 @@ $(document).ready(function() {
                         <span class="type">Session 2D - Inaugural Lectures of Fellows/Associates</span><br />
                         Chairperson: P N Pandita, IISc, Bengaluru<br /><br />                    
                         <dl class="dl-horizontal">
-                            <dt>1400 - 1420</dt>
+                            <dt>
+                                1400 - 1420<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">G C Anupama</span><br />
                                 IIA, Bengaluru
@@ -308,7 +388,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                    
                         <dl class="dl-horizontal">
-                            <dt>1425 - 1445</dt>
+                            <dt>
+                                1425 - 1445<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">S Ganesh</span><br />
                                 IIT-Kanpur
@@ -317,7 +400,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>1450 - 1510</dt>
+                            <dt>
+                                1450 - 1510<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">K N Balaji</span><br />
                                 IISc, Bengaluru<br />
@@ -325,7 +411,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1515 - 1535</dt>
+                            <dt>
+                                1515 - 1535<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Anshu Pandey</span><br />
                                 IISc, Bengaluru
@@ -336,14 +425,18 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1540 - 1600</dt>
+                            <dt>
+                                1540 - 1600
+                            </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>
                     <div class="session">
                         (Venue: L3 – Lecture Hall Complex)                        
                         <dl class="dl-horizontal">
-                            <dt>1600 - 1730</dt>
+                            <dt>
+                                1600 - 1730
+                            </dt>
                             <dd>
                                 <span class="speaker">Business Meeting of Fellows</span><br />
                                 <span class="talk"></span>
@@ -352,7 +445,9 @@ $(document).ready(function() {
                     </div>                                                                     
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1730 - 1800</dt>
+                            <dt>
+                                1730 - 1800
+                            </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>
@@ -360,7 +455,10 @@ $(document).ready(function() {
                         <span class="type">Session 2E - Public Lecture</span><br />
                         Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />                    
                         <dl class="dl-horizontal">
-                            <dt>1800 - 1900</dt>
+                            <dt>
+                                1800 - 1900<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Ravi Korisettar</span><br />
                                 Dr VS Wakankar Archaeological Research Institute, Dharwad
@@ -371,17 +469,23 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1900 - 2000</dt>
+                            <dt>
+                                1900 - 2000
+                            </dt>
                             <dd>Dinner</dd>
                         </dl>
                     </div>
                     <div class="session">
                         <dl class="dl-horizontal">
-                            <dt>2000</dt>
+                            <dt>
+                                2000<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Schedule/mehfil"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
-                                <span class="speaker"><strong>Cultural Programme:</strong> Mehfil-e-Sama: A Qawwali Night by Emerald The Band</span><br />
+                                <span class="aux">Cultural Programme</span><br />
+                                <span class="speaker">Mehfil-e-Sama</span><br />
+                                A Qawwali Night by Emerald The Band<br />
                                 (Venue: L5– Lecture Hall Complex)<br />
-                                <span class="talk"></span>
                             </dd>
                         </dl>                    
                     </div>                        
@@ -393,7 +497,10 @@ $(document).ready(function() {
                         (Venue: Auditorium – Visitors’ Hostel)<br />
                         Chairperson: S S Sane, IIT-Bombay<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>0900 - 0920</dt>
+                            <dt>
+                                0900 - 0920<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Krishna P Kaliappan</span><br />
                                 IIT-Bombay<br />
@@ -401,7 +508,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>0925 - 0945</dt>
+                            <dt>
+                                0925 - 0945<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Appa Rao Podile</span><br />
                                 University of Hyderabad, Hyderabad<br />
@@ -409,7 +519,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>0950 - 1010</dt>
+                            <dt>
+                                0950 - 1010<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">N Ravishankar</span><br />
                                 IISc, Bengaluru<br />
@@ -417,7 +530,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                                                                                            
                         <dl class="dl-horizontal">
-                            <dt>1015-1035</dt>
+                            <dt>
+                                1015-1035<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">B Anand</span><br />
                                 IIT, Guwahati<br />
@@ -427,7 +543,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1040 - 1100</dt>
+                            <dt>
+                                1040 - 1100
+                            </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>           
@@ -435,7 +553,10 @@ $(document).ready(function() {
                         <span class="type">Session 3B - Inaugural Lectures of Fellows/Associates</span><br />
                         Chairperson: S V Bhat, IISc, Bengaluru<br /><br />                    
                         <dl class="dl-horizontal">
-                            <dt>1100 - 1120</dt>
+                            <dt>
+                                1100 - 1120<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Tirthankar Bhattacharyya</span><br />
                                 IISc, Bengaluru<br />
@@ -443,7 +564,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>1125 - 1145</dt>
+                            <dt>
+                                1125 - 1145<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Pratap Raychaudhuri</span><br />
                                 TIFR, Mumbai<br />
@@ -451,7 +575,10 @@ $(document).ready(function() {
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
-                            <dt>1150 - 1210</dt>
+                            <dt>
+                                1150 - 1210<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">G R Tripathy</span><br />
                                 IISER Pune<br />
@@ -464,7 +591,10 @@ $(document).ready(function() {
                         <span class="type">Session 3C - Special Lecture</span><br />
                         Chairperson: S Chandrasekaran, IISc, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
-                            <dt>1215 - 1300</dt>
+                            <dt>
+                                1215 - 1300<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
                             <dd>
                                 <span class="speaker">Amitabh Joshi</span><br />
                                 JNCASR, Bengaluru<br />
@@ -474,7 +604,9 @@ $(document).ready(function() {
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
-                            <dt>1300 - 1400</dt>
+                            <dt>
+                                1300 - 1400
+                            </dt>
                             <dd>Lunch</dd>
                         </dl>
                     </div>                                                                     
@@ -484,35 +616,45 @@ $(document).ready(function() {
                     <h3>3 November 2016 (Thursday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
-                            <dt>10.00 AM</dt>
+                            <dt>
+                                10.00 AM
+                            </dt>
                             <dd>
                                 <span class="speaker">Academy Publications Committee Meeting</span><br />
                                 Visitors Hostel: Board Room, 1st Floor<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>02.30 PM</dt>
+                            <dt>
+                                02.30 PM
+                            </dt>
                             <dd>
                                 <span class="speaker">Editorial Board Meeting – Pramana</span><br />
                                 Visitors Hostel: Auditorium<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>04.00 PM - 05.30 PM</dt>
+                            <dt>
+                                04.00 PM - 05.30 PM
+                            </dt>
                             <dd>
                                 <span class="speaker">Meeting with Teachers</span><br />
                                 Visitors Hostel: Auditorium<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>06.00 PM</dt>
+                            <dt>
+                                06.00 PM
+                            </dt>
                             <dd>
                                 <span class="speaker">Press conference</span><br />
                                 L2, Lecture Hall Complex<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
-                            <dt>Evening</dt>
+                            <dt>
+                                Evening
+                            </dt>
                             <dd>
                                 <span class="speaker">Talk by Prof. CNR Rao<br />
                                 (programme organized by IISER Bhopal)</span><br />
@@ -523,7 +665,9 @@ $(document).ready(function() {
                     <h3>5 November 2016 (Saturday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
-                            <dt>04.00 PM - 05.30 PM</dt>
+                            <dt>
+                                04.00 PM - 05.30 PM
+                            </dt>
                             <dd>
                                 <span class="speaker">Business Meeting of Fellows</span><br />
                                  L3, Lecture Hall Complex<br />
@@ -537,7 +681,9 @@ $(document).ready(function() {
                     <h3>4 November 2016 (Friday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
-                            <dt>2.00 PM</dt>
+                            <dt>
+                                2.00 PM
+                            </dt>
                             <dd>
                                 <span class="speaker">Visit to Sanchi Stupas</span><br />
                                 (Bus will start from Visitors' Hostel at 2:00 PM)<br />
@@ -547,7 +693,9 @@ $(document).ready(function() {
                     <h3>5 November 2016 (Saturday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
-                            <dt>9.30 AM</dt>
+                            <dt>
+                                9.30 AM
+                            </dt>
                             <dd>
                                 <span class="speaker">Visit to Indira Gandhi Rashtriya Manav Sangrahalaya and Upper Lake</span><br />
                                 (Bus will start from Visitors' Hostel at 9:30 AM)<br />

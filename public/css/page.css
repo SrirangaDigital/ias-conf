@@ -858,3 +858,12 @@ button.toggle-button{
 .sidebar li a{
   color: #3F51B5;
 }
+.more-info{
+  float: right;
+  color: #BF360C;
+  opacity: 0.8;
+  font-size: 18px;
+}
+.more-info a{
+  color: #BF360C;
+ }
