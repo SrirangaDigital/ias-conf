@@ -237,7 +237,7 @@
             <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Transport</a><br />
             <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a>
-            <a href="" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
+            <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>
         </div>
     </div>
 </div>
