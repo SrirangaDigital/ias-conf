@@ -43,6 +43,27 @@ $(document).ready(function() {
 
         $("html, body").animate({scrollTop: jumpLoc}, 1000);
     });
+
+    $('.schedule-text').hide();
+
+    var hloc = window.location.href;
+    
+    var tab = 'day1';
+    if(hloc.match('#')){ tab = hloc.split("#")[1]; }
+
+    $('#' + tab).show();
+    $('a[href="#' + tab + '"').parent().addClass('active');
+
+    $('.schedule .nav li a').on('click', function(event){
+
+        event.preventDefault();
+        tab = $(this).attr('href');
+        $('.schedule-text').hide();
+        $(tab).show();
+        $('.schedule .nav li').removeClass('active');
+        $(this).parent().addClass('active');
+    });
+
 });
 
 

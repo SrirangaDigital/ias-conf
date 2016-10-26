@@ -749,7 +749,26 @@ button.toggle-button{
   border-bottom: 1px solid #e5ae47;
   margin-bottom: 30px;
 }
-.main h2{
+.main .schedule .nav{
+  margin-top: 40px;
+}
+.main .schedule .nav li{
+  border-bottom: 1px solid #CCC;
+  color: #555;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+  background-color: transparent;
+}
+.main .schedule .nav li:focus, .main .schedule .nav li:hover{
+  border-bottom: 10px solid #e5ae47;
+}
+.main .schedule .nav li.active{
+  border-bottom: 10px solid #e5ae47;
+}
+.main .schedule .nav li a{
+  color: inherit;
+}
+.main h2, .main .schedule-text h3{
   font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 22px;
   font-weight: 300;
