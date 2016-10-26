@@ -76,7 +76,7 @@
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#information">Info for Participants</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Contact Us</a></li>
+                    <li><a href="<?=BASE_URL?>Information/Contact">Contact Us</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->

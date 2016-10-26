@@ -251,11 +251,11 @@
     </div>
     <div class="row">
         <div class="col-md-12">
-            <a title="Live streaming" href="" class="info-icon"><i class="fa fa-video-camera"></i></a>
-            <a title="YouTube" href="" class="info-icon"><i class="fa fa-youtube"></i></a>
-            <a title="Twitter" href="" class="info-icon"><i class="fa fa-twitter"></i></a>
-            <a title="Facebook" href="" class="info-icon"><i class="fa fa-facebook"></i></a>
-            <a title="Blog" href="" class="info-icon"><i class="fa fa-wordpress"></i></a>
+            <a title="Live streaming" href="#" class="info-icon"><i class="fa fa-video-camera"></i></a>
+            <a target="_blank" title="YouTube" href="https://www.youtube.com/channel/UC5Aq2JESu0QLmP9WveZSvbQ" class="info-icon"><i class="fa fa-youtube"></i></a>
+            <a target="_blank" title="Twitter" href="https://twitter.com/IAScBng" class="info-icon"><i class="fa fa-twitter"></i></a>
+            <a target="_blank" title="Facebook" href="https://www.facebook.com/IAScBng" class="info-icon"><i class="fa fa-facebook"></i></a>
+            <a target="_blank" title="Blog" href="http://www.ias.ac.in/public/blog/index.php/about-this-blog/" class="info-icon"><i class="fa fa-wordpress"></i></a>
         </div>
     </div>
 </div>
