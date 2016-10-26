@@ -1,3 +1,33 @@
+<script type="text/javascript">
+$(document).ready(function() {
+
+    var mTop = $('.navbar').height() - 10;
+    $('#grid').css('margin-top', mTop + 'px');
+    $('.schedule-text').hide();
+
+    var hloc = window.location.href;
+    
+    var tab = 'day1';
+    if(hloc.match('#')){ tab = hloc.split("#")[1]; }
+
+    $('#' + tab).show(function(){
+
+        $('a[href="#' + tab + '"').parent().addClass('active');
+        $("html, body").animate({scrollTop: 0}, 1);
+    });
+
+    $('.schedule .nav li a').on('click', function(event){
+
+        event.preventDefault();
+        tab = $(this).attr('href');
+        $('.schedule-text').hide();
+        $(tab).show();
+        $('.schedule .nav li').removeClass('active');
+        $(this).parent().addClass('active');
+    });
+});
+</script>
+
 <div class="container">
     <div class="row">
         <!-- Column 1 -->
@@ -10,7 +40,6 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1>Programme Schedule</h1>
-            <p>The Annual Meeting will be officially opened by the President of the Indian Academy of Sciences Prof. Ram Ramaswamy on 4<sup>th</sup> November 2016 at 9:30 AM.</p>
             <div class="schedule">
                 <ul class="nav nav-justified">
                     <li><a href="#day1">Day 1</a></li>
@@ -451,39 +480,35 @@
                     </div>                                                                     
                 </div>
                 <div class="schedule-text" id="allied">
-                    <h3>Allied Events 3 - 4 November 2016 (Friday)</h3>
+                    <h3>Allied Events</h3>
+                    <h3>3 November 2016 (Thursday)</h3>
                     <div class="session">
-                        03 November 2016 (Thursday)
                         <dl class="dl-horizontal">
                             <dt>10.00 AM</dt>
                             <dd>
                                 <span class="speaker">Academy Publications Committee Meeting</span><br />
-                                 Visitors Hostel: Board Room, 1st Floor<br />
-                                <span class="talk"></span>
+                                Visitors Hostel: Board Room, 1st Floor<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>02.30 PM</dt>
                             <dd>
                                 <span class="speaker">Editorial Board Meeting – Pramana</span><br />
-                                 Visitors Hostel: Auditorium<br />
-                                <span class="talk"></span>
+                                Visitors Hostel: Auditorium<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>04.00 PM - 05.30 PM</dt>
                             <dd>
                                 <span class="speaker">Meeting with Teachers</span><br />
-                                 Visitors Hostel: Auditorium<br />
-                                <span class="talk"></span>
+                                Visitors Hostel: Auditorium<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>06.00 PM</dt>
                             <dd>
                                 <span class="speaker">Press conference</span><br />
-                                 L2, Lecture Hall Complex<br />
-                                <span class="talk"></span>
+                                L2, Lecture Hall Complex<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
@@ -492,12 +517,11 @@
                                 <span class="speaker">Talk by Prof. CNR Rao<br />
                                 (programme organized by IISER Bhopal)</span><br />
                                 L5, Lecture Hall Complex<br />
-                                <span class="talk"></span>
                             </dd>
                         </dl>          
                     </div>
+                    <h3>5 November 2016 (Saturday)</h3>
                     <div class="session">
-                        05 November 2016(Saturday)
                         <dl class="dl-horizontal">
                             <dt>04.00 PM - 05.30 PM</dt>
                             <dd>
@@ -509,26 +533,24 @@
                     </div>                        
                 </div>
                 <div class="schedule-text" id="spouse">
-                    <h3>For Spouses 3 - 4 November 2016 (Friday)</h3>
+                    <h3>For Spouses</h3>
+                    <h3>4 November 2016 (Friday)</h3>
                     <div class="session">
-                        04 November 2016 (Friday)
                         <dl class="dl-horizontal">
-                            <dt></dt>
+                            <dt>2.00 PM</dt>
                             <dd>
                                 <span class="speaker">Visit to Sanchi Stupas</span><br />
-                                 (Bus will start from Visitors' Hostel at 2:00 PM)<br />
-                                <span class="talk"></span>
+                                (Bus will start from Visitors' Hostel at 2:00 PM)<br />
                             </dd>
                         </dl>
                     </div>                    
+                    <h3>5 November 2016 (Saturday)</h3>
                     <div class="session">
-                        05 November 2016 (Saturday)
                         <dl class="dl-horizontal">
-                            <dt></dt>
+                            <dt>9.30 AM</dt>
                             <dd>
                                 <span class="speaker">Visit to Indira Gandhi Rashtriya Manav Sangrahalaya and Upper Lake</span><br />
-                                 (Bus will start from Visitors' Hostel at 9:30 AM)<br />
-                                <span class="talk"></span>
+                                (Bus will start from Visitors' Hostel at 9:30 AM)<br />
                             </dd>
                         </dl>
                     </div>    

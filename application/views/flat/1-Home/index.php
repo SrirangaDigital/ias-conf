@@ -185,32 +185,34 @@
     </div>
     <div class="row">
         <div class="col-md-12">
-            <a href="">
+            <a href="<?=BASE_URL?>Schedule#day1">
                 <div id="block1" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 1</p>
                     <p class="date">4 Nov 2016</p>
                     <p class="day">Friday</p>
                 </div>
             </a>
-            <a href="">
+            <a href="<?=BASE_URL?>Schedule#day2">
                 <div id="block2" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 2</p>
                     <p class="date">5 Nov 2016</p>
                     <p class="day">Saturday</p>
                 </div>
             </a>
-            <a href="">
+            <a href="<?=BASE_URL?>Schedule#day3">
                 <div id="block3" class="col-md-3 schedule-block">
                     <p class="dayNum">Day 3</p>
                     <p class="date">6 Nov 2016</p>
                     <p class="day">Sunday</p>
                 </div>
             </a>
-            <a href="">
+            <a href="<?=BASE_URL?>Schedule#allied">
                 <div id="block4" class="col-md-3 schedule-block" style="padding: 43px 0 42px">
                     <p class="date">Allied Events</p>
                     <p class="day">4 &amp; 5 Nov 2016</p>
                 </div>
+            </a>
+            <a href="<?=BASE_URL?>Schedule#spouse">
                 <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
                     <p class="date" style="width: 80%">Program for Spouses</p>
                     <p class="day">4 &amp; 5 Nov 2016</p>
