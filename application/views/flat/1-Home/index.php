@@ -233,7 +233,7 @@
         <div class="col-md-12">
             <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" class="info-icon" target="_blank"><i class="fa fa-file-text-o"></i><br />Registration</a>
             <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
-            <a href="" class="info-icon"><i class="fa fa-bed"></i><br />Accommodation</a>
+            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Accommodation</a>
             <a href="" class="info-icon"><i class="fa fa-bus"></i><br />Transport</a><br />
             <a href="" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a>
