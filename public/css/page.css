@@ -768,6 +768,25 @@ button.toggle-button{
 .main .schedule .nav li a{
   color: inherit;
 }
+.main .schedule span.type{
+ color: #e5ae47;
+ font-weight: 700;
+ font-style: italic; 
+ font-size: 16px;
+}
+.main .schedule span.aux{
+ color: #3F51B5;
+  font-size: 16px;
+}
+.main .schedule span.talk{
+  font-weight: 700;
+  font-size: 16px;
+}
+.main .schedule span.speaker{
+ font-size: 16px;
+ font-weight: 400;
+  font-size: 16px;
+}
 .main h2, .main .schedule-text h3{
   font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 22px;
@@ -775,6 +794,29 @@ button.toggle-button{
   line-height: 50px;
   margin-top: 35px;
   margin-bottom: 15px;
+}
+.main .schedule .session{
+  border-bottom: 1px solid #DDD;
+  padding: 20px 0;
+  margin-bottom: 0;
+}
+.main .schedule .break{
+  border-bottom: 2px solid #4CAF50;
+  border-top: 2px solid #4CAF50;
+  padding: 10px 0;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+.main .schedule .schedule-text dl{
+  margin-bottom: 0;
+  padding: 5px 0;
+}
+.main .schedule .schedule-text dl dt, .main .schedule .schedule-text dl dd{
+  line-height: 28px;
+}
+.main .schedule .schedule-text dl dt{
+  font-weight: 400;
+  font-size: 16px;
 }
 .main .affiliation{
   font-size: 16px;
