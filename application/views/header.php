@@ -74,9 +74,7 @@
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blnk">Registration</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Logistics</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Downloads</a></li>
+                    <li><a href="<?=BASE_URL?>#information">Info for Participants</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>page/flat/Schedule">Contact Us</a></li>
                 </ul>
