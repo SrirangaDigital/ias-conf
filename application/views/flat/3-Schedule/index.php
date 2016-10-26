@@ -452,9 +452,86 @@
                 </div>
                 <div class="schedule-text" id="allied">
                     <h3>Allied Events 3 - 4 November 2016 (Friday)</h3>
+                    <div class="session">
+                        03 November 2016 (Thursday)
+                        <dl class="dl-horizontal">
+                            <dt>10.00 AM</dt>
+                            <dd>
+                                <span class="speaker">Academy Publications Committee Meeting</span><br />
+                                 Visitors Hostel: Board Room, 1st Floor<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>02.30 PM</dt>
+                            <dd>
+                                <span class="speaker">Editorial Board Meeting – Pramana</span><br />
+                                 Visitors Hostel: Auditorium<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>04.00 PM - 05.30 PM</dt>
+                            <dd>
+                                <span class="speaker">Meeting with Teachers</span><br />
+                                 Visitors Hostel: Auditorium<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>06.00 PM</dt>
+                            <dd>
+                                <span class="speaker">Press conference</span><br />
+                                 L2, Lecture Hall Complex<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>Evening</dt>
+                            <dd>
+                                <span class="speaker">Talk by Prof. CNR Rao<br />
+                                (programme organized by IISER Bhopal)</span><br />
+                                L5, Lecture Hall Complex<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>          
+                    </div>
+                    <div class="session">
+                        05 November 2016(Saturday)
+                        <dl class="dl-horizontal">
+                            <dt>04.00 PM - 05.30 PM</dt>
+                            <dd>
+                                <span class="speaker">Business Meeting of Fellows</span><br />
+                                 L3, Lecture Hall Complex<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>                        
+                    </div>                        
                 </div>
                 <div class="schedule-text" id="spouse">
                     <h3>For Spouses 3 - 4 November 2016 (Friday)</h3>
+                    <div class="session">
+                        04 November 2016 (Friday)
+                        <dl class="dl-horizontal">
+                            <dt></dt>
+                            <dd>
+                                <span class="speaker">Visit to Sanchi Stupas</span><br />
+                                 (Bus will start from Visitors' Hostel at 2:00 PM)<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                    </div>                    
+                    <div class="session">
+                        05 November 2016 (Saturday)
+                        <dl class="dl-horizontal">
+                            <dt></dt>
+                            <dd>
+                                <span class="speaker">Visit to Indira Gandhi Rashtriya Manav Sangrahalaya and Upper Lake</span><br />
+                                 (Bus will start from Visitors' Hostel at 9:30 AM)<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                    </div>    
                 </div>
             </div>
         </div>
