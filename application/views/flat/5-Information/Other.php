@@ -20,10 +20,7 @@
             <p>Temperature in Bhopal during the meeting is expected to be sunny with and a maximum of 31 degree Celsius and a minimum of 19 degree Celsius.</p>
         </div>
         <div class="col-md-3 sidebar">
-            <h1>Quick links</h1>
-            <ul>
-                <li><a href="">IISER Bhopal - Campus Map</a></li>
-            </ul>
+<?php require_once('application/views/generalSidebar.php');?>
         </div>
     </div>
 </div>

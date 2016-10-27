@@ -35,10 +35,7 @@
             </div>
         </div>
         <div class="col-md-3 sidebar">
-            <h1>Quick links</h1>
-            <ul>
-                <li><a href="">Detailed Schedule</a></li>
-            </ul>
+<?php require_once('application/views/generalSidebar.php');?>
         </div>
     </div>
 </div>
