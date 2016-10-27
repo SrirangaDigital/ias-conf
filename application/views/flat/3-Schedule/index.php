@@ -78,7 +78,8 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1000 - 1045<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
+                                <i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ram Ramaswamy</span><br />
@@ -111,7 +112,8 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1200 - 1220<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Arun_Chattopadhyay">
+                                <i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Arun Chattopadhyay</span><br />
@@ -122,7 +124,8 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1225 - 1245<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sanjib_Agarwalla">
+                                <i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Sanjib K Agarwalla,</span><br />
@@ -146,7 +149,8 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1400 - 1420<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Javed_Agrewala">
+                                <i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Javed N Agrewala</span><br />
@@ -157,7 +161,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1425 - 1445<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Raghuram_A"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">A Raghuram</span><br />
@@ -181,7 +185,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1530<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">T V Ramakrishnan</span><br />
@@ -192,7 +196,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1600<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Swapan_K_Ghosh"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Swapan K Ghosh</span><br />
@@ -203,7 +207,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1630<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Tanusri_Sahadasgupta"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Tanusri Saha-Dasgupta</span><br />
@@ -214,7 +218,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1700<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Umesh_V_Waghmare"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Umesh V Waghmare</span><br />
@@ -238,7 +242,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1800 - 1900<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Rajendra_Singh"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Rajendra Singh</span><br />
@@ -257,7 +261,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0900 - 0940<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sunil_Mukhi"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Sunil Mukhi</span><br />
@@ -273,7 +277,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0940 - 1000<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pradyut_Ghosh"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Pradyut Ghosh</span><br />
@@ -284,7 +288,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1005 - 1025<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ankur_Kulkarni"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ankur A Kulkarni</span><br />
@@ -307,7 +311,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1050<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Partha_P_Majumder"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Partha P Majumder</span><br />
@@ -319,7 +323,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1110<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sharmila_Mande"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Sharmila S Mande</span><br />
@@ -330,7 +334,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1140<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Vineet_K_Sharma"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Vineet K Sharma</span><br />
@@ -342,7 +346,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1210<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Souvik_Mukherjee"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Souvik Mukherjee</span><br />
@@ -354,7 +358,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1240<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Shekhar_Mande"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Shekhar C Mande</span><br />
@@ -378,7 +382,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1400 - 1420<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/G_C_Anupama"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">G C Anupama</span><br />
@@ -390,7 +394,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1425 - 1445<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/S_Ganesh"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">S Ganesh</span><br />
@@ -402,7 +406,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1450 - 1510<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/K_N_Balaji"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">K N Balaji</span><br />
@@ -413,7 +417,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1515 - 1535<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Anshu_Pandey"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Anshu Pandey</span><br />
@@ -457,7 +461,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1800 - 1900<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ravi_Korisettar"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ravi Korisettar</span><br />
@@ -499,7 +503,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0900 - 0920<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/K_P_Kaliappan"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Krishna P Kaliappan</span><br />
@@ -510,7 +514,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0925 - 0945<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Appa_Rao_Podile"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Appa Rao Podile</span><br />
@@ -521,7 +525,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0950 - 1010<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/N_Ravishankar"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">N Ravishankar</span><br />
@@ -532,7 +536,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1015-1035<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/B_Anand"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">B Anand</span><br />
@@ -555,7 +559,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1100 - 1120<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Tirthankar Bhattacharyya</span><br />
@@ -566,7 +570,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1125 - 1145<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Pratap Raychaudhuri</span><br />
@@ -577,7 +581,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1150 - 1210<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/G_R_Tripathy"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">G R Tripathy</span><br />
@@ -593,7 +597,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1215 - 1300<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Amitabh_Joshi"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Amitabh Joshi</span><br />
