@@ -11,6 +11,7 @@
         <div class="col-md-9 main">
             <h1>Venue of the conference</h1>
             <h2>
+                Lecture Hall Complex (LHC ) and Auditorium of Visitors’ Hostel<br />
                 Indian Institute of Science Education and Research, Bhopal,<br />
                 Bhopal Bypass Road, Bhauri,<br />
                 Bhopal 462 066, Madhya Pradesh, INDIA.

@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1>Accommodation</h1>
-            <p>Arrangements are made to accommodate all the participants in the following  guest houses and hotels as per the communication by the office of the Academy. Volunteers at the airport helpdesk will assist the participants in reaching their respective places of accommodation.</p>
+            <p>Arrangements are made to accommodate all the participants in the following  guest houses and hotels. Volunteers at the airport will assist the participants in reaching their respective places of accommodation.</p>
             <p>For any queries regarding accommodation, please  contact the following (Accommodation Committee):</p>
             <ul class="general-list">
                 <li><strong>Dr. Aasheesh Srivastava</strong> (for IISERB Accommodation and for Hotels)<br />+91-8085832477</li>
@@ -18,7 +18,7 @@
                 <li><strong>Dr. Pankaj Kumar</strong> (for Hotels)<br />+91-9868230041</li>
                 <li><strong>Dr. S. K. Pathak</strong> (for Hotels)<br />+91-9009093350</li>
             </ul>
-            <p>Transportation between the hotel and meeting venue will be by bus. On all the meeting days (4th-6th Nov), the buses arranged for the participants will leave the respective hotels at 08.00 AM for IISER, Bhopal Campus. Breakfast will be served to the participants by 07.30 AM at the respective hotels, while lunch and dinner will be served at the meeting venue. Transportation to hotels will be made soon after the dinner.</p>
+            <p>Transportation between the hotel and meeting venue will be by bus. On all the meeting days (4th-6th Nov), buses arranged for the participants will leave the respective hotels at 08.00 AM for IISER, Bhopal Campus. Breakfast will be served to the participants by 07.30 AM at the respective hotels, while lunch and dinner will be served at the meeting venue. Transportation to hotels will be made soon after the dinner.</p>
             
             <h2 style="margin-bottom: 0">1) Visitors Hostel &amp; 2) Guest House</h2>
             <p>IISER Bhopal Campus</p>

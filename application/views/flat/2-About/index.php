@@ -12,8 +12,9 @@
             <h1>About the conference</h1>
 
             <h2>Agenda&mdash;82<sup>nd</sup> Annual Meeting - Indian Academy of Sciences</h2>
-            <p>The 82<sup>nd</sup> Annual Meeting of the Indian Academy of Sciences is being held at Bhopal, hosted by the Indian Institute of Science Education and Research, during 4<sup>th</sup> &ndash; 6<sup>th</sup> November 2016. The two and a half days deliberation will see the participation of many Fellows and Associates of the Academy and about 40 invited teachers from different parts of the country who will engage in active scientific discussions with the Fellows.</p>
-            <p>The conference forum will include inaugural lectures by newly elected Fellows and Associates over a wide range of scientific topics. The deliberations also includes two special lectures on <em>‘academic ethics’</em> and <em>‘experimental ecology’</em> along with two high-level scientific symposia, one honoring the memories of Noble Laureate Prof. Walter Kohn, and the other celebrating the achievements of biological sciences. Encompassing wider areas, the 82<sup>nd</sup> Annual Meeting will carry forward the tradition of public lectures by scholars from various fields. Over the two and a half days, the audience will have an opportunity to interact with some of the leading researchers of the country.  The 82<sup>nd</sup> Academy meeting will also comprise many allied events including a teacher’s interaction with the Science Education Panel (SEP) and Fellows along with publication committee and editorial board meeting, an exhibition of Academy’s publications ( journals and books), and a brief press conference.</p>
+            <p>The 82<sup>nd</sup> Annual Meeting of the Indian Academy of Sciences is being held at Bhopal, hosted by the Indian Institute of Science Education and Research, during during 4<sup>th</sup> &ndash; 6<sup>th</sup> November 2016. The two and a half days’ deliberation will see the participation of many Fellows and Associates of the Academy and invited teachers from different parts of the country who will engage in active scientific discussions with the Fellows.</p>
+            <p>The meeting will include inaugural lectures by newly elected Fellows and Associates over a wide range of scientific topics. The deliberations also include two special lectures on ‘academic ethics’ and ‘experimental ecology’ along with two high-level scientific symposia, one honoring the memories of Nobel Laureate Prof. Walter Kohn, and the other celebrating the achievements of biological sciences. Encompassing wider areas, the 82<sup>nd</sup> Annual Meeting will carry forward the tradition of public lectures by scholars from various fields. Over the two and a half days, the audience will have an opportunity to interact with some of the leading researchers of the country.</p>
+            <p>The 82<sup>nd</sup> Academy meeting will also comprise many allied events; teachers’ interaction with the members of the Science Education Panel (SEP) and Fellows, Publication Committee and Editorial Board meeting, an exhibition of Academy’s publications (journals and books), and brief press conference.</p>
             <p><strong>All the scientific presentations are open to public, in particular college and university students, faculty and others.</strong></p>
 
             <h2>Organizers</h2>
@@ -26,12 +27,12 @@
                 <strong>Indian Institute of Science Education and Research (IISER), Bhopal:</strong> Indian Institute of Science Education and Research, Bhopal, established in 2008, is one of the premier Indian institutions engaged in promoting quality education and research in basic sciences. The institute aims to seamlessly integrate teaching and state of the art research.  For more details visit: <a href="https://iiserb.ac.in/index.php" target="_blank">https://iiserb.ac.in/index.php</a>
             </p>
             
-            <h2>Registration</h2>
+            <!-- <h2>Registration</h2>
             <p>The 82<sup>nd</sup> Annual Meeting of the Academy will start on 4<sup>th</sup> November 2016 with registration at 9 AM. Participants are expected arrive on 3 Nov 2016 and depart on 7 Nov 2016.
             <p>
                 For online registration please visit:<br />
                 <em><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" target="_blank">http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp</a></em>
-            </p>
+            </p> -->
         </div>
         <div class="col-md-3 sidebar">
 <?php require_once('application/views/generalSidebar.php');?>

@@ -19,7 +19,7 @@
 
             <ul class="general-list">
                 <li><strong>Dr. Alakesh Bisai</strong><br />+91-7898195689</li>
-                <li><strong>Dr. Alakesh Bisai</strong><br />+91-9893298191</li>
+                <li><strong>Dr. Apurba Lal Koner</strong><br />+91-9893298191</li>
                 <li><strong>Dr. K. V. Adarsh</strong><br />+91-9981955380</li>
                 <li><strong>Dr. Sankar Chakma</strong><br />+91-8011153037</li>
             </ul>

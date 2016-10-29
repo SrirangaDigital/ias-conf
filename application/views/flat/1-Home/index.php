@@ -7,7 +7,7 @@
                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>82<sup>nd</sup> Annual Meeting</h2>
-                        <p>4<sup>th</sup>&ndash;6<sup>th</sup> November 2016 <br />Indian Academy of Sciences, Bengaluru &amp;<br />Indian Institute of Science Education and Research, Bhopal</p>
+                        <p>4<sup>th</sup>&ndash;6<sup>th</sup> November 2016 <br />Indian Academy of Sciences, Bengaluru</p>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
         </div>
         <div class="col-md-10">
             <div class="intro">
-                <p>The Indian Academy of Sciences (IASc), Bengaluru, through the many scientific meetings, symposia, and public lectures it organize, aim to facilitate scientific exchange among researchers and highlight novel findings (both within the scientific community and common public). The Mid-Year Meeting organized during July at Bengaluru and the Annual Meeting organized during November at different places of scientific interest in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and other invitees across the nation.</p>
+                <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate scientific exchange among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and other invitees across the nation.</p>
                 <p>The <strong>82nd Annual Meeting of the Academy</strong> is being organized during <strong>4th&ndash;6th November 2016 at the Indian Institute of Science Education and Research (IISER), Bhopal.</strong></p>
             </div>
         </div>
@@ -48,10 +48,14 @@
         </div>
     </div>
     <div class="row">
+        <p class="speaker-type">Presidential Address</p>
         <a href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
             <img src="<?=PUBLIC_URL?>images/stock/Ram_Ramaswamy.jpg" class="speaker-thumbnail" alt="Prof. Ram Ramaswamy" title="Prof. Ram Ramaswamy"/>
             <figcaption class="figure-caption text-xs-right">Prof. Ram Ramaswamy</figcaption>
         </a>
+    </div>
+    <div class="row">
+        <br /><br /><br /><p class="speaker-type">Invited Lectures</p>
         <a href="<?=BASE_URL?>Speakers/Arun_Chattopadhyay">
              <img src="<?=PUBLIC_URL?>images/stock/Arun_Chattopadhyay.jpg" class="speaker-thumbnail" alt="Arun Chattopadhyay" title="Arun Chattopadhyay"/>
              <figcaption class="figure-caption text-xs-right">Arun Chattopadhyay</figcaption>     
@@ -97,12 +101,11 @@
             <figcaption class="figure-caption text-xs-right">Pradyut Ghosh</figcaption>
         </a>
         <a href="<?=BASE_URL?>Speakers/Ankur_Kulkarni">
-             <img src="<?=PUBLIC_URL?>images/stock/Anukur_Kulkarni.jpg" class="speaker-thumbnail" alt="Ankur Kulkarni.jpg" title="Ankur Kulkarni"/>
+             <img src="<?=PUBLIC_URL?>images/stock/Anukur_Kulkarni.jpg" class="speaker-thumbnail" alt="Ankur Kulkarni" title="Ankur Kulkarni"/>
              <figcaption class="figure-caption text-xs-right">Ankur Kulkarni</figcaption>
         </a>
         <a href="<?=BASE_URL?>Speakers/Partha_P_Majumder">        
-            <img src="<?=PUBLIC_URL?>images/stock/Partha_P_Majumder.jpg" class="speaker-thumbnail"
-            alt="Partha P Majumder" title="              <figcaption class="figure-caption text-xs-right">Partha P Majumder"/>
+            <img src="<?=PUBLIC_URL?>images/stock/Partha_P_Majumder.jpg" class="speaker-thumbnail" alt="Partha P Majumder" title="Partha P Majumder"/>
             <figcaption class="figure-caption text-xs-right">Partha P Majumder</figcaption>
         </a>
         <a href="<?=BASE_URL?>Speakers/Sharmila_Mande">        
@@ -231,7 +234,7 @@
     </div>
     <div class="row" style="line-height: 150px">
         <div class="col-md-12">
-            <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2016/annual/register/Register.jsp" class="info-icon" target="_blank"><i class="fa fa-file-text-o"></i><br />Registration</a>
+            <a href="#" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a>
             <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
             <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Accommodation</a>
             <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Transport</a><br />

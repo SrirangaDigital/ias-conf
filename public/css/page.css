@@ -870,3 +870,9 @@ button.toggle-button{
 .more-info a{
   color: #BF360C;
  }
+ .speaker-type{
+    font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 50px;
+ }
