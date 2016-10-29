@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Arun_Chattopadhyay.jpg" class="profile-thumb" alt="Arun Chattopadhyay" />
             <p class="affiliation">
                 Department of Chemistry, Indian Institute of Technology, Guwahati 781 039<br /> 
-                Tel. Office: (0361) 258 2304; Mobile: 99540 06897;<br /> 
+                <!-- Tel. Office: (0361) 258 2304; Mobile: 99540 06897;<br />  -->
                 Email: arun@iitg.ernet.in
             </p>
             <p>                

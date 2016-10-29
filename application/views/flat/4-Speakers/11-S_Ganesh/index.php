@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Department of Biological Sciences &amp; Bioengineering,<br /> 
                 Indian Institute of Technology, Kanpur 208 016<br />
-                Tel. Office: (0512) 259 404; Mobile: 94530 41967;<br /> 
+                <!-- Tel. Office: (0512) 259 404; Mobile: 94530 41967;<br />  -->
                 Email: sganesh@iitk.ac.in, ganpil@gmail.com
             </p>
             <p>

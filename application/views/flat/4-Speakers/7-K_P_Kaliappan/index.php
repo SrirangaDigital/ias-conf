@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/K_P_Kaliappan.jpg" class="profile-thumb" alt="Krishna P. Kaliappan" />
             <p class="affiliation">
                 Department of Chemistry, Indian Institute of Technology, Powai, Mumbai 400 076,<br /> 
-                Tel. Office: (022) 2576 7177; Mobile: 96197 47177;<br /> 
+                <!-- Tel. Office: (022) 2576 7177; Mobile: 96197 47177;<br />  -->
                 Email: kpk@chem.iitb.ac.in
             </p>
             <p>

@@ -15,7 +15,7 @@
                 Department of Condensed Matter Physics &amp; Materials Science,<br /> 
                 Tata Institute of Fundamental Research,<br /> 
                 Homi Bhabha Road, Mumbai 400 005<br />
-                Tel. Office: (022) 2278 2201; Mobile: 98693 03774;<br /> 
+                <!-- Tel. Office: (022) 2278 2201; Mobile: 98693 03774;<br />  -->
                 Email: pratap@tifr.res.in
             </p>
             <p>

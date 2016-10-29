@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Chair, Physics Programme, Indian Institute of Science Education &amp; Research,<br /> 
                 Dr HomiBhabha Road, Pashan, Pune 411 008,<br />
-                Tel. Office: (020) 2590 6118; Mobile: 98672 01156;<br /> 
+                <!-- Tel. Office: (020) 2590 6118; Mobile: 98672 01156;<br />  -->
                 Email: sunil.mukhi@gmail.com
             </p>
             <p>

@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Pradyut_Ghosh.jpg" class="profile-thumb" alt="Pradyut Ghosh" />
             <p class="affiliation">
                 Department of Inorganic Chemistry, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700 032<br />
-                Tel. Office: (033) 2473 4971/1351; Mobile: 94331 38075;<br /> 
+                <!-- Tel. Office: (033) 2473 4971/1351; Mobile: 94331 38075;<br />  -->
                 Email: icpg@iacs.res.in
             </p>
             <p>

@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Anshu_Pandey.jpg" class="profile-thumb" alt="Anshu Pandey" />
             <p class="affiliation">
                 SSCU, Indian Institute of Science, Bengaluru 560 012<br />
-                Tel. Office: (080) 2293 2070; <br />
+                <!-- Tel. Office: (080) 2293 2070; <br /> -->
                 Email: anshup@sscu.iisc.ernet.in
             </p>
             <p>

@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Ravi_Korisettar.jpg" class="profile-thumb" alt="Ravi Korisettar" />
             <p class="affiliation">
                 Dr V S Wakankar Archaeological Research Institute, Dharwad<br />
-                Tel. off. (0836) 277 0057; Mobile: 94481 11300<br />
+                <!-- Tel. off. (0836) 277 0057; Mobile: 94481 11300<br /> -->
                 Email: korisettar@gmail.com
             </p>
             <p>

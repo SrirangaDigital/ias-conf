@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/K_N_Balaji.jpg" class="profile-thumb" alt="K N Balaji" />
             <p class="affiliation">
                 Department of Microbiology &amp; Cell Biology, Indian Institute of Science, Bangalore 560 012,<br />
-                Tel. Office: (080) 2293 3223; Mobile: 98453 28562;<br /> 
+                <!-- Tel. Office: (080) 2293 3223; Mobile: 98453 28562;<br />  -->
                 Email: balaji@mcbl.iisc.ernet.in                
             </p>
             <p>

@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Souvik_Mukherjee.jpg" class="profile-thumb" alt="Souvik Mukherjee" />
             <p class="affiliation">
                 National Institute of Biomedical Genomics, Netaji Subhas Sanitorium, Kalyani 741 251<br />
-                mobile: 98301 32775
+                <!-- mobile: 98301 32775 -->
             </p>
             <p>
                 <strong>Souvik Mukherjee,</strong> NIBMG, Kolkata, Mukherjee is currently studying host-metagenome interactions in chronic human diseases. His doctoral thesis was on Population genetics and molecular evolution of innate immunity genes in humans He has worked on the International Cancer Genome Consortium-India Project on Oral Cancer.

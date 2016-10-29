@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Ram_Ramaswamy.jpg" class="profile-thumb" alt="Prof. Ram Ramaswamy" />
             <p class="affiliation">
                 School of Physical Sciences, JNU, New Delhi 110 067<br />
-                Tel. Off. (011) 2673 8964 Mobile: 78930 93737<br />
+                <!-- Tel. Off. (011) 2673 8964 Mobile: 78930 93737<br /> -->
                 Email: r.ramaswamy@gmail.com, ramaswamy@jnu.ac.in
             </p>
             <p><strong>Ramakrishna Ramaswamy,</strong> School of Physical Sciences, JNU, New Delhi, is President of Indian Academy of Sciences (2016-18). Ramaswamy’s research interests lie in the intersection of nonlinear science, statistical physics, and computational biology. He is also a Fellow of the Indian National Science Academy and of The World Academy of Sciences,TWAS.</p>

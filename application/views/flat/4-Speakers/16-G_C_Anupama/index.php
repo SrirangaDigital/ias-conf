@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/G_C_Anupama.jpg" class="profile-thumb" alt="G C Anupama" />
             <p class="affiliation">
                 Indian Institute of Astrophysics, Sarjapur Road, Koramangala, Bangalore 560 034,<br />
-                Tel. Office: (080) 2254 1344; Mobile: 98450 44770;<br /> 
+                <!-- Tel. Office: (080) 2254 1344; Mobile: 98450 44770;<br />  -->
                 Email: gca@iiap.res.in
             </p>
             <p>

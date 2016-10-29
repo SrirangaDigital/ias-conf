@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Tirthankar_Bhattacharyya.jpg" class="profile-thumb" alt="Tirthankar Bhattacharyya" />
             <p class="affiliation">
                 Department of Mathematics, Indian Institute of Science, Bangalore 560 012,<br />
-                Tel. Office: (080) 2293 2710; Mobile: 94482 79673;<br /> 
+                <!-- Tel. Office: (080) 2293 2710; Mobile: 94482 79673;<br />  -->
                 Email: tirtha@math.iisc.ernet.in
             </p>
             <p>

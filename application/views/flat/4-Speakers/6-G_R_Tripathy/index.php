@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Department of Earth &amp; Climate Sci.,<br /> 
                 Indian Institute of Science Education &amp; Research, Pashan, Pune 411 008<br />
-                Tel. Office: (020) 2590 8275;<br /> 
+                <!-- Tel. Office: (020) 2590 8275;<br />  -->
                 Email: grtripathy@gmail.com, grtripathy@iiserpune.ac.in
             </p>
             <p>

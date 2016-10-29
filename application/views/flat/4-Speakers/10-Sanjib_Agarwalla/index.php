@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Sanjib_Agarwalla.jpg" class="profile-thumb" alt="Sanjib K. Agarwalla" />
             <p class="affiliation">
                 Institute of Physics, Sachivalaya Marg, Sainik School Post, Bhubaneswar 751 005<br />
-                Tel. Office: (0674) 230 6427;<br /> 
+                <!-- Tel. Office: (0674) 230 6427;<br />  -->
                 Email: sanjib@iopb.res.in, sanjib.agarwalla@gmail.com
             </p>
             <p>

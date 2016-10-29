@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Swapan_K_Ghosh.jpg" class="profile-thumb" alt="Swapan K Ghosh" />
             <p class="affiliation">
                 Theoretical Chemistry Section, Chemistry Group, Bhabha Atomic Research Centre, Trombay, Mumbai 400 085,<br />
-                Tel. Office: (022) 2559 5092;<br /> 
+                <!-- Tel. Office: (022) 2559 5092;<br />  -->
                 Email: skghosh@barc.gov.in            
             </p>
             <p>

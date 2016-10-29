@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Anukur_Kulkarni.jpg" class="profile-thumb" alt="Ankur A. Kulkarni" />
             <p class="affiliation">
                 Systems &amp; Control Engineering, Indian Institute of Technology, Powai, Mumbai 400 076<br />
-                Tel. Office: (022) 2576 5384;<br /> 
+                <!-- Tel. Office: (022) 2576 5384;<br />  -->
                 Email: kulkarni.ankur@iitb.ac.in    
             </p>
             <p>

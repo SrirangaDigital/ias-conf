@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Partha_P_Majumder.jpg" class="profile-thumb" alt="Partha P Majumder" />
             <p class="affiliation">
                 Director, National Institute of Biomedical Genomics, Netaji Subhas Sanitorium,<br /> Kalyani 741 251<br />
-                Tel off. (033) 2589 2150; Mobile: 98310 04230<br />
+                <!-- Tel off. (033) 2589 2150; Mobile: 98310 04230<br /> -->
                 Email: ppm1@nibmg.ac.in
             </p>
             <p>

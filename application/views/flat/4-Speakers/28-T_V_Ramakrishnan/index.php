@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/T_V_Ramakrishnan.jpg" class="profile-thumb" alt="T V Ramakrishnan" />
             <p class="affiliation">
                 Emeritus Professor, Department of Physics, Banaras Hindu University, Varanasi 221 005,<br />
-                Tel. Office: (0542) 230 7327; Mobile: 94483 63379;<br /> 
+                <!-- Tel. Office: (0542) 230 7327; Mobile: 94483 63379;<br />  -->
                 Email: tvrama2002@yahoo.co.in, tvrama@bhu.ac.in
             </p>
             <p>

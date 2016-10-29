@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Indian Institute of Science Education and Research Bhopal<br />
                 Bhopal 462 066<br />
-                Tel. off. (0755) 269 2572; Mobile: 81202 54321
+                <!-- Tel. off. (0755) 269 2572; Mobile: 81202 54321 -->
             </p>
             <p>
                 <strong>Vineet K Sharma,</strong> IISER, Bhopal, the current focus of Sharmas lab is metagenomics and systems biology. His group has recently sequenced the gut and skin flora of several Indian individuals. They have also developed several software for metagenomic data analysis using machine learning methods and novel algorithms.                

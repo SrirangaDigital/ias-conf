@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Theoretical Sciences Unit, Jawaharlal Nehru Centre for Advanced Scientific Research,<br /> 
                 Jakkur P.O., Bangalore 560 064,<br />
-                Tel. Office: (080) 2208 2842; Mobile: 94482 87711;<br /> 
+                <!-- Tel. Office: (080) 2208 2842; Mobile: 94482 87711;<br />  -->
                 Email: waghmare@jncasr.ac.in
             </p>
             <p>

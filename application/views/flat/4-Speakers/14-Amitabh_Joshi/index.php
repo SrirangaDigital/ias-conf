@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Evolutionary &amp; Organismal Biology Unit,<br /> 
                 Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O., Bangalore 560 064,<br />
-                Tel. Office: (080) 2208 2802, (080) 2208 2803; Mobile: 93413 54233;<br />
+                <!-- Tel. Office: (080) 2208 2802, (080) 2208 2803; Mobile: 93413 54233;<br /> -->
                 Email: ajoshi@jncasr.ac.in                
             </p>
             <p>

@@ -14,7 +14,7 @@
             <p class="affiliation">
                 Department of Biosciences &amp; Bioengineering,<br /> 
                 Indian Institute of Technology, Guwahati 781 039<br />
-                Tel. Office: (0361) 258 2223;<br /> 
+                <!-- Tel. Office: (0361) 258 2223;<br />  -->
                 Email: banand@iitg.ernet.in, anandbasub@gmail.com 
             </p>
             <p>

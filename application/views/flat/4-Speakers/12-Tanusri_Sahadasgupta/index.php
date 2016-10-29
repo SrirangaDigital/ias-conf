@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Tanusri_Sahadasgupta.jpg" class="profile-thumb" alt="Tanusri Saha-Dasgupta" />
             <p class="affiliation">
                 SN Bose National Centre for Basic Sciences, JD Block, Sector III, Salt Lake, Kolkata 700 098<br />
-                Tel. Office: (033) 2335 5705-8; Mobile: 98312 09592;<br /> 
+                <!-- Tel. Office: (033) 2335 5705-8; Mobile: 98312 09592;<br />  -->
                 Email: tanusri@bose.res.in
             </p>
             <p>

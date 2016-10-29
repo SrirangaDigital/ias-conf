@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/javed_Agrewala.jpg" class="profile-thumb" alt="Javed N Agrewala" />
             <p class="affiliation">
                 Chief Scientist, Immunology Laboratory, Institute of Microbial Technology,<br /> Sector 39A, Chandigarh 160 036,<br />
-                Tel. Office: (0172) 666 526, Mobile: 94178 69408,<br /> 
+                <!-- Tel. Office: (0172) 666 526, Mobile: 94178 69408,<br />  -->
                 Email: javed@imtech.res.in, jagrewala@gmail.com
             </p>
             <p>

@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Raghuram_A.jpg" class="profile-thumb" alt="Raghuram A" />
             <p class="affiliation">
                 Indian Institute of Science Education &amp; Research, Dr Homi Bhabha Road, Pune 411 008,<br /> 
-                Tel. Office: (020) 2590 8103, Mobile: 83906 70099,<br /> 
+                <!-- Tel. Office: (020) 2590 8103, Mobile: 83906 70099,<br />  -->
                 Email: raghuram@iiserpune.ac.in, raghuram.1@gmail.com 
             </p>
             <p>

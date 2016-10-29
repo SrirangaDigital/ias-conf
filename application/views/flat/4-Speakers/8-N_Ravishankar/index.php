@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/N_Ravishankar.jpg" class="profile-thumb" alt="N. Ravishankar" />
             <p class="affiliation">
                 Materials Research Centre, Indian Institute of Science, Bangalore 560 012<br />
-                Tel. Office: (080) 2293 3255; Mobile: 96328 20840,<br /> 
+                <!-- Tel. Office: (080) 2293 3255; Mobile: 96328 20840,<br />  -->
                 Email: nravi@mrc.iisc.ernet.in, raviiisc@gmail.com
             </p>
             <p>

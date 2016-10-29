@@ -13,7 +13,7 @@
             <img src="<?=PUBLIC_URL?>images/stock/Rajendra_Singh.jpg" class="profile-thumb" alt="Rajendra Singh" />
             <p class="affiliation">
                 34/24, Kiran Path, Mansarovar, Jaipur 302020,<br />
-                Tel. Office (0146) 522 5043, (0291) 2751556 / 108; Mobile: 09414066765<br />
+                <!-- Tel. Office (0146) 522 5043, (0291) 2751556 / 108; Mobile: 09414066765<br /> -->
                 Email: watermantbs@yahoo.com, jalpurushtbs@gmail.com
             </p>
             <p>
