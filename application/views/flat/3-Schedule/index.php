@@ -90,7 +90,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1045 - 1130<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=DOWNLOAD_URL?>A_Life_in_Science_Invite.pdf"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="aux">Book release</span><br />
@@ -621,6 +621,16 @@ $(document).ready(function() {
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
+                                09.00 AM<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=DOWNLOAD_URL?>TAcT_Agenda.pdf"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">The Academy Trust (TAcT) Programme</span><br />
+                                Venue: Visitors’ Hostel – Auditorium<br />
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
                                 10.00 AM
                             </dt>
                             <dd>
@@ -657,11 +667,10 @@ $(document).ready(function() {
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                Evening
+                                07.00 PM
                             </dt>
                             <dd>
                                 <span class="speaker">Talk by Prof. CNR Rao<br />
-                                (programme organized by IISER Bhopal)</span><br />
                                 L5, Lecture Hall Complex<br />
                             </dd>
                         </dl>          

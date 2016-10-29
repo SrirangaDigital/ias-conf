@@ -9,7 +9,7 @@
 <div id="grid" class="container gap-above">
     <div class="row">
         <div class="col-md-9 main">
-            <h1>About the conference</h1>
+            <h1>About</h1>
 
             <h2>Agenda&mdash;82<sup>nd</sup> Annual Meeting - Indian Academy of Sciences</h2>
             <p>The 82<sup>nd</sup> Annual Meeting of the Indian Academy of Sciences is being held at Bhopal, hosted by the Indian Institute of Science Education and Research, during during 4<sup>th</sup> &ndash; 6<sup>th</sup> November 2016. The two and a half days’ deliberation will see the participation of many Fellows and Associates of the Academy and invited teachers from different parts of the country who will engage in active scientific discussions with the Fellows.</p>

@@ -55,7 +55,7 @@
         </a>
     </div>
     <div class="row">
-        <br /><br /><br /><p class="speaker-type">Invited Lectures</p>
+        <br /><br /><br /><p class="speaker-type">Inaugural Lectures of Fellows &amp; Associates / Special Lectures / Public Lectures / Symposia Lectures</p>
         <a href="<?=BASE_URL?>Speakers/Arun_Chattopadhyay">
              <img src="<?=PUBLIC_URL?>images/stock/Arun_Chattopadhyay.jpg" class="speaker-thumbnail" alt="Arun Chattopadhyay" title="Arun Chattopadhyay"/>
              <figcaption class="figure-caption text-xs-right">Arun Chattopadhyay</figcaption>     

@@ -14,23 +14,22 @@
             <ul class="general-list">
                 <li>
                     <strong>Abstracts of Lectures</strong><br />
-                    <a href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a><br />
                 </li>
                 <li>
                     <strong>Schedules and Posters</strong><br />
-                    <a href="<?=DOWNLOAD_URL?>AMcardprn22oct2016.pdf">Programme Card</a><br />
-                    <a href="<?=DOWNLOAD_URL?>AMprogposterprn22oct2016.pdf">Program</a><br />
-                    <a href="<?=DOWNLOAD_URL?>AMlectposterprn22oct2016.pdf">Special Lectures</a><br />
-                    <a href="<?=DOWNLOAD_URL?>AMsympposterprn22oct2016.pdf">Symposia</a>
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMcardprn22oct2016.pdf">Programme Card</a><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMprogposterprn22oct2016.pdf">Program</a><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMlectposterprn22oct2016.pdf">Special Lectures</a><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMsympposterprn22oct2016.pdf">Symposia</a>
                 </li>
                 <li>
-                    <strong>Life in Science - Book release programme</strong><br />
-                    <a href="<?=DOWNLOAD_URL?>A_Life_in_ScienceInviteside_1.jpg">Poster</a><br />
-                    <a href="<?=DOWNLOAD_URL?>A_Life_in_ScienceInviteside_2.jpg">Invitation</a>
+                    <strong>A Life in Science - Book release programme</strong><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>A_Life_in_Science_Invite.pdf">Invite</a><br />
                 </li>
                 <li>
                     <strong>Logistics</strong><br />
-                    <a href="<?=BASE_URL?>Information/Venue#bhopal_campus_map">IISER Bhopal - Campus plan</a>
+                    <a target="_blank" href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg">IISER Bhopal - Campus plan</a>
                 </li>
             </ul>
         </div>
