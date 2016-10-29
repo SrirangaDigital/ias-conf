@@ -17,14 +17,25 @@
                 Email: raghuram@iiserpune.ac.in, raghuram.1@gmail.com 
             </p>
             <p>
-                <strong>A Raghuram,</strong> IISER Pune, elected to Fellowship in 2016, Raghurams research interests are in number theory and representation theory. His most significant work uses the geometric methods of the cohomology of arithmetic groups and analytic tools from the Langlands program to study the arithmetic of the special values of L-functions. He has also made a documentary on the life and work of Srinivasa Ramanujan, which was released in 2013.
+                <strong>A Raghuram,</strong> IISER Pune, elected to Fellowship in 2016. Raghuram’s research interests
+                are in number theory and representation theory. His most significant work uses the geometric
+                methods of the cohomology of arithmetic groups and analytic tools from the Langlands
+                program to study the arithmetic of the special values of L-functions. He has also made a
+                documentary on the life and work of Srinivasa Ramanujan, which was released in 2013.
             </p>
 
             <div class="talk">
                 <p class="type">Session 1C - Inaugural Lecture</p>
                 <p class="title">From calculus to number theory</p>
                 <p class="abstract">
-                    Some classical formulae that one usually encounters in a first course in calculus will be first mentioned. For example, Euler proved in 1730s that the sum of reciprocals of the squares of all positive integers is one sixth the square of the number π. Such formulae are the prototypical examples for an entire area of research in modern number theory that goes by the appellation ”special values of L-functions”. The aim of this talk is to provide glimpses into this area of research and to convey the grandeur of this subject that draws upon several different areas of modern mathematics such as representation theory, algebraic and differential geometry, and harmonic analysis. 
+                    Some classical formulae that one usually encounters in a first course in calculus will be
+                    first mentioned. For example, Euler proved in 1730s that the sum of reciprocals of the
+                    squares of all positive integers is one-sixth the square of the number π. Such formulae
+                    are the prototypical examples for an entire area of research in modern number theory that
+                    goes by the appellation “special values of L-functions”. The aim of this talk is to provide
+                    glimpses into this area of research and to convey the grandeur of this subject that draws
+                    upon several different areas of modern mathematics such as representation theory, algebraic
+                    and differential geometry, and harmonic analysis.
                 </p>
             </div>
         </div>

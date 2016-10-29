@@ -17,14 +17,26 @@
                 Email: kulkarni.ankur@iitb.ac.in    
             </p>
             <p>
-                <strong>Ankur A Kulkarni,</strong> IIT-Bombay, selected to Associateship in 2015. His research interests include the role of information in stochastic control, game theory, combinatorial coding theory problems, optimization and variational inequalities, and operations research. He is the recipient of the INSPIRE Faculty Award of the Department of Science and Technology (2013) and theWilliam A. Chittenden Award (2008).                
+                <strong>Ankur A Kulkarni,</strong> IIT-Bombay, selected to Associateship in 2015. His research interests
+                include the role of information in stochastic control, game theory, combinatorial coding
+                theory problems, optimization and variational inequalities, and operations research. He is
+                a recipient of the INSPIRE Faculty Award of the Department of Science and Technology
+                (2013) and the William A. Chittenden Award (2008).
             </p>
 
             <div class="talk">
                 <p class="type">Session 2B - Inaugural Lecture</p>
                 <p class="title">Towards a convex-analytic view of impossibility results in stochastic control and information theory</p>
                 <p class="abstract">
-                    A fundamental problem in stochastic control and information theory is to provide tight lower bounds on the minimum cost attainable in a system. This problem is theoretically well understood under classical settings those that assume infinite memory but is plagued by a lack of tools for attack in nonclassical settings. We explain this phase change from convex-analytic perspectives and develop new attacks on this problem. We argue that common to such settings is a fundamental nonconvexity that germinates fromthe nonclassicality of the information structure. Using convex relaxations and linear programming duality we obtain tight lower bounds for problems studied in information theory. This work hopes to derive a convex-analytic means of understanding problems with various information structures.
+                    A fundamental problem in stochastic control and information theory is to provide tight
+                    lower bounds on the minimum cost attainable in a system. This problem is theoretically
+                    well understood under classical settings those that assume infinite memory but is plagued
+                    by a lack of tools for attack in nonclassical settings. We explain this phase change from
+                    convex-analytic perspectives and develop new attacks on this problem. We argue that common
+                    to such settings is a fundamental nonconvexity that germinates from the nonclassicality
+                    of the information structure. Using convex relaxations and linear programming duality we
+                    obtain tight lower bounds for problems studied in information theory. This work hopes to
+                    derive a convex-analytic means of understanding problems with various information structures.
                 </p>
             </div>
         </div>

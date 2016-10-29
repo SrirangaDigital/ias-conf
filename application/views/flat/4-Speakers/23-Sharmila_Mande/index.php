@@ -16,14 +16,28 @@
                 Pune
             </p>
             <p>
-                <strong>Sharmila S Mande,</strong> TCS Innovation Labs, Pune, one of Mandes major focuses pertains to understanding role of human microbiome in diseases/disorder. She has a number of patented algorithms that address challenges faced by researchers in analysing large-scale biological data. She is the recipient of the TCS Distinguished Scientist Award.                
+                <strong>Sharmila S Mande,</strong> TCS Innovation Labs, Pune. One of Mande’s major focuses pertains
+                to understanding role of human microbiome in diseases/disorder. She has a number of
+                patented algorithms that address challenges faced by researchers in analysing large-scale
+                biological data. She is a recipient of the TCS Distinguished Scientist Award.
             </p>
 
             <div class="talk">
                 <p class="type">Session 2C - Symposium on “Our Second Genome”</p>
                 <p class="title">Gut microbiome and human health</p>
                 <p class="abstract">
-                    Our body harbours ten times more microbes than our own cells. This microbial community (called microbiome) is therefore expected to have huge influence on our health and wellbeing. Metagenomics, an emerging field, is rapidly becoming the method of choice for studying microbiomes present in various parts of the body. Recent studies have indicated the role of gut microbiomes in several diseases/disorders and have also suggested their role in nutrient absorption, immuno-modulation motor-response, and other key physiological processes. Gut microbial communities have also been shown to act as reservoirs of antibiotic resistance. In order to obtain biologically meaningful insights from the enormous volume of microbiome data generated from sequencing platforms, it is necessary to have appropriate analytics approaches. Efficient computational methodologies are needed for management as well as analyses of the data. Some of the exciting outcomes from analytics in a few selected gut microbiome studies will be highlighted during this talk.
+                    Our body harbours ten times more microbes than our own cells. This microbial community
+                    (called microbiome) is therefore expected to have huge influence on our health and wellbeing.
+                    Metagenomics, an emerging field, is rapidly becoming the method of choice for
+                    studying microbiomes present in various parts of the body. Recent studies have indicated
+                    the role of gut microbiomes in several diseases/disorders and have also suggested their role
+                    in nutrient absorption, immuno-modulation motor-response, and other key physiological
+                    processes. Gut microbial communities have also been shown to act as reservoirs of antibiotic
+                    resistance. In order to obtain biologically meaningful insights from the enormous
+                    volume of microbiome data generated from sequencing platforms, it is necessary to have
+                    appropriate analytics approaches. Efficient computational methodologies are needed for
+                    management as well as analyses of the data. Some of the exciting outcomes from analytics
+                    in a few selected gut microbiome studies will be highlighted during this talk.
                 </p>
             </div>
         </div>

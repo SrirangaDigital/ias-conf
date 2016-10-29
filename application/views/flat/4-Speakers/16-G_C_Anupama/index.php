@@ -17,14 +17,26 @@
                 Email: gca@iiap.res.in
             </p>
             <p>
-                <strong>G C Anupama,</strong> IIA, Bengaluru, elected to Fellowship in 2016, Anupama has expertise in the area of observational astronomy, in particular in the area of time domain astronomy. She specializes in the studies of eruptive transient variables. As a core member of the India TMT project, Anupama, is responsible for the delivery of 90 polished segments of the primary mirror of the Thirty Meter Telescope, as a part of Indias in-kind contribution to the international project. She is a recipient of Government of Karnatakas Sir C.V. Raman Young Scientist Award (2001).
+                <strong>G C Anupama,</strong> , IIA, Bengaluru, elected to Fellowship in 2016. Anupama has expertise in
+                the area of observational astronomy, in particular time domain astronomy. She specializes
+                in the studies of eruptive transient variables. As a core member of the India TMT project,
+                Anupama is responsible for the delivery of 90 polished segments of the primary mirror
+                of the Thirty Meter Telescope, as a part of India’s in-kind contribution to the international
+                project. She is a recipient of Government of Karnataka’s Sir C.V. Raman Young Scientist
+                Award (2001).
             </p>
 
             <div class="talk">
                 <p class="type">Session 2D - Inaugural Lecture</p>
                 <p class="title">Time domain astronomy – Explosive transients</p>
                 <p class="abstract">
-                    Time domain astronomy is a study of the variable sky. There are several variable sources, a good fraction of them being transient in nature. Some of the most energetic events in the Universe are the explosive transients gamma-ray burst sources (GRBs), supernovae and novae. GRBs and supernovae are the end stages of massive stars, while nova explosions are a result of matter accretion onto a white dwarf. The observational properties of these source will be described in this talk, using as examples the objects observed with the observing facilities available in the country.
+                    Time domain astronomy is a study of the variable sky. There are several variable sources,
+                    a good fraction of them being transient in nature. Some of the most energetic events in
+                    the Universe are the explosive transients gamma-ray burst sources (GRBs), supernovae and
+                    novae. GRBs and supernovae are the end stages of massive stars, while nova explosions are
+                    a result of matter accretion onto a white dwarf. The observational properties of these source
+                    will be described in this talk, using as examples the objects observed with the observing
+                    facilities available in the country.
                 </p>
             </div>
         </div>

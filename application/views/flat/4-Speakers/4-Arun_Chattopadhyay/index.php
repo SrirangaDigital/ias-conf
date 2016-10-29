@@ -18,10 +18,10 @@
             </p>
             <p>                
                 <strong>Arun Chattopadhyay,</strong> Department of Chemistry, IIT, Guwahati, elected to Fellowship in
-                2016, Chattopadhyay leads a group working on frontier areas of nanoscale science and
+                2016. Chattopadhyay leads a group working on frontier areas of nanoscale science and
                 technology. Recently his group submitted applications for patents on the thumb-imprintbased
                 detection of hyperbilirubinemia and a nanotechnology-based portable machine for
-                pursuing gene and protein analyses. He is the recipient of the Swarnajayanti Fellowship
+                pursuing gene and protein analyses. He is a recipient of the Swarnajayanti Fellowship
                 Award (2003-2004), the Materials Research Society of India Medal (2008) and the Young
                 Career Award in Nano Science and Technology (2013).            
             </p>
@@ -30,7 +30,7 @@
                 <p class="type">Session 1B - Inaugural Lecture</p>
                 <p class="title">Decorating the surface of a quantum dot with molecules</p>
                 <p class="abstract">
-                    Colloidal semiconductor nanocrystals otherwise known as quantum dots are emblematic of advanced materials for chemical catalysis, light-emitting devices, medical imaging, solar cells, lasers and electronic devices. Currently the repertoire of quantumdots and knowledge about their properties seem abundant. However, it can be argued that there is still plenty of opportunity for pursuing new chemistry on these small crystals. Our laboratory has introduced the concept of complexation reaction on the surface of the quantum dot. The idea is to pursue the chemical reaction between the labile surface metal ion and an external organic ligand. This results in the formation of inorganic complex on the quantum dot (defined as quantum dot complex) which not only alters the property of the quantum dot but also confers additional properties owing to the complex formed on the surface. The nature of the complex and its number could be tuned depending on the reacting ligands and their concentrations.                     
+                    Colloidal semiconductor nanocrystals otherwise known as quantum dots, are emblematic of advanced materials for chemical catalysis, light-emitting devices, medical imaging, solar cells, lasers and electronic devices. Currently the repertoire of quantum dots and knowledge about their properties seem abundant. However, it can be argued that there is still plenty of opportunity for pursuing new chemistry on these small crystals. Our laboratory has introduced the concept of complexation reaction on the surface of the quantum dot. The idea is to pursue the chemical reaction between the labile surface metal ion and an external organic ligand. This results in the formation of inorganic complex on the quantum dot (defined as quantum dot complex) which not only alters the property of the quantum dot but also confers additional properties owing to the complex formed on the surface. The nature of the complex and its number could be tuned depending on the reacting ligands and their concentrations.
                 </p>
             </div>
         </div>

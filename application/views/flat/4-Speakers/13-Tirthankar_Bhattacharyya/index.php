@@ -17,14 +17,22 @@
                 Email: tirtha@math.iisc.ernet.in
             </p>
             <p>
-                <strong>Tirthankar Bhattacharyya,</strong> Department of Mathematics, IISc, Bengaluru, elected to Fellowship in 2016, Bhattacharyya works in functional analysis. He specializes in Hilbert space operator theory and in its use in studying holomorphic functions of several complex variables.                
+                <strong>Tirthankar Bhattacharyya,</strong> Department of Mathematics, IISc, Bengaluru, elected to Fellowship
+                in 2016. Bhattacharyya works in functional analysis. He specializes in Hilbert
+                space operator theory and in its use in studying holomorphic functions of several complex
+                variables.
             </p>
 
             <div class="talk">
                 <p class="type">Session 3B - Inaugural Lecture</p>
                 <p class="title">What do analytic functions look like?</p>
                 <p class="abstract">
-                    The Schur class of functions consists of holomorphic functions from the open unit disk to the closed unit disk. Schur studied this class in 1918. A function from the Schur class has a realization formula where a Hilbert space makes a natural appearance. Agler in 1990 found a natural generalization of the realization formula for functions from the bidisk to the closed unit disk. We shall expound on some of these ideas and shall see why functional analysis and (several variables) complex analysis are so intricately related.
+                    The Schur class of functions consists of holomorphic functions from the open unit disk to
+                    the closed unit disk. Schur studied this class in 1918. A function from the Schur class
+                    has a realization formula where a Hilbert space makes a natural appearance. Agler in 1990
+                    found a natural generalization of the realization formula for functions from the bidisk to
+                    the closed unit disk. We shall expound on some of these ideas and shall see why functional
+                    analysis and (several variables) complex analysis are so intricately related.
                 </p>
             </div>
         </div>

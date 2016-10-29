@@ -16,14 +16,29 @@
                 <!-- mobile: 98301 32775 -->
             </p>
             <p>
-                <strong>Souvik Mukherjee,</strong> NIBMG, Kolkata, Mukherjee is currently studying host-metagenome interactions in chronic human diseases. His doctoral thesis was on Population genetics and molecular evolution of innate immunity genes in humans He has worked on the International Cancer Genome Consortium-India Project on Oral Cancer.
+                <strong>Souvik Mukherjee,</strong> NIBMG, Kolkata. Mukherjee is currently studying host–metagenome
+                interactions in chronic human diseases. His doctoral thesis was on population genetics and
+                molecular evolution of innate immunity genes in humans He has worked in the International
+                Cancer Genome Consortium-India Project on Oral Cancer.
             </p>
 
             <div class="talk">
                 <p class="type">Session 2C - Symposium “Our Second Genome”</p>
                 <p class="title">The microbiome in skin health and disease</p>
                 <p class="abstract">
-                    The skin is the largest organ of the human body. The composition and abundance of the skin commensal microbiome have direct implications in the maintenance of skin health. Healthy skin microbiome is not same for all. Dysbiosis (microbiome imbalance) on the skin is associated with chronic skin diseases. Past studies did not consider Asian/Indian individuals, which is important since these populations have diverse population histories. The speakers team has characterised the healthy facial skin microbiome in an Indian population of Dravidian descent and derived evidence that inter-individual variability in microbiome profile is significantly associated with sebum and hydration levels in specific facial regions. The skin microbiome was found to be temporally stable even after one year. Microbiome profile on the Indian skin is considerably different from that of the Caucasian skin, but is less dissimilar from that of the Chinese skin. These findings are important in understanding causes and differences in prevalence of various skin conditions like acne, psoriasis, dermatitis, etc.
+                    The skin is the largest organ of the human body. The composition and abundance of the
+                    skin commensal microbiome have direct implications in the maintenance of skin health.
+                    Healthy skin microbiome is not same for all. Dysbiosis (microbiome imbalance) on the
+                    skin is associated with chronic skin diseases. Past studies did not consider Asian/Indian individuals,
+                    which is important since these populations have diverse population histories. The
+                    speakers team has characterised the healthy facial skin microbiome in an Indian population
+                    of Dravidian descent and derived evidence that inter-individual variability in microbiome
+                    profile is significantly associated with sebum and hydration levels in specific facial regions.
+                    The skin microbiome was found to be temporally stable even after one year. Microbiome
+                    profile on the Indian skin is considerably different from that of the Caucasian skin, but is
+                    less dissimilar from that of the Chinese skin. These findings are important in understanding
+                    causes and differences in prevalence of various skin conditions like acne, psoriasis,
+                    dermatitis, etc.
                 </p>
             </div>
         </div>

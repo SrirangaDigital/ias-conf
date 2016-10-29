@@ -17,14 +17,31 @@
                 Email: nravi@mrc.iisc.ernet.in, raviiisc@gmail.com
             </p>
             <p>
-                <strong>N Ravishankar,</strong> IISc, Bengaluru, elected to Fellowship in 2015, Ravishankars current research interests include nucleation and growth of nanostructures, growth and transport in ultrathin metal nanowires, nanostructures and hybrids for catalysis applications and electron microscopy and in situ techniques. He is recipient of the Shanti Swarup Bhatnagar Prize (Engg.Sci.) (2012), Materials Research Society of India Medal (2011), and Swarnajayanti Fellowship (2010).
+                <strong>N Ravishankar,</strong> IISc, Bengaluru, elected to Fellowship in 2015. Ravishankar’s current
+                research interests include nucleation and growth of nanostructures, growth and transport in
+                ultrathin metal nanowires, nanostructures and hybrids for catalysis applications and electron
+                microscopy and in situ techniques. He is a recipient of the Shanti Swarup Bhatnagar
+                Prize (Engg.Sci.) (2012), Materials Research Society of India Medal (2011), and Swarnajayanti
+                Fellowship (2010).
             </p>
 
             <div class="talk">
                 <p class="type">Session 3A - Inaugural Lecture</p>
                 <p class="title">Intriguing structure and transport behaviour of ultrathin single crystalline gold nanowires</p>
                 <p class="abstract">
-                    Growing anisotropic nanostructures of high-symmetry materials is a challenging task owing to the symmetry-breaking that is required. We have developed a simple wet chemical method by which ultrathin  (&lt; 2 nm diameter) Au nanowires could be grown in the solution phase. In the first part of the talk, the details of the mechanism of these wires using electron microscopy as the principal supporting tool will be discussed. In the second part, methods to grow these wires on substrates and directly between pre-patterned contact pads will be discussed. This enables the direct measurement of electrical transport through these wires for the first time. An unexpected insulating behaviour in these wires with the resistivity decreasing as a function of the temperature of measurement was found. The implications of this observation will be discussed. In the third part, some intriguing results on the atomic structure of these nanowires where we find modulations of atomic planes normal to the growth directions will be presented. Finally, some interesting applications of these ultrathin metal nanowires in sensing and catalysis will be presented.
+                    Growing anisotropic nanostructures of high-symmetry materials is a challenging task
+                    owing to the symmetry-breaking that is required. We have developed a simple wet chemical
+                    method by which ultrathin (&lt; 2 nm diameter) Au nanowires could be grown in the solution
+                    phase. In the first part of the talk, the details of the mechanism of these wires using electron
+                    microscopy as the principal supporting tool will be discussed. In the second part, methods
+                    to grow these wires on substrates and directly between pre-patterned contact pads will be
+                    discussed. This enables the direct measurement of electrical transport through these wires
+                    for the first time. An unexpected insulating behaviour in these wires with the resistivity
+                    decreasing as a function of the temperature of measurement was found. The implications
+                    of this observation will be discussed. In the third part, some intriguing results on the atomic
+                    structure of these nanowires where we find modulations of atomic planes normal to the
+                    growth directions will be presented. Finally, some interesting applications of these ultrathin
+                    metal nanowires in sensing and catalysis will be presented.
                 </p>
             </div>
         </div>

@@ -257,7 +257,7 @@ $(document).ready(function() {
                     <div class="session">
                         <span class="type">Session 2A - Special Lecture</span><br />
                         (Venue: Auditorium – Visitors’ Hostel)<br />
-                        Chairperson: P C Agrawal, Mumbai<br /><br />                    
+                        Chairperson: Subhash Chaturvedi, IISER Bhopal<br /><br />                    
                         <dl class="dl-horizontal">
                             <dt>
                                 0900 - 0940<br />
