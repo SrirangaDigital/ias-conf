@@ -19,7 +19,7 @@
                 <li>
                     <strong>Schedules and Posters</strong><br />
                     <a target="_blank" href="<?=DOWNLOAD_URL?>AMcardprn22oct2016.pdf">Programme Card</a><br />
-                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMprogposterprn22oct2016.pdf">Program</a><br />
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>AMprogposterprn22oct2016.pdf">Programme</a><br />
                     <a target="_blank" href="<?=DOWNLOAD_URL?>AMlectposterprn22oct2016.pdf">Special Lectures</a><br />
                     <a target="_blank" href="<?=DOWNLOAD_URL?>AMsympposterprn22oct2016.pdf">Symposia</a>
                 </li>
@@ -29,7 +29,7 @@
                 </li>
                 <li>
                     <strong>Logistics</strong><br />
-                    <a target="_blank" href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg">IISER Bhopal - Campus plan</a>
+                    <a target="_blank" href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg">IISER Bhopal - Campus map</a>
                 </li>
             </ul>
         </div>

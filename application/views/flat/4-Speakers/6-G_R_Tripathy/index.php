@@ -18,7 +18,7 @@
                 Email: grtripathy@gmail.com, grtripathy@iiserpune.ac.in
             </p>
             <p>
-                <strong>G R Tripathy,</strong> IISER, Pune, selected to Associateship in 2015. Tipathy’s research interests
+                <strong>G R Tripathy,</strong> IISER, Pune, selected to Associateship in 2015. Tripathy’s research interests
                 includes isotope geochemistry, tectonics-climate-weathering link, Paleo-erosion pattern
                 and Re-Os geochronology. He has received the INSA Young Scientist Award (2015)
                 and the DST-INSPIRE Faculty Award, Earth and Atmospheric Sciences (2013).

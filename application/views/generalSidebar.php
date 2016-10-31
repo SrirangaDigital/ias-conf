@@ -23,9 +23,9 @@
     <ul>
         <li><a href="<?=DOWNLOAD_URL?>Abstract_Book.pdf" target="_blank">Speaker Profiles and Abstracts</a></li>
         <li><a href="<?=DOWNLOAD_URL?>AMcardprn22oct2016.pdf" target="_blank">Programme Card</a></li>
-        <li><a href="<?=DOWNLOAD_URL?>AMprogposterprn22oct2016.pdf" target="_blank">Program</a></li>
+        <li><a href="<?=DOWNLOAD_URL?>AMprogposterprn22oct2016.pdf" target="_blank">Programme</a></li>
         <li><a href="<?=DOWNLOAD_URL?>AMlectposterprn22oct2016.pdf" target="_blank">Special Lectures</a></li>
         <li><a href="<?=DOWNLOAD_URL?>AMsympposterprn22oct2016.pdf" target="_blank">Symposia</a></li>
         <li><a href="<?=DOWNLOAD_URL?>A_Life_in_Science_Invite.pdf" target="_blank">A Life in Science - Book release programme invite</a></li>
-        <li><a href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg" target="_blank">IISER Bhopal - Campus plan</a></li>
+        <li><a href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg" target="_blank">IISER Bhopal - Campus map</a></li>
     </ul>

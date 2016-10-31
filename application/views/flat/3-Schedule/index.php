@@ -635,7 +635,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Academy Publications Committee Meeting</span><br />
-                                Visitors Hostel: Board Room, 1st Floor<br />
+                                EES Conference Room, 1st Floor, Academy Building II<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
@@ -644,7 +644,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Editorial Board Meeting – Pramana</span><br />
-                                Visitors Hostel: Auditorium<br />
+                                EES Conference Room, 1st Floor, Academy Building II<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
@@ -653,7 +653,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Meeting with Teachers</span><br />
-                                Visitors Hostel: Auditorium<br />
+                                Visitors’ Hostel: Auditorium<br />
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
