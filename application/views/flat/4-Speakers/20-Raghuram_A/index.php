@@ -26,7 +26,12 @@
 
             <div class="talk">
                 <p class="type">Session 1C - Inaugural Lecture</p>
-                <p class="title">From calculus to number theory</p>
+                <p class="title">From calculus to number theory
+                    <span class="presentation">    
+                        <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/ARaghuram.pdf">
+                        <i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>    
+                </p>
                 <p class="abstract">
                     Some classical formulae that one usually encounters in a first course in calculus will be
                     first mentioned. For example, Euler proved in 1730s that the sum of reciprocals of the

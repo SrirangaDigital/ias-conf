@@ -24,7 +24,11 @@
 
             <div class="talk">
                 <p class="type">Session 2C - Symposium on “Our Second Genome”</p>
-                <p class="title">Gut microbiome and human health</p>
+                <p class="title">Gut microbiome and human health
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SSMande.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     Our body harbours ten times more microbes than our own cells. This microbial community
                     (called microbiome) is therefore expected to have huge influence on our health and wellbeing.

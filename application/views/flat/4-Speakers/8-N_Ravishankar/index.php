@@ -27,7 +27,11 @@
 
             <div class="talk">
                 <p class="type">Session 3A - Inaugural Lecture</p>
-                <p class="title">Intriguing structure and transport behaviour of ultrathin single crystalline gold nanowires</p>
+                <p class="title">Intriguing structure and transport behaviour of<br /> ultrathin single crystalline gold nanowires
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/NRavishankar.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     Growing anisotropic nanostructures of high-symmetry materials is a challenging task
                     owing to the symmetry-breaking that is required. We have developed a simple wet chemical

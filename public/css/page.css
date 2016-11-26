@@ -876,3 +876,7 @@ button.toggle-button{
     font-weight: 300;
     line-height: 50px;
  }
+ .presentation{
+  float: right;
+  font-size: 0.8em;
+ }

@@ -36,7 +36,12 @@
 
             <div class="talk">
                 <p class="type">Session 2E - Public Lecture</p>
-                <p class="title">Importance of the Vindhya Basin in the prehistory of the Indian subcontinent</p>
+                <p class="title">Importance of the Vindhya Basin in the prehistory of the Indian subcontinent
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/RKorisettar.pdf">
+                    <i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     The Indian subcontinent has witnessed two major phases of human expansion out of Africa
                     during the Pleistocene (during the last 2 million years). These two major events have been

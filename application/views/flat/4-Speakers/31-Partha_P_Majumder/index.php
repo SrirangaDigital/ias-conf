@@ -26,7 +26,12 @@
 
             <div class="talk">
                 <p class="type">Session 2C - Symposium “Our Second Genome”</p>
-                <p class="title">An overview of our second genome</p>
+                <p class="title">An overview of our second genome
+                    <span class="presentation">
+                        <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PPMjumder.pdf">
+                        <i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>    
+                </p>
                 <p class="abstract">
                     Only about 10% of cells associated with a human body are human cells; the remaining
                     90% are cells of microorganisms. In 2001, Joshua Lederberg coined the term microbiome

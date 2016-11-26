@@ -26,7 +26,11 @@
 
             <div class="talk">
                 <p class="type">Session 1B - Inaugural Lecture</p>
-                <p class="title">Neutrino oscillation parameters: Present status and future roadmap</p>
+                <p class="title">Neutrino oscillation parameters: Present status and future roadmap
+                <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SBAgarwalla.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                </span>
+                </p>
                 <p class="abstract">
                     Marvelous world-class experiments involving neutrinos from the Sun, the Earth’s atmosphere,
                     nuclear reactors and accelerators have firmly established neutrino flavour oscillations.

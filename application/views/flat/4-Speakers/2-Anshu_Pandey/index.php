@@ -25,7 +25,11 @@
 
             <div class="talk">
                 <p class="type">Session 2D - Inaugural Lectures</p>
-                <p class="title">Chemistry with bigger atoms</p>
+                <p class="title">Chemistry with bigger atoms
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/APandey.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     The formation of charge transfer states in a binary quantum dot (QD) mixture will be
                     demonstrated. Charge is observed to reside in quantum confined states of one of the participating

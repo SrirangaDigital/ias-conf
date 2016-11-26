@@ -25,7 +25,12 @@
 
             <div class="talk">
                 <p class="type">Session 2B - Inaugural Lecture</p>
-                <p class="title">Recognition, sensing and separation of anions</p>
+                <p class="title">Recognition, sensing and separation of anions
+                    <span class="presentation">
+                        <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PGhosh.pdf">
+                        <i class="fa fa-paperclip"></i> View Presentation</a>                        
+                    </span>
+                </p>
                 <p class="abstract">
                     Anion recognition by synthetic receptors has received increasing attention for its importance
                     in environment, industrial and health-related issues. Thus, the fundamental chemistry

@@ -34,7 +34,11 @@
 
             <div class="talk">
                 <p class="type">Session 3B - Inaugural Lecture</p>
-                <p class="title">Low temperature scanning tunneling spectroscopy</p>
+                <p class="title">Low temperature scanning tunneling spectroscopy
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PRaychaudhuri.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     Over the last two decades, low temperature scanning tunneling spectroscopy has emerged
                     as one of the most powerful tools to study electronic properties of solids at low temperature,

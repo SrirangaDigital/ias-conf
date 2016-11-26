@@ -20,12 +20,16 @@
                 <strong>Tirthankar Bhattacharyya,</strong> Department of Mathematics, IISc, Bengaluru, elected to Fellowship
                 in 2016. Bhattacharyya works in functional analysis. He specializes in Hilbert
                 space operator theory and in its use in studying holomorphic functions of several complex
-                variables.
+                variables.<br /><br />
             </p>
 
             <div class="talk">
                 <p class="type">Session 3B - Inaugural Lecture</p>
-                <p class="title">What do analytic functions look like?</p>
+                <p class="title">What do analytic functions look like?
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/TBhattacharyya.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     The Schur class of functions consists of holomorphic functions from the open unit disk to
                     the closed unit disk. Schur studied this class in 1918. A function from the Schur class

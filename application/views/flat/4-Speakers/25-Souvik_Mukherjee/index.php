@@ -21,10 +21,14 @@
                 molecular evolution of innate immunity genes in humans He has worked in the International
                 Cancer Genome Consortium-India Project on Oral Cancer.
             </p>
-
+            <br />
             <div class="talk">
                 <p class="type">Session 2C - Symposium “Our Second Genome”</p>
-                <p class="title">The microbiome in skin health and disease</p>
+                <p class="title">The microbiome in skin health and disease
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SMukherjee.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     The skin is the largest organ of the human body. The composition and abundance of the
                     skin commensal microbiome have direct implications in the maintenance of skin health.

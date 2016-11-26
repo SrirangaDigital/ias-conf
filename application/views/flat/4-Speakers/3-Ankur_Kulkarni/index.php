@@ -26,7 +26,12 @@
 
             <div class="talk">
                 <p class="type">Session 2B - Inaugural Lecture</p>
-                <p class="title">Towards a convex-analytic view of impossibility results in stochastic control and information theory</p>
+                <p class="title">Towards a convex-analytic view of impossibility results in<br /> stochastic control and information theory
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/AAKulkarni.pdf">
+                    <i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     A fundamental problem in stochastic control and information theory is to provide tight
                     lower bounds on the minimum cost attainable in a system. This problem is theoretically

@@ -27,7 +27,11 @@
 
             <div class="talk">
                 <p class="type">Session 2C - Symposium “Our Second Genome”</p>
-                <p class="title">The Indian human microbiome initiative</p>
+                <p class="title">The Indian human microbiome initiative
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SCMande.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     The microbial species which reside on the human body, play an important role in many
                     biological processes. A number of body parts harbor a variety of microbial species of nonhuman

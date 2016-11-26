@@ -27,7 +27,12 @@
 
             <div class="talk">
                 <p class="type">Session 1D - Walter Kohn Memorial Symposium</p>
-                <p class="title">Walter Kohn and the rise of condensed matter physics</p>
+                <p class="title">Walter Kohn and the rise of condensed matter physics
+                    <span class="presentation">
+                        <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/TVRamakrishnan.pdf">
+                        <i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>            
+                </p>
                 <p class="abstract">
                     Walter Kohn once remarked that around 1951, the great Niels Bohr had not heard of the
                     phrase solid state physics, an earlier avatar of condensed matter physics. Kohn played a

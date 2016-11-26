@@ -26,7 +26,11 @@
 
             <div class="talk">
                 <p class="type">Session 3A - Inaugural Lecture</p>
-                <p class="title">Transglycosylation by bacterial chitinases</p>
+                <p class="title">Transglycosylation by bacterial chitinases
+                    <span class="presentation">
+                    <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/ARPodile.pdf"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+                </p>
                 <p class="abstract">
                     Plants interact with a wide range of pathogens and have evolved mechanisms to recognize
                     pathogen-derived molecules to elicit induced resistance. Unlike vertebrate animals, plants
