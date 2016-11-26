@@ -79,7 +79,8 @@ $(document).ready(function() {
                             <dt>
                                 1000 - 1045<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
-                                <i class="fa fa-info-circle"></i></a></div>
+                                <i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ram Ramaswamy</span><br />
@@ -125,7 +126,10 @@ $(document).ready(function() {
                             <dt>
                                 1225 - 1245<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sanjib_Agarwalla">
-                                <i class="fa fa-info-circle"></i></a></div>
+                                <i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SBAgarwalla.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Sanjib K Agarwalla,</span><br />
@@ -161,7 +165,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1425 - 1445<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Raghuram_A"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Raghuram_A"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/ARaghuram.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">A Raghuram</span><br />
@@ -185,7 +192,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1530<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/TVRamakrishnan.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">T V Ramakrishnan</span><br />
@@ -277,7 +287,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0940 - 1000<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pradyut_Ghosh"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pradyut_Ghosh"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PGhosh.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Pradyut Ghosh</span><br />
@@ -288,7 +301,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1005 - 1025<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ankur_Kulkarni"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ankur_Kulkarni"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/AAKulkarni.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ankur A Kulkarni</span><br />
@@ -311,7 +327,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1050<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Partha_P_Majumder"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Partha_P_Majumder"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PPMjumder.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Partha P Majumder</span><br />
@@ -323,7 +342,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1110<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sharmila_Mande"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sharmila_Mande"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SSMande.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Sharmila S Mande</span><br />
@@ -346,7 +368,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1210<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Souvik_Mukherjee"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Souvik_Mukherjee"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SMukherjee.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Souvik Mukherjee</span><br />
@@ -358,7 +383,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1240<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Shekhar_Mande"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Shekhar_Mande"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SCMande.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Shekhar C Mande</span><br />
@@ -417,7 +445,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1515 - 1535<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Anshu_Pandey"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Anshu_Pandey"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/APandey.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Anshu Pandey</span><br />
@@ -461,7 +492,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1800 - 1900<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ravi_Korisettar"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ravi_Korisettar"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/RKorisettar.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ravi Korisettar</span><br />
@@ -514,7 +548,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0925 - 0945<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Appa_Rao_Podile"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Appa_Rao_Podile"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/ARPodile.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Appa Rao Podile</span><br />
@@ -525,7 +562,10 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 0950 - 1010<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/N_Ravishankar"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/N_Ravishankar"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/NRavishankar.pdf">
+                                <i class="fa fa-paperclip"></i></a>
+                                </div>
                             </dt>
                             <dd>
                                 <span class="speaker">N Ravishankar</span><br />
@@ -559,7 +599,9 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1100 - 1120<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/TBhattacharyya.pdf">
+                                <i class="fa fa-paperclip"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Tirthankar Bhattacharyya</span><br />
@@ -570,7 +612,9 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 1125 - 1145<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri"><i class="fa fa-info-circle"></i></a>&nbsp;
+                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PRaychaudhuri.pdf">
+                                <i class="fa fa-paperclip"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">Pratap Raychaudhuri</span><br />
