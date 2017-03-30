@@ -24,6 +24,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="<?=PUBLIC_URL?>js/lightbox.js"></script>
+        <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
  
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -42,6 +43,7 @@
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css">
     <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -70,7 +72,9 @@
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#speakers">Speakers</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>
+                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>                    
+                    <li><a>·</a></li>
+                    <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#information">Info for Participants</a></li>
                     <li><a>·</a></li>

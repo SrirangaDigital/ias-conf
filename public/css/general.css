@@ -341,3 +341,13 @@ a {
 .figure-caption{
 	font-weight: bold;	
 }
+p.img-small img{
+  display: inline;
+  margin: 0;
+  float: left;
+}
+#viewimages{
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
